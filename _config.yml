@@ -1,17 +1,13 @@
 # External gems
 gems:
- # - jekyll-archives # Sorry, not GitHub pages friendly!
   - jekyll-sitemap
 
 exclude:
   - "/vendor/"
 
 # Site settings
-title: Neat Whiskey
-subtitle: A base theme built on Bourbon and Neat
-email: neil@eyedivision.com
-name: Neil C Smith
-description: A base theme built on Bourbon and Neat
+title: Fete Day
+subtitle: <strong>Creative production</strong> and <strong>heritage</strong>
 # Base URL of site (i.e. /blog). It should always start with a slash,
 # and never end with a slash. Set it to a blank value if hosting at the
 # root of your server.
@@ -30,9 +26,9 @@ permalink: pretty
 
 # Collections Example
 collections:
-    things:
+    projects:
         output: true
-        permalink: /things/:path/
+        permalink: /projects/:path/
 
 
 # Defaults Example
@@ -40,13 +36,10 @@ defaults:
     -
         scope:
             path: ""
-            type: "things"
+            type: "projects"
         values:
             layout: "page"
             
-# Disqus comments
-# disqus_shortname:
-
 # Google analytics
 # ga_tracking_id: "UA-XXXX-1"
 
@@ -95,13 +88,6 @@ social:
     desc: Connect with us on LinkedIn
     share: true
 
-  - name: Google+
-    icon: google-plus
-    username: 
-    url: 
-    desc: Add me to your Circles
-    share: true
-
   - name: YouTube
     icon: youtube
     username: 
@@ -123,34 +109,6 @@ social:
     desc: Follow me on Pinterest
     share: true
 
-  - name: SoundCloud
-    icon: soundcloud
-    username: 
-    url: 
-    desc: Follow me on SoundCloud
-    share: false
-
-  - name: Tumblr
-    icon: tumblr
-    username: 
-    url: 
-    desc: Follow me on Tumblr
-    share: false
-
-  - name: Steam
-    icon: steam
-    username: 
-    url: 
-    desc: Friend me on Steam
-    share: false
-
-  - name: Dribbble
-    icon: dribbble
-    username: 
-    url: 
-    desc: Follow me on Dribble
-    share: false
-
   - name: Vimeo
     icon: vimeo-square
     username: 
@@ -158,19 +116,6 @@ social:
     desc: Follow me on Vimeo
     share: false
 
-  - name: Vine
-    icon: vine
-    username: 
-    url: 
-    desc: Follow me on Vine
-    share: false
-
-  - name: Reddit
-    icon: reddit
-    username:
-    url:
-    desc: Share to Reddit
-    share: true
 
 # Social sharing protocols
 # These are for automatically generating sharing metadata for FB and Twitter

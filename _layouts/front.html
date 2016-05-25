@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+
+  {% include head.html %}
+
+  {% assign section = page.url | split: '/' %}
+  
+  <body class="{% if section[1] %}{{section[1]}}{% else %}front{% endif %}">
+
+    {% include header.html %}
+
+    <div class="page-content">
+        {{ content }}
+    </div>
+
+  </body>
+
+</html>

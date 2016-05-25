@@ -2,9 +2,6 @@
   "use strict"; // Start of use strict
   $(document).ready(function() {
 
-    // Syntax highlighting
-    hljs.initHighlightingOnLoad();
-
     // Header
     var menuToggle = $('#js-mobile-menu').unbind();
     $('#js-navigation-menu').removeClass("show");
