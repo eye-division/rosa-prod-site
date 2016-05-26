@@ -4,23 +4,50 @@ title: "Projects"
 permalink: /projects/
 ---
 
+<section class="project-intro editable">
+  <p>A creative production company producing arts, cultural and heritage projects across the UK.
+    Fete Day works with artists, production teams, historians and scientists to bring to life
+    outstanding and innovative projects –  festivals, outdoor performances, exhibitions,
+    media projects and engagement.</p>
+</section>
 
+<section class="project-news editable">
+  <h2>Latest news</h2>
+  <p>Exciting projects in stunning venues. BBC Lincoln 16 includes both a civic
+    commemoration outdoor event on the 100th anniversary of the Battle of the Somme at
+    Lincoln Castle, and a newly commissioned outdoor performance Green Fields Beyond,
+    with processions and large scale community performance in central Lincoln on 15th and 16th July 2016.
+  </p>
+  <p>
+    At Oxford Castle we are displaying the outstanding work of a group of young volunteers
+    who have taken part in six months of research and photographic skills training to 
+    produce the outdoor exhibition Through the Lens.
+  </p>
+  <p>
+    Fete Day is also supporting the Story Museum, Oxford with the production of Alice’s Day on 4 July 2016
+  </p>
+</section>
+
+<section class="project-current editable">
+  <h2>Current projects</h2>
+  <p>Text to follow</p>
+</section>
 
 {% if false %}
 <ul class="posts-list">
   {% assign projects = site.projects | sort: 'project_date' | reverse %}  
   {% for project in projects %}
-    <li>
-      <strong>
-        <a href="{{ project.url | prepend: site.baseurl }}">{{ project.title }}</a>
-      </strong>
-      {% if project.project_date %}
-        <span class="post-date">- {{ thing.thing_date | date: '%B %Y' }}</span>
-      {% endif %}
-      {% if project.description %}
-        <br><span class="post-description">{{ thing.description }}</span>
-      {% endif %}
-    </li>
+  <li>
+    <strong>
+      <a href="{{ project.url | prepend: site.baseurl }}">{{ project.title }}</a>
+    </strong>
+    {% if project.project_date %}
+    <span class="post-date">- {{ thing.thing_date | date: '%B %Y' }}</span>
+    {% endif %}
+    {% if project.description %}
+    <br><span class="post-description">{{ thing.description }}</span>
+    {% endif %}
+  </li>
   {% endfor %}
 </ul>
 {% endif %}

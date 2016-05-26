@@ -13,9 +13,9 @@ subtitle: <strong>Creative production</strong> and <strong>heritage</strong>
 # root of your server.
 baseurl: ""
 # the base hostname & protocol for your site
-url: "http://www.example.com"
-cover: "/assets/header_image.jpg"
+url: "http://www.feteday.co.uk"
 logo: "/assets/logo.png"
+email: fetedaycontact@gmail.com
 
 # Build settings
 markdown: kramdown
@@ -38,7 +38,7 @@ defaults:
             path: ""
             type: "projects"
         values:
-            layout: "page"
+            layout: "project"
             
 # Google analytics
 # ga_tracking_id: "UA-XXXX-1"
