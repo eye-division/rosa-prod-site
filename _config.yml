@@ -63,7 +63,7 @@ social:
   - name: Twitter
     icon: twitter
     username: EyeDivision
-    url: https://twitter.com/EyeDivision
+    url:
     desc: Follow us on Twitter
     share: true
 
