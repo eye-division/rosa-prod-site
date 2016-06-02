@@ -83,12 +83,12 @@ code {
   }
   .logo {
     float: left;
-    height: 4em;
+    /*height: 4em;*/
     @include media ($tablet) {
       padding-left: $em-base;
     }
     img {
-      max-height: 3.5em;
+      max-height: 2.75em;
       margin-top: 0.25em;
       padding-right: 1em;
     }
@@ -98,7 +98,7 @@ code {
   }
   nav {
     float: none;
-    padding: 1.25em 0;
+    padding-top: 1em;
     @include media ($tablet) {
       float: right;
       line-height: 1.5em;
