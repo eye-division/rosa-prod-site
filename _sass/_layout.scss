@@ -385,7 +385,7 @@ code {
   padding-top: 1em;
 }
 
-.team-member, .team-associate {
+.team-member {
   clear: both;
   img {
     margin: 20px auto;
@@ -429,7 +429,7 @@ code {
     bottom: 0;
     h1 {
       @include outer-container;
-      padding: 10px 20px;
+      padding: 0 20px;
       margin-bottom: 0;
       background-color: rgba(0,0,0,0.5);
       color: $white;
