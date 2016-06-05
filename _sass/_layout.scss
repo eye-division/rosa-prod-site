@@ -404,6 +404,17 @@ code {
   }
 }
 
+/*
+ * Contact page
+ */
+
+.contact {
+  .address {
+    margin: 0.5em 0;
+    border-bottom: 1px solid $light-gray;
+  }
+}
+
 
 /*
  * Temporary header images
