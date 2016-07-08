@@ -3,164 +3,100 @@ layout: page
 title: "Projects"
 permalink: /projects/
 ---
-
-{% if false %}
 <section class="project-intro editable">
-  <p>A creative production company producing arts, cultural and heritage projects across the UK.
-    Fete Day works with artists, production teams, historians and scientists to bring to life
-    outstanding and innovative projects –  festivals, outdoor performances, exhibitions,
-    media projects and engagement.</p>
+  <p>Fete Day is a creative production company producing arts, cultural and heritage projects across the UK.</p>
 </section>
-{% endif %}
 
-{% if false %}
-<section class="project-news editable">
-  <h2>Latest news</h2>
-  <p>Exciting projects in stunning venues. BBC Lincoln 16 includes both a civic
-    commemoration outdoor event on the 100th anniversary of the Battle of the Somme at
-    Lincoln Castle, and a newly commissioned outdoor performance Green Fields Beyond,
-    with processions and large scale community performance in central Lincoln on 15th and 16th July 2016.
-  </p>
-  <p>
-    At Oxford Castle we are displaying the outstanding work of a group of young volunteers
-    who have taken part in six months of research and photographic skills training to 
-    produce the outdoor exhibition Through the Lens.
-  </p>
-  <p>
-    Fete Day is also supporting the Story Museum, Oxford with the production of Alice’s Day on 4 July 2016
-  </p>
-</section>
-{% endif %}
+{% assign current_highlighted = site.projects | where: "list",true | where:"past",false | where:"highlight",true | sort: "project_date" %}
+{% assign current = site.projects | where: "list",true | where:"past",false | where:"highlight",false | sort: "project_date" %}
+{% assign past_highlighted = site.projects | where: "list",true | where:"past",true | where:"highlight",true | sort: "project_date" %}
+{% assign past = site.projects | where: "list",true | where:"past",true | where:"highlight",false | sort: "project_date" %}
 
+{% if current or current_highlighted %}
 <section class="projects-current">
   <h2>Current projects</h2>
 
-  <section class="project">
-    <h3 class="project-header editable">BBC Lincoln 16 - Green Fields Beyond</h3>
-    <div class="project-date editable">July 2016 - 
-      <a href="http://www.bbc.co.uk/showsandtours/shows/lincoln16_july16#apply-form" target="_blank" title="Tickets">Free tickets</a></div>
-    <img class="project-image editable" width=600 height=400 src="/assets/green-fields.jpg" alt="" />
-    <div class="project-description editable">
-      <p>
-        On Friday 15 and Saturday 16 July 2016 Lincoln plays host to two days of outdoor
-        arts events to mark the 100th anniversary of the First World War. Working with 
-        BBC Radio Lincolnshire we are producing professionally-led mass participation live 
-        performances in Lincoln to commemorate the anniversary of the landmark invention 
-        of the tank. Alongside the main events there is a programme of heritage talks and 
-        activities.
-      </p>
-      <p>
-        The large scale outdoor arts event will be organised by the same team
-        behind the award winning Lipdub Lincoln Project of 2013, when BBC Radio Lincolnshire
-        brought thousands of participants onto the streets of Lincoln for a highly acclaimed 
-        public arts happening. Supported by the BBC, Arts Council England and the Heritage Lottery Fund.
-      </p>
-      <p>
-        <a href="http://www.lincoln16greenfieldsbeyond.com/" title="Green Fields website" target="_blank">http://www.lincoln16greenfieldsbeyond.com/</a><br>
-        <a href="https://www.facebook.com/LincolnLipDub/" title="LincolnLipDub" target="_blank">https://www.facebook.com/LincolnLipDub/</a>
-      </p>
-    </div>
+  {% for project in current_highlighted %}
+  <section class="project highlighted">
+    <a href="{{project.url}}">
+      <h3 class="project-header">{{project.title}}</h3>
+      <div class="project-date">{% include dates.html from=project.project_date to=project.project_to_date %}</div>
+      <div class="project-image">
+        {% if project.main_image_path %}
+        {% include img.html src=project.main_image_path width=400 height=300 %}
+        {% else %}
+        {% include img.html src="/siteicon.png" width=400 height=300 %}
+        {% endif %}
+      </div>
+      <div class="project-description">
+        {{project.description}}
+      </div>
+    </a>
   </section>
-  
-  <section class="project">
-    <h3 class="project-header editable">Through the Lens: Oxfordshire and the First World War</h3>
-    <div class="project-date editable">May-July 2016</div>
-    <img class="project-image editable" width=600 height=400 src="/assets/through-the-lens.jpg" alt="" />
-    <div class="project-description editable">
-      <p>
-        <em>An Exhibition exploring life in Oxfordshire during the First World War as
-          seen through the eyes of young people living in the county today.</em>
-      </p>
-      <p> A major outdoor exhibition at the Oxford Castle, the project is the
-        result of a 6 month collaboration between local young people, and heritage
-        and media professionals. Supported by the Heritage Lottery Fund. Partners
-        include Museum of Oxford, University of Oxford, Soldiers of Oxfordshire
-        and 66 Men of Grandpont.</p>
-      <p>
-        <a href="https://www.facebook.com/OxfordImagesofWW1/" title="Oxford Images of WW1" target="_blank">https://www.facebook.com/OxfordImagesofWW1/</a><br>
-        <a href="http://fetedaythings.tumblr.com" target="_blank">http://fetedaythings.tumblr.com</a>
-      </p>
-    </div>
-  </section>
-</section>
+  {% endfor %}
 
+  {% for project in current %}
+  <section class="project">
+    <a href="{{project.url}}">
+      <h3 class="project-header">{{project.title}}</h3>
+      <div class="project-date">{% include dates.html from=project.project_date to=project.project_to_date %}</div>
+      <div class="project-image">
+        {% if project.main_image_path %}
+        {% include img.html src=project.main_image_path width=400 height=300 %}
+        {% else %}
+        {% include img.html src="/siteicon.png" width=400 height=300 %}
+        {% endif %}
+      </div>
+      <div class="project-description">
+        {{project.description}}
+      </div>
+    </a>
+  </section>
+  {% endfor %}
+</section>
+{% endif %}
+
+{% if past or past_highlighted %}
 <section class="projects-past">
   <h2>Past projects</h2>
 
-  <section class="project">
-    <h3 class="project-header editable">Alice's Day</h3>
-    <div class="project-date editable">July 2015</div>
-    <img class="project-image editable" width=600 height=400 src="/assets/alices-day.jpg" alt="" />
-    <div class="project-description editable">
-      <p>
-        Alice’s Day is a city wide celebration of Oxford’s links with Charles Dodgson 
-        and the Alice in Wonderland story.  Working for the Story Museum we supported 
-        the delivery of creative events throughout the city.
-      </p>
-      <p>
-        <a href="http://www.storymuseum.org.uk" title="Story Museum" target="_blank">http://www.storymuseum.org.uk</a><br>
-        
-      </p>
-    </div>
+  {% for project in past_highlighted reversed %}
+  <section class="project highlighted">
+    <a href="{{project.url}}">
+      <h3 class="project-header">{{project.title}}</h3>
+      <div class="project-date">{% include dates.html from=project.project_date to=project.project_to_date %}</div>
+      <div class="project-image">
+        {% if project.main_image_path %}
+        {% include img.html src=project.main_image_path width=400 height=300 %}
+        {% else %}
+        {% include img.html src="/siteicon.png" width=400 height=300 %}
+        {% endif %}
+      </div>
+      <div class="project-description">
+        {{project.description}}
+      </div>
+    </a>
   </section>
+  {% endfor %}
 
+  {% for project in past reversed %}
   <section class="project">
-    <h3 class="project-header editable">Steep Hill Stories</h3>
-    <div class="project-date editable">June 2015</div>
-    <img class="project-image editable" width=600 height=400 src="/assets/steep-hill-stories.jpg" alt="" />
-    <div class="project-description editable">
-      <p>
-        As part of Lincoln’s Great Magna Carta weekend on Saturday 13 and
-        Sunday 14 June 2015, Steep Hill came alive with entertaining tales 
-        from the time of Magna Carta and its impact through the centuries and around 
-        the world. Delivered in partnership with BBC Radio Lincolnshire.
-      </p>
-    </div>
+    <a href="{{project.url}}">
+      <h3 class="project-header">{{project.title}}</h3>
+      <div class="project-date">{% include dates.html from=project.project_date to=project.project_to_date %}</div>
+      <div class="project-image">
+        {% if project.main_image_path %}
+        {% include img.html src=project.main_image_path width=400 height=300 %}
+        {% else %}
+        {% include img.html src="/siteicon.png" width=400 height=300 %}
+        {% endif %}
+      </div>
+      <div class="project-description">
+        {{project.description}}
+      </div>
+    </a>
   </section>
-
-  <section class="project">
-    <h3 class="project-header editable">Lincolnshire's Age of Scientific Discovery</h3>
-    <div class="project-date editable">2014</div>
-    <img class="project-image editable" width=600 height=400 src="/assets/lincolnshire-scientific-discovery.jpg" alt="" />
-    <div class="project-description editable">
-      <p>
-        The project focused on the life and times of Sir Isaac Newton in Grantham
-        and South Kesteven, where he was born at Woolsthorpe Manor in 1643. Fascination
-        with Sir Isaac Newton spans the world. However while his scientific and 
-        mathematical writings are known in depth, some of the history about his life 
-        and his times in Lincolnshire lies unexplored in local archives and local places.
-        This project was born out of a desire by local people to dig deeper and discover 
-        those hidden stories. Supported by the Heritage Lottery Fund.
-      </p>
-      <p>
-        <a href="http://www.newtontreeparty.co.uk" title="Newton Tree Party" target="_blank">http://www.newtontreeparty.co.uk</a><br>
-        <a href="https://www.youtube.com/watch?v=pHG7hXADXOs" target="_blank">https://www.youtube.com/watch?v=pHG7hXADXOs</a>
-      </p>
-    </div>
-  </section>
-
+  {% endfor %}
 
 </section>
-
-
-
-
-
-{% if false %}
-<ul class="posts-list">
-  {% assign projects = site.projects | sort: 'project_date' | reverse %}  
-  {% for project in projects %}
-  <li>
-    <strong>
-      <a href="{{ project.url | prepend: site.baseurl }}">{{ project.title }}</a>
-    </strong>
-    {% if project.project_date %}
-    <span class="post-date">- {{ thing.thing_date | date: '%B %Y' }}</span>
-    {% endif %}
-    {% if project.description %}
-    <br><span class="post-description">{{ thing.description }}</span>
-    {% endif %}
-  </li>
-  {% endfor %}
-</ul>
 {% endif %}
