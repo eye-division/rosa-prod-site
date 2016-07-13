@@ -49,9 +49,6 @@ code {
 *	Navigation
 */
 
-.page-content {
-  padding-bottom: 7em;
-}
 
 .navigation {
   position: fixed;
@@ -155,8 +152,11 @@ code {
 /*
 *	Body
 */
-.page-content {
+main {
 
+  display: block;
+  padding-bottom: 7em;
+    
   #content-header {
     @include outer-container;
     padding: 1em;
@@ -352,6 +352,7 @@ code {
   h3 {
     margin-bottom: 0;
   }
+  
   .project-date {
     padding-bottom: 1em;
     font-family: $heading-font-family;
