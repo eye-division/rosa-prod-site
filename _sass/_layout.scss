@@ -24,7 +24,7 @@ body {
   @include flex(none);
 }
 
-.page-content {
+main {
   @include flex(1 0 auto);
 }
 
