@@ -6,7 +6,7 @@ project_to_date: 2016-07-01T00:00:00.000Z
 list: true
 highlight: false
 past: false
-main_image_path: /uploads/through-the-lens.jpg
+main_image_path: /uploads/through-the-lens1.jpg
 video_embed: '<iframe src="https://player.vimeo.com/video/173878923?color=279b99" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> <p><a href="https://vimeo.com/173878923">Through the Lens</a> from <a href="https://vimeo.com/feteday">Fete Day</a> on <a href="https://vimeo.com">Vimeo</a>.</p>'
 images:
   - image_path:
