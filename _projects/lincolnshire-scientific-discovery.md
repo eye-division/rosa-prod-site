@@ -1,8 +1,8 @@
 ---
 title: "Lincolnshire's Age of Scientific Discovery"
 description: "A project focused on the life and times of Sir Isaac Newton in Grantham and South Kesteven, where he was born at Woolsthorpe Manor in 1643."
-project_date: 2013-10-01T00:00:00.000Z
-project_to_date: 2014-10-01T00:00:00.000Z
+project_date: 2014-10-01T00:00:00.000Z
+project_to_date:
 list: true
 highlight: false
 past: true
