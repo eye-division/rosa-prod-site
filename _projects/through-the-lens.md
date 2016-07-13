@@ -9,7 +9,11 @@ past: false
 main_image_path: /uploads/through-the-lens1.jpg
 video_embed: '<iframe src="https://player.vimeo.com/video/173878923?color=279b99" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> <p><a href="https://vimeo.com/173878923">Through the Lens</a> from <a href="https://vimeo.com/feteday">Fete Day</a> on <a href="https://vimeo.com">Vimeo</a>.</p>'
 images:
-  - image_path:
+  - image_path: /uploads/through-the-lens2.jpg
+    description:
+  - image_path: /uploads/through-the-lens3.jpg
+    description: Group at Fricourt
+  - image_path: /uploads/through-the-lens4.jpg
     description:
 ---
 _An Exhibition exploring life in Oxfordshire during the First World War as
