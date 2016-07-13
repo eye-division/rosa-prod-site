@@ -14,6 +14,9 @@ layout: default
   </header>
 
   <section id="content">
+    
+    <div class="date">{% include dates.html from=page.project_date to=page.project_to_date %}</div>
+    
     <section class="main-content {% if with_media %}with-media{% endif %}">
       {{ content }}
     </section>

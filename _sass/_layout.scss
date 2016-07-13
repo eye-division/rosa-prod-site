@@ -164,7 +164,7 @@ main {
 
   #content {
     @include outer-container;
-    padding: 1em;
+    padding: 0.25em;
   }
   /*
   *	index.html
@@ -336,7 +336,7 @@ main {
 
 .project {
   clear: both;
-  margin-bottom: 3em;
+  margin-bottom: 1.5em;
   a {
     display: block;
     @include clearfix;
@@ -354,10 +354,10 @@ main {
   }
   
   .project-date {
-    padding-bottom: 1em;
+    font-size: 1.4em;
     font-family: $heading-font-family;
     text-transform: uppercase;
-    color: $medium-gray;
+    color: $light-gray;
     text-align: right;
   }
   .project-image {
@@ -370,6 +370,8 @@ main {
     height: auto;
     box-shadow: 5px 5px 5px $light-gray;
     width: 100%;
+    margin: 0 0 1em 0;
+    max-width: 100%;
   }
   .project-description {
   }
@@ -377,13 +379,17 @@ main {
     .project-image {
       float: left;
       width: 40%;
+      line-height: 300px;
     }
 
     img {
       margin: 0;
+      display: inline;
+      vertical-align: middle;
     }
 
     .project-date {
+      padding-bottom: 1em;
       float: right;
     }
     .project-description {
@@ -458,6 +464,15 @@ main {
       }
     }
   }
+  
+  .date {
+    font-size: 1.6em;
+    font-family: $heading-font-family;
+    text-transform: uppercase;
+    color: $light-gray;
+    text-align: right;
+  }
+  
   @include media($tablet) {
     #content {
       @include clearfix;
