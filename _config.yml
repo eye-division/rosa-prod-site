@@ -24,14 +24,20 @@ paginate_path: "/page:num/"
 inter_post_navigation: false
 permalink: pretty
 
-# Collections Example
+# Image CDN
+imagecdn:
+  staging: "http://ed-fete-day-dev.imgix.net"
+  production: "http://ed-fete-day.imgix.net"
+
+
+# Collections
 collections:
     projects:
         output: true
         permalink: /projects/:path/
 
 
-# Defaults Example
+# Defaults
 defaults:
     -
         scope:
