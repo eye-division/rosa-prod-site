@@ -6,14 +6,14 @@ exclude:
   - "/vendor/"
 
 # Site settings
-title: Fete Day
-subtitle: <strong>Creative production</strong> and <strong>heritage</strong>
+title: Rosa Productions
+subtitle:
 # Base URL of site (i.e. /blog). It should always start with a slash,
 # and never end with a slash. Set it to a blank value if hosting at the
 # root of your server.
 baseurl: ""
 # the base hostname & protocol for your site
-url: "http://www.feteday.co.uk"
+url: "http://www.rosaproductions.co.uk"
 logo: "/assets/logo.png"
 email: fetedaycontact@gmail.com
 
@@ -26,8 +26,8 @@ permalink: pretty
 
 # Image CDN
 imagecdn:
-  staging: "http://ed-fete-day-dev.imgix.net"
-  production: "http://ed-fete-day.imgix.net"
+  staging: "http://ed-rosa-dev.imgix.net"
+  production: "http://ed-rosa.imgix.net"
 
 
 # Collections
