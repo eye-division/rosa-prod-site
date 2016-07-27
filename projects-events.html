@@ -1,16 +1,17 @@
 ---
 layout: page
-title: "Projects"
-permalink: /projects/
+title: "Events"
+permalink: /projects/events/
+classes: "events"
 ---
 <section class="project-intro editable">
-  <p>Fete Day is a creative production company producing arts, cultural and heritage projects across the UK.</p>
+  <p></p>
 </section>
 
-{% assign current_highlighted = site.projects | where: "list",true | where:"past",false | where:"highlight",true | sort: "project_date" %}
-{% assign current = site.projects | where: "list",true | where:"past",false | where:"highlight",false | sort: "project_date" %}
-{% assign past_highlighted = site.projects | where: "list",true | where:"past",true | where:"highlight",true | sort: "project_date" %}
-{% assign past = site.projects | where: "list",true | where:"past",true | where:"highlight",false | sort: "project_date" %}
+{% assign current_highlighted = site.projects | where: "event",true | where:"past",false | where:"highlight",true | sort: "project_date" %}
+{% assign current = site.projects | where: "event",true | where:"past",false | where:"highlight",false | sort: "project_date" %}
+{% assign past_highlighted = site.projects | where: "event",true | where:"past",true | where:"highlight",true | sort: "project_date" %}
+{% assign past = site.projects | where: "event",true | where:"past",true | where:"highlight",false | sort: "project_date" %}
 
 {% if current != empty or current_highlighted != empty %}
 <section class="projects-current">
