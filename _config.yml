@@ -7,7 +7,6 @@ exclude:
 
 # Site settings
 title: Rosa Productions
-subtitle:
 # Base URL of site (i.e. /blog). It should always start with a slash,
 # and never end with a slash. Set it to a blank value if hosting at the
 # root of your server.
@@ -45,7 +44,7 @@ defaults:
             type: "projects"
         values:
             layout: "project"
-            
+
 # Google analytics
 # ga_tracking_id: "UA-XXXX-1"
 
@@ -68,15 +67,15 @@ defaults:
 social:
   - name: Twitter
     icon: twitter
-    username: EyeDivision
-    url:
+    username: "@rosierichards"
+    url: "https://twitter.com/rosierichards"
     desc: Follow us on Twitter
     share: true
 
   - name: Facebook
     icon: facebook
-    username: eyedivision
-    url: 
+    username: "ROSA Productions"
+    url: "https://www.facebook.com/pages/ROSA-Productions/171821742900370?fref=ts"
     desc: Like us on Facebook
     share: true
 
