@@ -380,8 +380,8 @@ main {
   padding-top: 1em;
 }
 
-.projects-past {
-  border-top: 1px solid $light-gray;
+.projects-current {
+  border-bottom: 1px solid $light-gray;
 }
 
 .project {
@@ -419,7 +419,6 @@ main {
     border-radius: 5px;
     height: auto;
     box-shadow: 5px 5px 5px $light-gray;
-    width: 100%;
     margin: 0 0 1em 0;
     max-width: 100%;
   }
