@@ -19,6 +19,9 @@
       'wrapAround': true
     });
     
+    // fitvid on embed
+    $('.media').fitVids();
+    
   });
 
 })(jQuery); // End of use strict
