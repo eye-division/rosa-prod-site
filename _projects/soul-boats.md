@@ -14,7 +14,7 @@ images:
     description:
 ---
 
-##A flotilla of golden Soul Boats in Birmingham Cathedral
+###A flotilla of golden Soul Boats in Birmingham Cathedral
 
 As the final moment of celebration of Birmingham Cathedral’s 300th anniversary a
 stunning installation of over 1,500 golden boats was suspended as a flotilla high
