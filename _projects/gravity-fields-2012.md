@@ -4,7 +4,7 @@ event: true
 media: false
 highlight: false
 past: true
-description: "The second biennial Gravity Fields Festival with five days of outdoor arts, science events and heritage programme."
+description: "A unique festival creatively exploring the physical sciences through science, arts and heritage events."
 project_date: 2012-09-01T00:00:00.000Z
 project_to_date:
 main_image_path: "/uploads/gravity-fields-2012.jpg"
