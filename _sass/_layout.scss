@@ -407,11 +407,9 @@ main {
   }
 
   .project-date {
-    font-size: 1.4em;
     font-family: $heading-font-family;
     text-transform: uppercase;
     color: $light-gray;
-    text-align: right;
   }
   .project-image {
     margin: 0;
@@ -429,6 +427,7 @@ main {
   }
   @include media($mobile) {
     .project-image {
+      clear: left;
       float: left;
       width: 40%;
       line-height: 300px;
@@ -440,9 +439,18 @@ main {
       vertical-align: middle;
     }
 
+    h3 {
+      float: left;
+      width: 75%;
+    }
+    
     .project-date {
       padding-bottom: 1em;
       float: right;
+      font-size: 1.4em;
+      line-height: 1.8em;
+      text-align: right;
+      width: 25%;
     }
     .project-description {
       padding: 20px;
