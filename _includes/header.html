@@ -18,7 +18,7 @@
         {% for social in site.social %}
           {% if social.url != null %}
           <li class="nav-link social">
-            <a href="{{ social.url }}" title="{{ social.desc }}">
+            <a href="{{ social.url }}" title="{{ social.desc }}" target="_blank">
               <i class="fa fa-{{ social.icon }}"></i>
             </a>
           </li>

@@ -6,14 +6,13 @@ exclude:
   - "/vendor/"
 
 # Site settings
-title: Fete Day
-subtitle: <strong>Creative production</strong> and <strong>heritage</strong>
+title: Rosa Productions
 # Base URL of site (i.e. /blog). It should always start with a slash,
 # and never end with a slash. Set it to a blank value if hosting at the
 # root of your server.
 baseurl: ""
 # the base hostname & protocol for your site
-url: "http://www.feteday.co.uk"
+url: "http://www.rosaproductions.co.uk"
 logo: "/assets/logo.png"
 email: fetedaycontact@gmail.com
 
@@ -26,8 +25,8 @@ permalink: pretty
 
 # Image CDN
 imagecdn:
-  staging: "http://ed-fete-day-dev.imgix.net"
-  production: "http://ed-fete-day.imgix.net"
+  staging: "http://ed-rosa-dev.imgix.net"
+  production: "http://ed-rosa.imgix.net"
 
 
 # Collections
@@ -45,7 +44,7 @@ defaults:
             type: "projects"
         values:
             layout: "project"
-            
+
 # Google analytics
 # ga_tracking_id: "UA-XXXX-1"
 
@@ -68,15 +67,15 @@ defaults:
 social:
   - name: Twitter
     icon: twitter
-    username: EyeDivision
-    url:
+    username: "@rosierichards"
+    url: "https://twitter.com/rosierichards"
     desc: Follow us on Twitter
     share: true
 
   - name: Facebook
     icon: facebook
-    username: eyedivision
-    url: 
+    username: "ROSA Productions"
+    url: "https://www.facebook.com/pages/ROSA-Productions/171821742900370?fref=ts"
     desc: Like us on Facebook
     share: true
 

@@ -1,12 +1,13 @@
 ---
 title: "Steep Hill Stories"
+event: true
+media: false
+highlight: false
+past: true
 description: "As part of Lincoln’s Great Magna Carta, Steep Hill came alive with entertaining tales from the time of Magna Carta and its impact around the world."
 project_date: 2015-06-01T00:00:00.000Z
 project_to_date:
-list: true
-highlight: false
-past: true
-main_image_path: /uploads/steep-hill-stories.jpg
+main_image_path: "/uploads/steep-hill-stories.jpg"
 video_embed:
 images:
   - image_path:

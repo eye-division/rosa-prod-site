@@ -12,7 +12,7 @@ permalink: /projects/
 {% assign past_highlighted = site.projects | where: "list",true | where:"past",true | where:"highlight",true | sort: "project_date" %}
 {% assign past = site.projects | where: "list",true | where:"past",true | where:"highlight",false | sort: "project_date" %}
 
-{% if current or current_highlighted %}
+{% if current != empty or current_highlighted != empty %}
 <section class="projects-current">
   <h2>Current projects</h2>
 
@@ -56,7 +56,7 @@ permalink: /projects/
 </section>
 {% endif %}
 
-{% if past or past_highlighted %}
+{% if past != empty or past_highlighted != empty %}
 <section class="projects-past">
   <h2>Past projects</h2>
 

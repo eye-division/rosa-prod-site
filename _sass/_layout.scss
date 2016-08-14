@@ -43,6 +43,9 @@ code {
   padding: 0 3px;
 }
 
+blockquote {
+  font-style: italic;
+}
 
 
 /*
@@ -109,6 +112,7 @@ code {
     overflow: visible;
     padding: 0;
     width: 100%;
+    text-align: right;
     @include media ($tablet) {
       display: block;
       margin: 0;
@@ -119,19 +123,20 @@ code {
     }
   }
   // Nav items
-  ul li.nav-link {
+  li.nav-link {
     display: block;
     text-align: right;
     width: 100%;
     padding: 0.25em;
     @include media ($tablet) {
-      background: transparent;
+      /*background: transparent;*/
       display: inline;
       text-decoration: none;
       width: auto;
     }
-  }
-  li.nav-link {
+    &.social {
+      display: inline;
+    }
     a {
       display: inline-block;
       text-transform: uppercase;
@@ -141,7 +146,14 @@ code {
         padding-right: 1.5em;
       }
     }
+    &.social a {
+      padding-right: 0.5em;
+      @include media ($tablet) {
+        padding-right: 0.5em;
+      } 
+    }
     &:last-child a {
+      padding-right: 0;
       @include media ($tablet) {
         padding-right: 1em;
       }
@@ -156,10 +168,9 @@ main {
 
   display: block;
   padding-bottom: 7em;
-    
+
   #content-header {
     @include outer-container;
-    padding: 1em;
   }
 
   #content {
@@ -291,35 +302,77 @@ main {
 .front {
   width: 100%;
   height: 100%;
-  background-image: url("../assets/front2-sm.jpg");
-  background-position: 50%;
-  background-size: cover;
-  @include media ($tablet) {
-    background-image: url("../assets/front2-lg.jpg");
+
+  main {
+    height: 100%;
+    padding-bottom: 3em; // space for nav bar
   }
-  .site-header {
-    @include outer_container;
-    h1 {
-      display: none;
-    }
-    .subtitle {
-      float: right;
+
+  h1 {
+    display: none;
+  }
+
+  h2 {
+    a {
+      display: block;
+      color: $white;
       font-size: 1.6rem;
-      text-align: right;
       padding: 0.5em 1em;
       background-color: rgba($background-grey, 0.7);
       border: 1px solid rgba($background-grey, 0.9);
-      color: $white;
       font-family: $base-font-family;
       text-transform: uppercase;
-      max-width: 7em;
+      text-align: center;
       line-height: 1.4em;
-      @include media($mobile) {
-        font-size: 2rem;
-        margin-right: 1em;
+    }
+    @include media ($tablet) {
+      max-width: 46rem;
+      margin-left: auto;
+      margin-right: auto;
+      a {
+        max-width: 8em;
+        font-size: 2.2rem;
       }
     }
   }
+
+  .events {
+    height: 50%;
+    background-size: cover;
+    background-position: 50% 20%;
+    background-image: url("../assets/events-front-sm.jpg");
+    @include media ($tablet) {
+      float: left;
+      width: 50%;
+      height: 100%;
+      background-image: url("../assets/events-front-lg.jpg");
+      h2 a {
+        float: left;
+        margin-left: 20px;
+        text-align: left;
+      }
+    } 
+  }
+
+  .media {
+    height: 50%;
+    background-size: cover;
+    background-position: 50% 20%;
+    background-image: url("../assets/media-front-sm.jpg");
+    @include media ($tablet) {
+      float: right;
+      width: 50%;
+      height: 100%;
+      background-image: url("../assets/media-front-lg.jpg");
+      h2 a {
+        float: right;
+        margin-right: 20px;
+        text-align: right;
+      }
+    } 
+  }
+
+
 }
 
 /*
@@ -330,8 +383,8 @@ main {
   padding-top: 1em;
 }
 
-.projects-past {
-  border-top: 1px solid $light-gray;
+.projects-current {
+  border-bottom: 1px solid $light-gray;
 }
 
 .project {
@@ -352,13 +405,11 @@ main {
   h3 {
     margin-bottom: 0;
   }
-  
+
   .project-date {
-    font-size: 1.4em;
     font-family: $heading-font-family;
     text-transform: uppercase;
     color: $light-gray;
-    text-align: right;
   }
   .project-image {
     margin: 0;
@@ -369,7 +420,6 @@ main {
     border-radius: 5px;
     height: auto;
     box-shadow: 5px 5px 5px $light-gray;
-    width: 100%;
     margin: 0 0 1em 0;
     max-width: 100%;
   }
@@ -377,6 +427,7 @@ main {
   }
   @include media($mobile) {
     .project-image {
+      clear: left;
       float: left;
       width: 40%;
       line-height: 300px;
@@ -388,9 +439,18 @@ main {
       vertical-align: middle;
     }
 
+    h3 {
+      float: left;
+      width: 75%;
+    }
+    
     .project-date {
       padding-bottom: 1em;
       float: right;
+      font-size: 1.4em;
+      line-height: 1.8em;
+      text-align: right;
+      width: 25%;
     }
     .project-description {
       padding: 20px;
@@ -464,7 +524,7 @@ main {
       }
     }
   }
-  
+
   .date {
     font-size: 1.6em;
     font-family: $heading-font-family;
@@ -472,7 +532,7 @@ main {
     color: $light-gray;
     text-align: right;
   }
-  
+
   @include media($tablet) {
     #content {
       @include clearfix;
@@ -504,8 +564,36 @@ main {
 
 
 /*
- * Header images
+ * Headers
  */
+
+#content-header {
+  padding: 0;
+}
+
+#page-title {
+  padding-top: 1em;
+  h1, p {
+    @include outer-container;
+    padding: 0 20px;
+    margin-bottom: 0;
+    background-color: rgba(0,0,0,0.5);
+    color: $white;
+    font-weight: normal;
+  }
+  h1 {
+    text-transform: uppercase;
+    font-size: 1.4em;
+    @include media($mobile) {
+      font-size: 2em;
+    }
+  }
+  p {
+    font-size: 1.2em;
+    padding-bottom: 0.6em;
+  }
+}
+
 .has-cover {
   #content-header {
     width: 100%;
@@ -525,56 +613,54 @@ main {
     width: 100%;
     position: absolute;
     bottom: 0;
-    h1 {
-      @include outer-container;
-      padding: 0 20px;
-      margin-bottom: 0;
-      background-color: rgba(0,0,0,0.5);
-      color: $white;
-      font-weight: normal;
-      text-transform: uppercase;
-      font-size: 1.4em;
-      @include media($mobile) {
-        font-size: 2em;
-      }
-    }
   }
 
 }
 
-.projects {
+.projects.events {
   @extend .has-cover;
 
   #content-header {
-    background-image: url("../assets/projects-sm.jpg");
+    background-image: url("../assets/events-sm.jpg");
     @include media($tablet) {
-      background-image: url("../assets/projects-lg.jpg");
+      background-image: url("../assets/events-lg.jpg");
     }
   }
-
 }
+
+.projects.media {
+  @extend .has-cover;
+
+  #content-header {
+    background-image: url("../assets/media-sm.jpg");
+    @include media($tablet) {
+      background-image: url("../assets/media-lg.jpg");
+    }
+  }
+}
+
 
 .about {
-  @extend .has-cover;
-
-  #content-header {
-    background-image: url("../assets/about-sm.jpg");
-    @include media($tablet) {
-      background-image: url("../assets/about-lg.jpg");
-    }
-  }
+  /*  @extend .has-cover;
+  
+    #content-header {
+      background-image: url("../assets/about-sm.jpg");
+      @include media($tablet) {
+        background-image: url("../assets/about-lg.jpg");
+      }
+    }*/
 
 }
 
 .contact {
-  @extend .has-cover;
-
-  #content-header {
-    background-image: url("../assets/contact-sm.jpg");
-    @include media($tablet) {
-      background-image: url("../assets/contact-lg.jpg");
-    }
-  }
+  /*  @extend .has-cover;
+  
+    #content-header {
+      background-image: url("../assets/contact-sm.jpg");
+      @include media($tablet) {
+        background-image: url("../assets/contact-lg.jpg");
+      }
+    }*/
 
 }
 

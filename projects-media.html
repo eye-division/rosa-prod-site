@@ -1,0 +1,107 @@
+---
+layout: page
+title: "Media"
+permalink: /projects/media/
+classes: "media"
+---
+<section class="project-intro editable">
+  <p><strong>Rosa Productions</strong> produce film and video for TV, video, learning projects,
+    web and multi-platform environments. We are specialists in educational, participatory
+    and documentary filming. We produce moving images for galleries, installations and 3D experiences.</p>
+    <p>Our clients include BBC Learning, BBC Radio Lincolnshire, BBC North, the Open Futures Trust,
+      Ashmolean Museum, Craft Potters Association, Unlock Democracy and Community Services Volunteers.</p>
+</section>
+
+{% assign current_highlighted = site.projects | where: "media",true | where:"past",false | where:"highlight",true | sort: "project_date" %}
+{% assign current = site.projects | where: "media",true | where:"past",false | where:"highlight",false | sort: "project_date" %}
+{% assign past_highlighted = site.projects | where: "media",true | where:"past",true | where:"highlight",true | sort: "project_date" %}
+{% assign past = site.projects | where: "media",true | where:"past",true | where:"highlight",false | sort: "project_date" %}
+
+{% if current != empty or current_highlighted != empty %}
+<section class="projects-current">
+  <h2>Current projects</h2>
+
+  {% for project in current_highlighted %}
+  <section class="project highlighted">
+    <a href="{{project.url}}">
+      <h3 class="project-header">{{project.title}}</h3>
+      <div class="project-date">{% include dates.html from=project.project_date to=project.project_to_date %}</div>
+      <div class="project-image">
+        {% if project.main_image_path %}
+        {% include img.html src=project.main_image_path width=400 height=300 %}
+        {% else %}
+        {% include img.html src="/siteicon.png" width=400 height=300 %}
+        {% endif %}
+      </div>
+      <div class="project-description">
+        {{project.description}}
+      </div>
+    </a>
+  </section>
+  {% endfor %}
+
+  {% for project in current %}
+  <section class="project">
+    <a href="{{project.url}}">
+      <h3 class="project-header">{{project.title}}</h3>
+      <div class="project-date">{% include dates.html from=project.project_date to=project.project_to_date %}</div>
+      <div class="project-image">
+        {% if project.main_image_path %}
+        {% include img.html src=project.main_image_path width=400 height=300 %}
+        {% else %}
+        {% include img.html src="/siteicon.png" width=400 height=300 %}
+        {% endif %}
+      </div>
+      <div class="project-description">
+        {{project.description}}
+      </div>
+    </a>
+  </section>
+  {% endfor %}
+</section>
+{% endif %}
+
+{% if past != empty or past_highlighted != empty %}
+<section class="projects-past">
+  <h2>Past projects</h2>
+
+  {% for project in past_highlighted reversed %}
+  <section class="project highlighted">
+    <a href="{{project.url}}">
+      <h3 class="project-header">{{project.title}}</h3>
+      <div class="project-date">{% include dates.html from=project.project_date to=project.project_to_date %}</div>
+      <div class="project-image">
+        {% if project.main_image_path %}
+        {% include img.html src=project.main_image_path width=400 height=300 %}
+        {% else %}
+        {% include img.html src="/siteicon.png" width=400 height=300 %}
+        {% endif %}
+      </div>
+      <div class="project-description">
+        {{project.description}}
+      </div>
+    </a>
+  </section>
+  {% endfor %}
+
+  {% for project in past reversed %}
+  <section class="project">
+    <a href="{{project.url}}">
+      <h3 class="project-header">{{project.title}}</h3>
+      <div class="project-date">{% include dates.html from=project.project_date to=project.project_to_date %}</div>
+      <div class="project-image">
+        {% if project.main_image_path %}
+        {% include img.html src=project.main_image_path width=400 height=300 %}
+        {% else %}
+        {% include img.html src="/siteicon.png" width=400 height=300 %}
+        {% endif %}
+      </div>
+      <div class="project-description">
+        {{project.description}}
+      </div>
+    </a>
+  </section>
+  {% endfor %}
+
+</section>
+{% endif %}

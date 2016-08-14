@@ -1,5 +1,8 @@
-- title: "Projects"
-  href: "/projects/"
+- title: "Events"
+  href: "/projects/events/"
+
+- title: "Media"
+  href: "/projects/media/"
 
 - title: "About"
   href: "/about/"
