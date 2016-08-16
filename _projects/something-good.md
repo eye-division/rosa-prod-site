@@ -17,8 +17,6 @@ video_embed: >-
   frameborder="0" webkitallowfullscreen mozallowfullscreen
   allowfullscreen></iframe>
 images:
-  - image_path: /uploads/cathedral dawn closer.jpg
-    description: Something Good at dawn
   - image_path: /uploads/event painting plus handsworth and longbridge.jpg
     description: "Mohammed Ali's NOMAD paintings"
   - image_path: /uploads/mohammed and bishop with smartphones.jpg
