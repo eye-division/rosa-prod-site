@@ -1,6 +1,6 @@
 ---
 title: Something Good and Soul Boats
-event: true
+event: false
 media: false
 highlight: false
 past: true
@@ -31,6 +31,10 @@ images:
     description: Skryf  sand-writing the words of Birmingham
   - image_path: /uploads/soundwave 1.jpg
     description: Soundwaves from rooftops of Cathedral Square
+  - image_path: /uploads/cathedral dawn closer.jpg
+    description: Something Good at dawn
+  - image_path: /uploads/blind listener dawn.jpg
+    description: Listening to the soundscape
 ---
 
 
