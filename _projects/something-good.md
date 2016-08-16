@@ -1,6 +1,6 @@
 ---
 title: Something Good and Soul Boats
-event: false
+event: true
 media: false
 highlight: false
 past: true
