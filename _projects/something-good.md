@@ -5,7 +5,7 @@ media: false
 highlight: false
 past: true
 description: 'A summer of outdoor arts celebrating the 300th anniversary of Birmingham Cathedral, leading to an event in Cathedral Square.'
-project_date: 2015-06-01T00:00:00.000Z
+project_date: 2015-10-01T00:00:00.000Z
 project_to_date: 2015-10-31T00:00:00.000Z
 main_image_path: /uploads/something-good.jpg
 video_embed: >-
