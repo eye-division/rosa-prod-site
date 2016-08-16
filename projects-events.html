@@ -1,14 +1,10 @@
 ---
 layout: page
-title: "Events"
+title: Events
 permalink: /projects/events/
-classes: "events"
+classes: events
 ---
-<section class="project-intro editable">
-  <p><strong>Rosa Productions</strong> offers creative, management and technical production
-    services in Festivals, Events, TV, Video, Web Media (including webstreaming and webcasting)
-    and social media. We also offer specialist services to promote and market festivals and creative events.</p>
-</section>
+<section class="project-intro editable"><p><strong>Rosa Productions</strong> produces and manages outstanding festivals, &nbsp;events, TV, video and web media.&nbsp;</p></section>
 
 {% assign current_highlighted = site.projects | where: "event",true | where:"past",false | where:"highlight",true | sort: "project_date" %}
 {% assign current = site.projects | where: "event",true | where:"past",false | where:"highlight",false | sort: "project_date" %}
