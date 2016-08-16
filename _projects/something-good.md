@@ -17,8 +17,22 @@ video_embed: >-
   frameborder="0" webkitallowfullscreen mozallowfullscreen
   allowfullscreen></iframe>
 images:
-  - image_path:
-    description:
+  - image_path: /uploads/cathedral dawn closer.jpg
+    description: Something Good at dawn
+  - image_path: /uploads/event painting plus handsworth and longbridge.jpg
+    description: "Mohammed Ali's NOMAD paintings"
+  - image_path: /uploads/mohammed and bishop with smartphones.jpg
+    description: Mohammed Ali and the Bishop of Birmingham
+  - image_path: /uploads/soul-boats.jpg
+    description: Soul Boats - Jake Lever
+  - image_path: /uploads/choirboys and smartphones.jpg
+    description: Something Good on smartphones
+  - image_path: /uploads/pink scarf and phone.jpg
+    description: Something Good dawn audience
+  - image_path: /uploads/skryf and gijs.jpg
+    description: Skryf  sand-writing the words of Birmingham
+  - image_path: /uploads/soundwave 1.jpg
+    description: Soundwaves from rooftops of Cathedral Square
 ---
 
 
