@@ -15,4 +15,4 @@ images:
 ---
 
 
-Festival Curator for the Gravity Fields Festival 2016, programming science with Co-Curator Dr Harry Cliff, and producing a transforming night of outdoor arts with Cirque Bijou, PanGottic, Acrojou, External Combustion with invited European guest artists Ponten Pie and Gijs van Bon with Skryf. &nbsp;Outdoor arts co-produced with Jeremy James.
+Festival Curator for the Gravity Fields Festival 2016, programming science events with co-curator Dr Harry Cliff, and producing a transforming night of science themed outdoor arts with Cirque Bijou, PanGottic, Acrojou, External Combustion with invited European guest artists Ponten Pie and Gijs van Bon with Skryf. &nbsp;Outdoor arts co-produced with Jeremy James. Rosa Productions has developed the Gravity Fields Festival from its start in 2012 to be a national science and arts biennial themed on Sir Isaac Newton and taking place in south Lincolnshire.
