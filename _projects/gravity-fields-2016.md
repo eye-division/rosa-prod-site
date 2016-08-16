@@ -15,4 +15,4 @@ images:
 ---
 
 
-Festival Curator for the Gravity Fields Festival 2016, programming outdoor arts and science.
+Festival Curator for the Gravity Fields Festival 2016, programming science with Co-Curator Dr Harry Cliff, and producing a transforming night of outdoor arts with Cirque Bijou, PanGottic, Acrojou, External Combustion with invited European guest artists Ponten Pie and Gijs van Bon with Skryf. &nbsp;Outdoor arts co-produced with Jeremy James.
