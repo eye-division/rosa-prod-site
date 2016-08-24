@@ -8,7 +8,8 @@ description: >-
   Producer of the online video and live media event for Lipdub Lincoln, the award
   winning production commissioned by BBC Radio Lincolnshire.
 
-  The project won Radio Academy Gold Award for  Creative Innovation 2014.
+  The project was awarded Radio Academy Gold Award for  Creative Innovation
+  2014.
 project_date: 2013-06-01T00:00:00.000Z
 project_to_date: 2014-07-01T00:00:00.000Z
 main_image_path: /uploads/lip-dub-lincoln.jpg
