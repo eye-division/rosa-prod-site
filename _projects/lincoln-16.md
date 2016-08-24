@@ -1,8 +1,8 @@
 ---
-title: Lincoln 16
+title: Lincoln 16 - BBC partnership project
 event: false
 media: true
-highlight: false
+highlight: true
 past: false
 description: 'Lincoln 16 was a collaborative project with BBC Radio Lincolnshire bringing to life through broadcast, social media and events, the life and times of Lincoln in the First World War.  The media coverage ran alongside our events and arts project Green Fields Beyond'
 project_date: 2016-07-01T00:00:00.000Z
