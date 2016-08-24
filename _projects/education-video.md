@@ -10,8 +10,12 @@ project_to_date: 2017-11-01T00:00:00.000Z
 main_image_path: /uploads/uni-birmingham1.jpg
 video_embed:
 images:
-  - image_path:
-    description:
+  - image_path: /uploads/2015-07-07 17.22.45.jpg
+    description: Camera Operator  for university shoot
+  - image_path: /uploads/2015-07-08 18.02.03.jpg
+    description: Graduation
+  - image_path: /uploads/2016-04-27 14.20.48.jpg
+    description: Filming at Winterbourne House
 ---
 
 
