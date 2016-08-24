@@ -38,10 +38,12 @@ images:
 ---
 
 
-Producer Rosemary Richards worked with artistic director Orit Azaz to produce Birmingham Cathedral’s  300th anniversary arts celebrations in 2015 commissioning a multi-faith group of artists to work together to create an outdoor event in Cathedral Square and an installation in the Cathedral.  Something Good and Soul Boats involved many communities and faith groups across Birmingham.
+Producer Rosemary Richards worked with artistic director Orit Azaz to produce Birmingham Cathedral’s &nbsp;300th anniversary arts celebrations in 2015 commissioning a multi-faith group of artists to work together to create an outdoor event in Cathedral Square and an installation in the Cathedral. &nbsp;Something Good and Soul Boats involved many communities and faith groups across Birmingham.
 
-Something Good was led by artistic director Orit Aziz with composer Dan Jones, street artist Mohammed Ali, writer Mandy Rose and visual artist Jake Lever. Both events reflected the diverse and multi faith nature of the city.  In the lead up to the October events Mohammed  Ali’s Nomad tour visited Erdington, Sparkhill, Handsworth, King’s Heath and Longbridge.
+Something Good was led by artistic director Orit Aziz with composer Dan Jones, street artist Mohammed Ali, writer Mandy Rose and visual artist Jake Lever. Both events reflected the diverse and multi faith nature of the city.&nbsp; In the lead up to the October events Mohammed &nbsp;Ali’s Nomad tour visited Erdington, Sparkhill, Handsworth, King’s Heath and Longbridge.
 
 Supported by Arts Council England, Birmingham City Council and the Jerusalem Trust.
+
+[www.somethinggood300.co.uk&nbsp;](www.somethinggood300.co.uk )
 
 [www.birminghamcathedral.com/somethinggood300/](http://www.birminghamcathedral.com/somethinggood300/)
