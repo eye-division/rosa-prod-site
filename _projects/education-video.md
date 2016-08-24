@@ -22,7 +22,9 @@ images:
     description:
   - image_path: /uploads/2015-05-15 11.11.38 - copy.jpg
     description:
-  - image_path:
+  - image_path: /uploads/img_1978.jpg
+    description:
+  - image_path: /uploads/img_1979.jpg
     description:
 ---
 
