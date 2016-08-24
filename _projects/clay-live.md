@@ -4,9 +4,9 @@ event: false
 media: true
 highlight: false
 past: true
-description: 'A series of pottery talks, demonstrations and exhibitions.'
+description: "Rosa Productions filmed a series of videos with potters of international acclaim who appeared at Clay Live 2013.  The events were  a series of pottery talks, demonstrations and exhibitions organised by a consortium including The Oxford Ceramics Gallery, The Ashmolean Museum, Oxford, and supported by Margaret O'Rorke and the Craft Potters Association"
 project_date: 2013-11-01T00:00:00.000Z
-project_to_date: 2014-07-01T00:00:00.000Z
+project_to_date: 2013-12-22T00:00:00.000Z
 main_image_path: /uploads/geoffrey swindell2.jpg
 video_embed: >-
   <iframe src="https://player.vimeo.com/video/76608148" width="640" height="360"
