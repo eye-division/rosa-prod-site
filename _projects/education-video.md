@@ -1,5 +1,5 @@
 ---
-title: University Online Video Course Content
+title: University Online Courses - Video Content
 event: false
 media: true
 highlight: false
