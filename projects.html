@@ -1,11 +1,9 @@
 ---
 layout: page
-title: "Projects"
+title: Projects
 permalink: /projects/
 ---
-<section class="project-intro editable">
-  <p>Fete Day is a creative production company producing arts, cultural and heritage projects across the UK.</p>
-</section>
+<section class="project-intro editable"><p>Rosa Productions is a creative production company producing arts, cultural and media projects across the UK.</p></section>
 
 {% assign current_highlighted = site.projects | where: "list",true | where:"past",false | where:"highlight",true | sort: "project_date" %}
 {% assign current = site.projects | where: "list",true | where:"past",false | where:"highlight",false | sort: "project_date" %}
