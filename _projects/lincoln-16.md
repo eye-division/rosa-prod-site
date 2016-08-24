@@ -8,7 +8,19 @@ description: 'Lincoln 16 was a 16 day collaborative project with BBC Radio Linco
 project_date: 2016-07-01T00:00:00.000Z
 project_to_date: 2016-07-16T00:00:00.000Z
 main_image_path: /uploads/pctank16_0783.jpg
-video_embed: 'https://www.facebook.com/bbclincolnshire/videos/10153908379804403/'
+video_embed: >-
+  <iframe src="https://player.vimeo.com/video/174964631" width="640" height="360"
+  frameborder="0" webkitallowfullscreen mozallowfullscreen
+  allowfullscreen></iframe> <p><a href="https://vimeo.com/174964631">Green Fields
+  Beyond</a> from <a href="https://vimeo.com/rosaproductions">Rosa
+  Productions</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+
+  <iframe src="https://player.vimeo.com/video/174977448" width="640" height="360"
+  frameborder="0" webkitallowfullscreen mozallowfullscreen
+  allowfullscreen></iframe> <p><a href="https://vimeo.com/174977448">Green Fields
+  Beyond parade through Lincoln</a> from <a
+  href="https://vimeo.com/rosaproductions">Rosa Productions</a> on <a
+  href="https://vimeo.com">Vimeo</a>.</p>
 images:
   - image_path: /uploads/twitter.jpg
     description: Trending at 2 on twitter
