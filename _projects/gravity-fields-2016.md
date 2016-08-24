@@ -5,8 +5,8 @@ media: false
 highlight: false
 past: false
 description: >-
-  Festival Curator for the Gravity Fields Festival 2016, programming outdoor arts
-  and science.
+  Rosemary Richards is Festival Curator for the Gravity Fields Festival 2016,
+  programming outdoor arts and science.
 
   www.gravityfields.co.uk
 project_date: 2016-09-21T00:00:00.000Z
