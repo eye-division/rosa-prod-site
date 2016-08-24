@@ -10,8 +10,14 @@ project_to_date: 2016-07-16T00:00:00.000Z
 main_image_path: /uploads/pctank16_0783.jpg
 video_embed: 'https://www.facebook.com/bbclincolnshire/videos/10153908379804403/'
 images:
-  - image_path:
-    description:
+  - image_path: /uploads/twitter.jpg
+    description: Trending at 2 on twitter
+  - image_path: /uploads/pctank16_0471.jpg
+    description: BBC staff  uploading social media WW1 images
+  - image_path: /uploads/pctank16_0214.jpg
+    description: 'BBC Radio Lincolnshire presenter Melvyn Prior embedded in the cast!  As Mayor of Lincoln'
+  - image_path: /uploads/pctank16_0701.jpg
+    description: Filming of processions
 ---
 
 
