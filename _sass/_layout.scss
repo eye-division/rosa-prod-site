@@ -316,8 +316,9 @@ main {
     a {
       display: block;
       color: $white;
-      font-size: 1.6rem;
-      padding: 0.5em 1em;
+      font-size: 2rem;
+      font-weight: bold;
+      padding: 0.25em;
       background-color: rgba($background-grey, 0.7);
       border: 1px solid rgba($background-grey, 0.9);
       font-family: $base-font-family;
@@ -330,8 +331,9 @@ main {
       margin-left: auto;
       margin-right: auto;
       a {
-        max-width: 8em;
-        font-size: 2.2rem;
+        font-size: 2.4rem;
+        padding: 0.75em 2em;
+        width: 8em;
       }
     }
   }
