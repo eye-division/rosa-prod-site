@@ -1,14 +1,14 @@
 ---
 title: Lincoln 16
 event: false
-media: false
+media: true
 highlight: false
 past: false
-description:
-project_date:
-project_to_date:
-main_image_path:
-video_embed:
+description: 'Lincoln 16 was a 16 day collaborative project with BBC Radio Lincolnshire bringing to life through broadcast, social media and events, the life and times of Lincoln in the First World War.  The media coverage ran alongside our events and arts project Green Fields Beyond'
+project_date: 2016-07-01T00:00:00.000Z
+project_to_date: 2016-07-16T00:00:00.000Z
+main_image_path: /uploads/pctank16_0783.jpg
+video_embed: 'https://www.facebook.com/bbclincolnshire/videos/10153908379804403/'
 images:
   - image_path:
     description:
