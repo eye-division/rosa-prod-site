@@ -1,100 +1,15 @@
 ---
-layout: page
-title: Projects
-permalink: /projects/
 ---
-<section class="project-intro editable"><p>Rosa Productions is a creative production company producing arts, cultural and media projects across the UK.</p></section>
-
-{% assign current_highlighted = site.projects | where: "list",true | where:"past",false | where:"highlight",true | sort: "project_date" %}
-{% assign current = site.projects | where: "list",true | where:"past",false | where:"highlight",false | sort: "project_date" %}
-{% assign past_highlighted = site.projects | where: "list",true | where:"past",true | where:"highlight",true | sort: "project_date" %}
-{% assign past = site.projects | where: "list",true | where:"past",true | where:"highlight",false | sort: "project_date" %}
-
-{% if current != empty or current_highlighted != empty %}
-<section class="projects-current">
-  <h2>Current projects</h2>
-
-  {% for project in current_highlighted %}
-  <section class="project highlighted">
-    <a href="{{project.url}}">
-      <h3 class="project-header">{{project.title}}</h3>
-      <div class="project-date">{% include dates.html from=project.project_date to=project.project_to_date %}</div>
-      <div class="project-image">
-        {% if project.main_image_path %}
-        {% include img.html src=project.main_image_path width=400 height=300 %}
-        {% else %}
-        {% include img.html src="/siteicon.png" width=400 height=300 %}
-        {% endif %}
-      </div>
-      <div class="project-description">
-        {{project.description}}
-      </div>
-    </a>
-  </section>
-  {% endfor %}
-
-  {% for project in current %}
-  <section class="project">
-    <a href="{{project.url}}">
-      <h3 class="project-header">{{project.title}}</h3>
-      <div class="project-date">{% include dates.html from=project.project_date to=project.project_to_date %}</div>
-      <div class="project-image">
-        {% if project.main_image_path %}
-        {% include img.html src=project.main_image_path width=400 height=300 %}
-        {% else %}
-        {% include img.html src="/siteicon.png" width=400 height=300 %}
-        {% endif %}
-      </div>
-      <div class="project-description">
-        {{project.description}}
-      </div>
-    </a>
-  </section>
-  {% endfor %}
-</section>
-{% endif %}
-
-{% if past != empty or past_highlighted != empty %}
-<section class="projects-past">
-  <h2>Past projects</h2>
-
-  {% for project in past_highlighted reversed %}
-  <section class="project highlighted">
-    <a href="{{project.url}}">
-      <h3 class="project-header">{{project.title}}</h3>
-      <div class="project-date">{% include dates.html from=project.project_date to=project.project_to_date %}</div>
-      <div class="project-image">
-        {% if project.main_image_path %}
-        {% include img.html src=project.main_image_path width=400 height=300 %}
-        {% else %}
-        {% include img.html src="/siteicon.png" width=400 height=300 %}
-        {% endif %}
-      </div>
-      <div class="project-description">
-        {{project.description}}
-      </div>
-    </a>
-  </section>
-  {% endfor %}
-
-  {% for project in past reversed %}
-  <section class="project">
-    <a href="{{project.url}}">
-      <h3 class="project-header">{{project.title}}</h3>
-      <div class="project-date">{% include dates.html from=project.project_date to=project.project_to_date %}</div>
-      <div class="project-image">
-        {% if project.main_image_path %}
-        {% include img.html src=project.main_image_path width=400 height=300 %}
-        {% else %}
-        {% include img.html src="/siteicon.png" width=400 height=300 %}
-        {% endif %}
-      </div>
-      <div class="project-description">
-        {{project.description}}
-      </div>
-    </a>
-  </section>
-  {% endfor %}
-
-</section>
-{% endif %}
+<!DOCTYPE html>
+<html>
+    <head>
+        <link rel="canonical" href="/"/>
+        <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+        <meta http-equiv="refresh" content="0; url=/" />
+        <script>location = '/';</script>
+    </head>
+    <body>
+        <h1>Redirecting...</h1>
+        <a href="/">Click here if you are not redirected.</a>
+    </body>
+</html>
