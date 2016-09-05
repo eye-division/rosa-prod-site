@@ -444,7 +444,7 @@ main {
       float: left;
       width: 75%;
     }
-    
+
     .project-date {
       padding-bottom: 1em;
       float: right;
@@ -512,20 +512,23 @@ main {
     max-width: 100%;
     padding: 10px 0;
   }
-  .media {
-    .image-gallery {
-      img {
-        border-radius: 5px;
-        box-shadow: 5px 5px 5px $light-gray;
-        float: left;
-        margin: 5px;
-        transition: box-shadow 0.5s ease;
-      }
-      a:hover img, a:focus img {
-        box-shadow: 5px 5px 5px $highlight-color;
-      }
+
+  .image-gallery {
+    padding-top: 40px;
+    img {
+      border-radius: 5px;
+      box-shadow: 5px 5px 5px $light-gray;
+      float: left;
+      margin: 5px;
+      transition: box-shadow 0.5s ease;
+      width: 90px;
+      height: 90px;
+    }
+    a:hover img, a:focus img {
+      box-shadow: 5px 5px 5px $highlight-color;
     }
   }
+
 
   .date {
     font-size: 1.6em;
@@ -542,15 +545,23 @@ main {
 
     .with-media {
       box-sizing: border-box;
-      width: 50%;
+      width: 60%;
       float: left;
       padding-right: 20px;
     }
 
     .media {
       box-sizing: border-box;
-      width: 50%;
+      width: 40%;
       float: right;
+    }
+    
+    .image-gallery {
+      float: left;
+      img {
+        width: 120px;
+        height: 120px;
+      }
     }
 
   }
