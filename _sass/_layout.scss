@@ -327,12 +327,11 @@ main {
       line-height: 1.4em;
     }
     @include media ($tablet) {
-      max-width: 46rem;
       margin-left: auto;
       margin-right: auto;
       a {
         font-size: 2.4rem;
-        padding: 0.75em 2em;
+        padding: 0.4em 2em;
         width: 8em;
       }
     }
@@ -350,7 +349,7 @@ main {
       background-image: url("../assets/events-front-lg.jpg");
       h2 a {
         float: left;
-        margin-left: 20px;
+        margin-left: 10px;
         text-align: left;
       }
     } 
@@ -368,7 +367,7 @@ main {
       background-image: url("../assets/media-front-lg.jpg");
       h2 a {
         float: right;
-        margin-right: 20px;
+        margin-right: 10px;
         text-align: right;
       }
     } 
