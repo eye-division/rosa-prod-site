@@ -313,12 +313,14 @@ main {
   }
 
   h2 {
+    position: relative;
+    top: 70%;
     a {
       display: block;
       color: $white;
       font-size: 2rem;
       font-weight: bold;
-      padding: 0.25em;
+      padding: 0.1em;
       background-color: rgba($background-grey, 0.7);
       border: 1px solid rgba($background-grey, 0.9);
       font-family: $base-font-family;
@@ -327,12 +329,10 @@ main {
       line-height: 1.4em;
     }
     @include media ($tablet) {
-      margin-left: auto;
-      margin-right: auto;
+      top: 45%;
       a {
         font-size: 2.4rem;
         padding: 0.4em 2em;
-        width: 8em;
       }
     }
   }
@@ -349,7 +349,6 @@ main {
       background-image: url("../assets/events-front-lg.jpg");
       h2 a {
         float: left;
-        margin-left: 10px;
         text-align: left;
       }
     } 
@@ -367,7 +366,6 @@ main {
       background-image: url("../assets/media-front-lg.jpg");
       h2 a {
         float: right;
-        margin-right: 10px;
         text-align: right;
       }
     } 
