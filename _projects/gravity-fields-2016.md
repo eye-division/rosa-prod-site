@@ -5,8 +5,9 @@ media: false
 highlight: false
 past: false
 description: >-
-  Rosemary Richards is Festival Curator for the Gravity Fields Festival 2016,
-  programming outdoor arts and science.
+  Rosa Productions is Festival Curator for the Gravity Fields Festival 2016,
+  programming spectacular outdoor arts and leading science speakers and events in
+  south Lincolnshire, themed on Sir Isaac Newton's close ties with the area.
 
   www.gravityfields.co.uk
 project_date: 2016-09-21T00:00:00.000Z
