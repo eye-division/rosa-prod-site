@@ -12,7 +12,7 @@ description: >-
   www.gravityfields.co.uk
 project_date: 2016-09-21T00:00:00.000Z
 project_to_date: 2016-09-25T00:00:00.000Z
-main_image_path: /uploads/gravity-fields-2016.jpg
+main_image_path: /uploads/led-umbrellas.jpg
 video_embed: '<iframe width="560" height="315" src="https://www.youtube.com/embed/jcqnnLFIa2Y" frameborder="0" allowfullscreen></iframe>'
 images:
   - image_path:
