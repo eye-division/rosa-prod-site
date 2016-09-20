@@ -17,7 +17,24 @@ description: >-
 project_date: 2016-07-14T00:00:00.000Z
 project_to_date: 2016-07-15T00:00:00.000Z
 main_image_path: /uploads/pctank16-0670.jpg
-video_embed: '<iframe src="https://player.vimeo.com/video/174964631" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> <p><a href="https://vimeo.com/174964631">Green Fields Beyond</a> from <a href="https://vimeo.com/rosaproductions">Rosa Productions</a> on <a href="https://vimeo.com">Vimeo</a>.</p>'
+video_embed: >-
+  <iframe src="https://player.vimeo.com/video/174964631" width="640" height="360"
+  frameborder="0" webkitallowfullscreen mozallowfullscreen
+  allowfullscreen></iframe> <p><a href="https://vimeo.com/174964631">Green Fields
+  Beyond</a> from <a href="https://vimeo.com/rosaproductions">Rosa
+  Productions</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+
+
+
+
+
+  <iframe src="https://player.vimeo.com/video/174977448" width="640" height="360"
+  frameborder="0" webkitallowfullscreen mozallowfullscreen
+  allowfullscreen></iframe>
+
+  <p><a href="https://vimeo.com/174977448">Green Fields Beyond parade through
+  Lincoln</a> from <a href="https://vimeo.com/rosaproductions">Rosa
+  Productions</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 images:
   - image_path: /uploads/pctank16-0304.jpg
     description: The story follows brother and sister Nina and Tobias
