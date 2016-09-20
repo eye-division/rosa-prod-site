@@ -1,15 +1,29 @@
 ---
 title: Green Fields Beyond
-event: false
+event: true
 media: false
 highlight: false
-past: false
-description:
-project_date:
-project_to_date:
-main_image_path:
-video_embed:
+past: true
+description: >-
+  Green Fields Beyond was the highlight of Lincoln 16, a series of events looking
+  back at Lincoln in World War One.
+
+  Working with over a hundred local performers, and professional producers and
+  writers, Green Fields Beyond presented the story of the tank factories of
+  Lincoln in World War One.
+
+  Produced in partnership with BBC Radio Lincolnshire and supported by Arts
+  Council England
+project_date: 2016-07-14T00:00:00.000Z
+project_to_date: 2016-07-15T00:00:00.000Z
+main_image_path: /uploads/pctank16-0670.jpg
+video_embed: '<iframe src="https://player.vimeo.com/video/174964631" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> <p><a href="https://vimeo.com/174964631">Green Fields Beyond</a> from <a href="https://vimeo.com/rosaproductions">Rosa Productions</a> on <a href="https://vimeo.com">Vimeo</a>.</p>'
 images:
-  - image_path:
-    description:
+  - image_path: /uploads/pctank16-0304.jpg
+    description: The story follows brother and sister Nina and Tobias
 ---
+
+
+100 years since the Battle of the Somme, Green Fields Beyond presented the story of Lincoln 1916 when the women of the city worked as munitionettes making the world's first tanks, while the men went to war.
+
+Green Fields Beyond was an outdoor event and procession written by Louise Page, music by Nick Bicat and with visual design from Shademakers UK.
