@@ -2,7 +2,7 @@
 title: Lipdub Lincoln
 event: true
 media: true
-highlight: true
+highlight: false
 past: true
 description: >-
   Producer of the online video and live media event for Lipdub Lincoln, the award
