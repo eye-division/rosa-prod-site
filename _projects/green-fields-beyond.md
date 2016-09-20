@@ -21,6 +21,26 @@ video_embed: '<iframe src="https://player.vimeo.com/video/174964631" width="640"
 images:
   - image_path: /uploads/pctank16-0304.jpg
     description: The story follows brother and sister Nina and Tobias
+  - image_path: /uploads/pctank16-0431.jpg
+    description: The battles on foreign fields
+  - image_path: /uploads/pctank16-0367.jpg
+    description: The young women of the city find jobs in the tank factories
+  - image_path: /uploads/pctank16-0556.jpg
+    description: Nina arrives from rural Lincolnshire into the city
+  - image_path: /uploads/pctank16-0602.jpg
+    description: Choir and band
+  - image_path: /uploads/pctank16-0608.jpg
+    description: "Shademaker's tank"
+  - image_path: /uploads/pctank16-0736.jpg
+    description: Setting the scene down Steep Hill
+  - image_path: /uploads/pctank16-0804.jpg
+    description: High St
+  - image_path: /uploads/pctank16-0900.jpg
+    description: The calico soldiers
+  - image_path: /uploads/pctank16-0889.jpg
+    description: Soldiers and cavalry
+  - image_path:
+    description:
 ---
 
 
