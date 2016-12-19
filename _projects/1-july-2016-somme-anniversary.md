@@ -1,5 +1,5 @@
 ---
-title: 1 July 2016 Somme Anniversary
+title: Battle of the Somme Anniversary
 event: true
 media: false
 highlight: false
