@@ -4,7 +4,7 @@ event: true
 media: false
 highlight: false
 past: false
-description: "Lincoln's  Somme commemoration at dawn on 1st July 2016 was part of the national centenary anniversary events held across the country at the exact hour, 7.30am, when battle commenced one hundred years before."
+description: "Lincoln's  Somme commemoration was held in the early morning on 1st July 2016 as part of the national centenary anniversary events held across the country at the exact hour when battle commenced one hundred years before."
 project_date: 2016-07-01 00:00:00
 project_to_date: 2016-07-01 00:00:00
 main_image_path: /uploads/PC16s_ 142.jpg
