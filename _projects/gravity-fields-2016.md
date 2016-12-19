@@ -2,7 +2,7 @@
 title: Gravity Fields 2016
 event: true
 media: false
-highlight: true
+highlight: false
 past: false
 description: >-
   Rosa Productions is Festival Curator for the Gravity Fields Festival 2016,
