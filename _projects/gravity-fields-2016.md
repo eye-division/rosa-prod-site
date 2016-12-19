@@ -2,7 +2,7 @@
 title: Gravity Fields 2016
 event: true
 media: false
-highlight: false
+highlight: true
 past: false
 description: >-
   Rosa Productions is Festival Curator for the Gravity Fields Festival 2016,
@@ -10,8 +10,8 @@ description: >-
   south Lincolnshire, themed on Sir Isaac Newton's close ties with the area.
 
   www.gravityfields.co.uk
-project_date: 2016-09-21T00:00:00.000Z
-project_to_date: 2016-09-25T00:00:00.000Z
+project_date: 2016-09-21 00:00:00
+project_to_date: 2016-09-25 00:00:00
 main_image_path: /uploads/led-umbrellas.jpg
 video_embed: '<iframe width="560" height="315" src="https://www.youtube.com/embed/jcqnnLFIa2Y" frameborder="0" allowfullscreen></iframe>'
 images:
