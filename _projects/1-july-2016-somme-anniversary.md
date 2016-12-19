@@ -3,7 +3,7 @@ title: 1 July 2016 Somme Anniversary
 event: true
 media: false
 highlight: false
-past: false
+past: true
 description: "Lincoln's  Somme commemoration was held in the early morning on 1st July 2016 as part of the national centenary anniversary events held across the country at the exact hour when battle commenced one hundred years before."
 project_date: 2016-07-01 00:00:00
 project_to_date: 2016-07-01 00:00:00
