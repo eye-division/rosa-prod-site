@@ -5,17 +5,15 @@ media: false
 highlight: false
 past: true
 description: >-
-  Green Fields Beyond was the highlight of Lincoln 16, a series of events looking
-  back at Lincoln in World War One.
-
-  Working with over a hundred local performers, and professional producers and
-  writers, Green Fields Beyond presented the story of the tank factories of
-  Lincoln in World War One.
+  The highlight of Lincoln 16, a series of events looking back at Lincoln in
+  World War One.  Presented as a live professionally-led event in July 2016 and
+  event  involving  hundreds of local performers. Green Fields Beyond presents
+  the story of the tank factories of Lincoln in World War One.
 
   Produced in partnership with BBC Radio Lincolnshire and supported by Arts
   Council England
-project_date: 2016-07-14T00:00:00.000Z
-project_to_date: 2016-07-15T00:00:00.000Z
+project_date: 2016-07-14 00:00:00
+project_to_date: 2016-07-15 00:00:00
 main_image_path: /uploads/pctank16-0670.jpg
 video_embed: >-
   <iframe src="https://player.vimeo.com/video/174964631" width="640" height="360"
@@ -23,6 +21,18 @@ video_embed: >-
   allowfullscreen></iframe> <p><a href="https://vimeo.com/174964631">Green Fields
   Beyond</a> from <a href="https://vimeo.com/rosaproductions">Rosa
   Productions</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
