@@ -5,9 +5,9 @@ media: false
 highlight: false
 past: false
 description: >-
-  Rosa Productions was Festival Curator for the Gravity Fields Festival 2016,
-  programming spectacular outdoor arts and leading science speakers and events in
-  south Lincolnshire, themed on Sir Isaac Newton's close ties with the area.
+  Festival Curator for the Gravity Fields Festival 2016, programming spectacular
+  outdoor arts and leading science speakers and events in south Lincolnshire,
+  themed on Sir Isaac Newton's close ties with the area.
 
   www.gravityfields.co.uk
 project_date: 2016-09-21 00:00:00
