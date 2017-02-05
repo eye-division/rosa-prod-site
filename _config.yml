@@ -14,14 +14,14 @@ baseurl: ""
 # the base hostname & protocol for your site
 url: "http://www.rosaproductions.co.uk"
 logo: "/assets/logo.png"
-email: fetedaycontact@gmail.com
+email: admin@rosaproductions.co.uk
 
 # Build settings
 markdown: kramdown
 paginate: 5
 paginate_path: "/page:num/"
 inter_post_navigation: false
-permalink: pretty
+permalink: /posts/:title
 
 # Image CDN
 imagecdn:
@@ -34,7 +34,6 @@ collections:
     projects:
         output: true
         permalink: /projects/:path/
-
 
 # Defaults
 defaults:
