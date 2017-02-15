@@ -1,0 +1,43 @@
+---
+layout: page
+title: "News"
+permalink: /news/
+---
+
+<div class="flex-fifty">
+
+  <section class="blog">
+    <h3>Blog posts</h3>
+      {% for post in site.posts limit: 2 %}
+      <h4><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h4>
+      <p>{{ post.content | strip_html | truncatewords: 20 }} <a href="{{ post.url | prepend: site.baseurl }}">read more</a></p>
+       <div class="post-meta"><div class="post-date">{{ post.date | date: "%B %-d, %Y" }}</div></div>
+      <p></p>
+      </li>
+      {% endfor %}
+    <p><a href="/posts/">See all blog posts</a></p>
+  </section>
+
+  <section class="twitter">
+    <h3>Tweets</h3>
+    <a class="twitter-timeline" data-chrome="noheader" data-height="450" data-theme="light" data-link-color="#ed2d7e" href="https://twitter.com/rosierichards">Tweets by rosierichards</a> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+  </section>
+
+  <section class="opportunities">
+    <h3>Opportunities</h3>
+    <div class="editable">
+      We don't have any opportunities available at the moment.
+    </div>
+  </section>
+
+  <section class="get-in-touch">
+    <h3>Get in touch</h3>
+    <div class="editable">
+      Email us at <a href="mailto:admin@rosaproductions.co.uk">admin@rosaproductions.co.uk</a>
+    </div>
+  </section>
+
+</div>
+
+
+
