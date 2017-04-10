@@ -28,6 +28,8 @@ images:
     description: "Greenham Common Trust's silk banner"
   - image_path: /uploads/peace-protests-women.jpg
     description: Peace Protest silk banner
+  - image_path: /uploads/wildlife-on-common---bbowt-volunteers.jpg
+    description: Wildlife on Greenham Common
 ---
 
 
