@@ -31,7 +31,7 @@ images:
   - image_path: /uploads/wildlife-on-common---bbowt-volunteers.jpg
     description: Wildlife on Greenham Common
   - image_path: /uploads/p4060266.jpg
-    description: Castle School in Newbury created this fantastic picture to show us all how much they love Greenham Common.
+    description: The Castle School in Newbury created this fantastic picture to show us all how much they love Greenham Common.
 ---
 
 
