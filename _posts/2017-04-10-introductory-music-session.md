@@ -1,6 +1,6 @@
 ---
 title: Introductory Music Session
-main_image_path: /uploads/Launch-Party-004.JPG
+main_image_path: /uploads/greenham2.jpg
 video_embed:
 images:
   - image_path:
@@ -12,7 +12,7 @@ images:
 
 Introductory Music Sessions
 
-**Sunday 7<sup>th</sup>&nbsp;May:&nbsp;****2pm-5pm**
+**Sunday 7<sup>th</sup> May:****2pm-5pm**
 
 **St Mary's Church Hall, New Road, Greenham, RG19 8RZ**
 
