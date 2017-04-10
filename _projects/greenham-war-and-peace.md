@@ -35,7 +35,7 @@ images:
 ---
 
 
-**New information available about Production / Technical Volunteering and Singing / Acting opportunities. Please find more information below.**
+**New information available about Production/Technical Volunteering and Singing/Acting opportunities. Please find more information below.**
 
 A unique and exciting, large-scale outdoor community event will be held on Friday 8th and Saturday 9th September 2017 at Greenham Common. Internationally acclaimed artists will be involved in the event and everyone is invited to take part. Greenham: War and Peace is a professionally led event project which is inviting hundreds of people from the local community to take part.
 <br>
