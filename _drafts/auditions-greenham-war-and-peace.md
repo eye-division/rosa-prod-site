@@ -20,7 +20,7 @@ images:
 
 Performance & Singing Auditions
 
-If you would like to register for any of these auditions please email Laura Boffin to confirm your space&nbsp; [laura@rosaproductions.co.uk](mailto:laura@rosaproductions.co.uk)
+If you would like to register for these auditions please email Laura Boffin to confirm your space&nbsp; [laura@rosaproductions.co.uk](mailto:laura@rosaproductions.co.uk)
 
 Please wear comfortable clothing and bring along a bottle of water.
 
