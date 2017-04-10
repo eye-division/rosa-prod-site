@@ -10,6 +10,6 @@ images:
 
 Saturday 1st July&nbsp;
 
-Walk along Greenham Common with artist Ali Pretty and Volunteers.&nbsp;
+Join volunteers and artist Ali Pretty for a walk across Greenham Common with the ten finished silk banners. This is the perfect opportunity to take in the fresh air and to learn about 100 years of history at Greenham Common.&nbsp;
 
 More details to follow soon.
