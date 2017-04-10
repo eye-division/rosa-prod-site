@@ -24,6 +24,8 @@ images:
     description: Cold War silk banner
   - image_path: /uploads/cold-war---reagan.jpg
     description: Cold War silk banner
+  - image_path: /uploads/greenham-common-trust---grant-recipients.jpg
+    description: "Greenham Common Trust's silk banner"
 ---
 
 
