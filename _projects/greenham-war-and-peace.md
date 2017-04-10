@@ -20,6 +20,8 @@ images:
     description: Civil War on the Common
   - image_path: /uploads/banner-workshop-in-progress.JPG
     description: Volunteers working on one of the ten silk banners
+  - image_path: /uploads/cold-war---missile-launchers-1.JPG
+    description: Cold War silk banner
 ---
 
 
