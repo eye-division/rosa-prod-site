@@ -18,6 +18,8 @@ images:
     description: Street artist Mohammed Ali working with the design team
   - image_path: /uploads/battle-of-newbury---civil-war.jpg
     description: Civil War on the Common
+  - image_path: /uploads/banner-workshop-in-progress.JPG
+    description: Volunteers working on one of the ten silk banners
 ---
 
 
