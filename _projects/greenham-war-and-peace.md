@@ -26,6 +26,8 @@ images:
     description: Cold War silk banner
   - image_path: /uploads/greenham-common-trust---grant-recipients.jpg
     description: "Greenham Common Trust's silk banner"
+  - image_path: /uploads/peace-protests-women.jpg
+    description: Peace Protest silk banner
 ---
 
 
