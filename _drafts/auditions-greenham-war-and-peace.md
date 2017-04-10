@@ -32,7 +32,7 @@ Saturday 22 April:&nbsp;**10am - 4pm Audition for lead acting parts**
 
 New Greenham Arts, Greenham Business Park, 113 Lindenmuth Way, Newbury RG19 6HN
 
-Sunday 7th May:&nbsp;**10am– 1.30 Workshop style auditions – all acting parts including**
+Sunday 7th May:&nbsp;**10am– 1:30pm Workshop style auditions – all acting parts including**
 
 **lead acting and singing parts**
 
