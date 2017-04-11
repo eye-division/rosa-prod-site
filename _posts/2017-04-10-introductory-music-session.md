@@ -1,5 +1,7 @@
 ---
+layout: post
 title: Introductory Music Session
+date: 2017-4-10
 main_image_path: /uploads/greenham2.jpg
 video_embed:
 images:
@@ -12,7 +14,7 @@ images:
 
 Introductory Music Sessions
 
-**Sunday 7<sup>th</sup> May:****2pm-5pm**
+**Sunday 7<sup>th</sup> May:****2pm-5pm**
 
 **St Mary's Church Hall, New Road, Greenham, RG19 8RZ**
 
