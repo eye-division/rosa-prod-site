@@ -1,5 +1,7 @@
 ---
+layout: post
 title: 'Auditions Greenham: War and Peace'
+date: 2017-04-105
 main_image_path:
 video_embed:
 images:
