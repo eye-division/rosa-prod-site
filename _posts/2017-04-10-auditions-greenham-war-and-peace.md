@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Auditions Greenham: War and Peace'
-date: 2017-04-105
+date: 2017-04-10 00:00:00
 main_image_path:
 video_embed:
 images:
@@ -22,7 +22,7 @@ images:
 
 Performance & Singing Auditions
 
-If you would like to register for these auditions please email Laura Boffin to confirm your space&nbsp; [laura@rosaproductions.co.uk](mailto:laura@rosaproductions.co.uk)
+If you would like to register for these auditions please email Laura Boffin to confirm your space  [&#108;&#097;&#117;&#114;&#097;&#064;&#114;&#111;&#115;&#097;&#112;&#114;&#111;&#100;&#117;&#099;&#116;&#105;&#111;&#110;&#115;&#046;&#099;&#111;&#046;&#117;&#107;](&#109;&#097;&#105;&#108;&#116;&#111;:&#108;&#097;&#117;&#114;&#097;&#064;&#114;&#111;&#115;&#097;&#112;&#114;&#111;&#100;&#117;&#099;&#116;&#105;&#111;&#110;&#115;&#046;&#099;&#111;&#046;&#117;&#107;)
 
 Please wear comfortable clothing and bring along a bottle of water.
 
@@ -30,11 +30,11 @@ Please wear comfortable clothing and bring along a bottle of water.
 
 **Our main audition dates**
 
-Saturday 22 April:&nbsp;**10am - 4pm Audition for lead acting parts**
+Saturday 22 April: **10am - 4pm Audition for lead acting parts**
 
 New Greenham Arts, Greenham Business Park, 113 Lindenmuth Way, Newbury RG19 6HN
 
-Sunday 7th May:&nbsp;**10am– 1:30pm Workshop style auditions – all acting parts including**
+Sunday 7th May: **10am– 1:30pm Workshop style auditions – all acting parts including**
 
 **lead acting and singing parts**
 
