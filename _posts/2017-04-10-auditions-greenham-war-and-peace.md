@@ -2,7 +2,7 @@
 layout: post
 title: 'Auditions Greenham: War and Peace'
 date: 2017-04-10 00:00:00
-main_image_path:
+main_image_path: /uploads/greenham-banner.jpg
 video_embed:
 images:
   - image_path: /uploads/Launch-Party-027.JPG
@@ -22,7 +22,7 @@ images:
 
 Performance & Singing Auditions
 
-If you would like to register for these auditions please email Laura Boffin to confirm your space  [&#108;&#097;&#117;&#114;&#097;&#064;&#114;&#111;&#115;&#097;&#112;&#114;&#111;&#100;&#117;&#099;&#116;&#105;&#111;&#110;&#115;&#046;&#099;&#111;&#046;&#117;&#107;](&#109;&#097;&#105;&#108;&#116;&#111;:&#108;&#097;&#117;&#114;&#097;&#064;&#114;&#111;&#115;&#097;&#112;&#114;&#111;&#100;&#117;&#099;&#116;&#105;&#111;&#110;&#115;&#046;&#099;&#111;&#046;&#117;&#107;)
+If you would like to register for these auditions please email Laura Boffin to confirm your space  [laura@rosaproductions.co.uk](&#109;&#097;&#105;&#108;&#116;&#111;:&#108;&#097;&#117;&#114;&#097;&#064;&#114;&#111;&#115;&#097;&#112;&#114;&#111;&#100;&#117;&#099;&#116;&#105;&#111;&#110;&#115;&#046;&#099;&#111;&#046;&#117;&#107;)
 
 Please wear comfortable clothing and bring along a bottle of water.
 
