@@ -1,6 +1,8 @@
 ---
+layout: post
 title: Introductory Music Session
-main_image_path: /uploads/greenham2.jpg
+date: 2017-04-10 00:00:00
+main_image_path: /uploads/greenham-banner.jpg
 video_embed:
 images:
   - image_path:
@@ -12,9 +14,9 @@ images:
 
 Introductory Music Sessions
 
-**Sunday 7<sup>th</sup> May:****2pm-5pm**
+**Sunday 7<sup>th</sup> May:****2pm-5pm**
 
-**St Mary's Church Hall, New Road, Greenham, RG19 8RZ**
+**St Mary’s Church Hall, New Road, Greenham, RG19 8RZ**
 
 Music and singing will play a strong part throughout this performance and we would love as many groups and individuals to be involved as much as possible. There will be three main songs for choirs to learn for part of the main event. Music will also be involved during the preshow elements of the day so there are plenty of opportunities to get involved.
 
