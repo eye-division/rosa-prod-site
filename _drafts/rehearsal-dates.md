@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Rehearsal Dates for Greenham: War & Peace'
-date:
+date: 2017-05-16 00:00:00
 main_image_path:
 video_embed:
 images:
@@ -18,7 +18,7 @@ New Greenham Arts, Greenham Business Park, 113 Lindenmuth Way, RG19 6HN
 
 101 Outdoor Arts Creation Centre, Greenham Business Park, Unit 101, Communications Rd, RG19 6HN
 
-Saturday 20th May -- NGA Studio 2 -&nbsp; 10am-4pm -
+Saturday 20th May – NGA Studio 2 -&nbsp; 10am-4pm -
 
 Saturday 10th June – 101 Outdoor Centre Empty Unit - 10am – 4pm (entrance by red bus)
 
@@ -26,7 +26,7 @@ Sunday 11th June - NGA Auditorium - 10am-4pm
 
 Tuesday 27th June - NGA Studio 2 - &nbsp;7pm-9pm
 
-Tuesday 4th July - &nbsp;NGA Studio 2 -- 7pm-9pm
+Tuesday 4th July - &nbsp;NGA Studio 2 – 7pm-9pm
 
 Tuesday 11th July - NGA Studio 3 - 7pm-9pm
 
@@ -57,8 +57,6 @@ Thursday 7th September - Dress Rehearsal on Greenham Common site&nbsp;
 Friday 8th September - 1st Performance on Greenham Common site&nbsp;
 
 Saturday 9th September - 2nd Performance on Greenham Common site
-
-&nbsp;
 
 For more information please email Laura on [laura@rosaproductions.co.uk](javascript:void(location.href='mailto:'+String.fromCharCode(108,97,117,114,97,64,114,111,115,97,112,114,111,100,117,99,116,105,111,110,115,46,99,111,46,117,107)))
 
