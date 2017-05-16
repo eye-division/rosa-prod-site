@@ -103,7 +103,7 @@ We are offering media and heritage training from leading professionals linked wi
 
 **PROCESSIONS**
 
-Schools and community groups can take part in processions of banners and we can o er half day workshops to make processional images in June/July.
+Schools and community groups can take part in processions of banners and we can offering half day workshops to make processional images in June/July.
 
 **TECHNICAL VOLUNTEERS/STEWARDS**
 
@@ -111,7 +111,7 @@ If you are interested in stage management, stewarding technical builds, props an
 
 **VOLUNTEER SINGERS**
 
-We are o ering the opportunity to join a mass choir as part of the event. Rehearsals will be led by Newbury Choral Society and Incantata and all singers are welcome to join in.&nbsp;
+We are offering the opportunity to join a mass choir as part of the event. Rehearsals will be led by Newbury Choral Society and Incantata and all singers are welcome to join in.&nbsp;
 
 &nbsp;
 
