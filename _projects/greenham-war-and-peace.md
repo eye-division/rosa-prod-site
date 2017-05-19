@@ -37,52 +37,82 @@ images:
 
 **New information available about Production/Technical Volunteering and Singing/Acting opportunities. Please find more information below.**
 
-A unique and exciting, large-scale outdoor community event will be held on Friday 8th and Saturday 9th September 2017 at Greenham Common. Internationally acclaimed artists will be involved in the event and everyone is invited to take part. Greenham: War and Peace is a professionally led event project which is inviting hundreds of people from the local community to take part.
-<br>
-<br>The event will portray 100 years of history of the Common and the dramatic moments of war and peace that form part of that history. It marks the 20th anniversary of the Greenham Common Trust which has distributed over &pound;35 million to local good causes since 1997
+Greenham: War and Peace is a large scale outdoor event celebrating 20 years of the Greenham Trust. On the evenings of the 8th and 9th September 2017 the story of Greenham Common will come alive through an amazing spectacle of performance, songs, light projections and live art. We are expecting large audiences with some thousands on each night and the event will be filmed for online broadcast and covered by radio and TV. The event will portray 100 years of history of the Common and the dramatic moments of war and peace that form part of that history. It marks the 20th anniversary of the Greenham Common Trust which has distributed over &pound;35 million to local good causes since 1997
+
+**PERFORMERS, PROCESSIONS, CHOIR, VOLUNTEERS, STEWARDS, MEDIA**
+
+We are looking for volunteers to work and perform alongside a professional cast and production team. This is a fantastic chance to get involved in a unique event led by world class artists and a professional production team. This opportunity is free and open to all levels of experience – we just need you to be enthusiastic and committed.&nbsp;
+
+**VOLUNTEER PERFORMERS**
+
+We are looking for a large ensemble of community performers to portray various roles from the common’s history – from 1940s US Airforce sta , women glider factory workers, peace protestors and the police.... and there are opportunities for school age children to take part in the 1930’s Greenham School.
+
+Please contact Laura Boffin on [laura@rosaproductions.co.uk](javascript:void(location.href='mailto:'+String.fromCharCode(108,97,117,114,97,64,114,111,115,97,112,114,111,100,117,99,116,105,111,110,115,46,99,111,46,117,107))) for more information.
+
+**Community Performers Summer Rehearsals**
+
+New Greenham Arts, Greenham Business Park, 113 Lindenmuth Way, RG19 6HN
+
+101 Outdoor Arts Creation Centre, Greenham Business Park, Unit 101, Communications Rd, RG19 6HN
+
+Saturday 20th May -- NGA Studio 2 -&nbsp; 10am-4pm -
+
+Saturday 10th June – 101 Outdoor Centre Empty Unit - 10am – 4pm (entrance by red bus)
+
+Sunday 11th June - NGA Auditorium - 10am-4pm
+
+Tuesday 27th June - NGA Studio 2 - &nbsp;7pm-9pm
+
+Tuesday 4th July - &nbsp;NGA Studio 2 -- 7pm-9pm
+
+Tuesday 11th July - NGA Studio 3 - 7pm-9pm
+
+Saturday 15th July - NGA Auditorium- 10am-4pm
+
+Sunday 16th July - NGA Auditorium - 10am-4pm
+
+**Performer September Rehearsals**
+
+Greenham Common –101 Outdoor Arts Creation Centre, Greenham Business Park, Unit 101, Communications Rd, RG19 6HN & on Event Site on Greenham Common
+
+All performers and Choir will have intensive rehearsals from 1<sup>st</sup>&nbsp;to 7<sup>th</sup>&nbsp;September with shows in the evening on Friday 8<sup>th</sup>&nbsp;and Saturday 9<sup>th</sup>&nbsp;September
+
+Friday 1st September –Evening – 6.30pm to 9pm walk through on Common event site
+
+Saturday 2nd September - Full Day (children will have specific call times tbc) (Choir PM)
+
+Sunday 3rd September - Full Day (children will have specific call times tbc) (Choir PM)
+
+Monday 4th September – Evening (some of cast and possibly choir tbc)
+
+Tuesday 5th September – Evening (some of cast and possibly choir tbc)
+
+Wednesday 6th September - Technical Rehearsal on Greenham Common site&nbsp;
+
+Thursday 7th September - Dress Rehearsal on Greenham Common site&nbsp;
+
+Friday 8th September - 1st Performance on Greenham Common site&nbsp;
+
+Saturday 9th September - 2nd Performance on Greenham Common site
 
 &nbsp;
 
-**Get involved with Greenham: War & Peace**
+**MEDIA AND HERITAGE VOLUNTEERS**
 
-Technical and Production Volunteers
+We are offering media and heritage training from leading professionals linked with the BBC coverage, and heritage volunteering opportunities. This is open to all adults from 16+ and we will have media trainings sessions in July and early September
 
-**Meet the Tech and Production Team evening**
+**PROCESSIONS**
 
-**Wednesday 26th April - 6.30pm to 7.30pm at 101 Centre**
+Schools and community groups can take part in processions of banners and we can offering half day workshops to make processional images in June/July.
 
-Come and discuss volunteer roles with production crew and technical and design crew and times of your availability.&nbsp; We will be working on the initial designs and set for the outdoor show.&nbsp; So, if you are interested in stage management, technical build, props and costumes please do come along and meet the team.
+**TECHNICAL VOLUNTEERS/STEWARDS**
 
-**Performance & Singing Auditions**
+If you are interested in stage management, stewarding technical builds, props and costumes then please get in touch with us to find out more.&nbsp;
 
-If you would like to register for these auditions for please email Laura Boffin to confirm your space&nbsp; [laura@rosaproductions.co.uk](mailto:laura@rosaproductions.co.uk)
+**VOLUNTEER SINGERS**
 
-Please wear comfortable clothing and bring along a bottle of water.
+We are offering the opportunity to join a mass choir as part of the event. Rehearsals will be led by Newbury Choral Society and Incantata and all singers are welcome to join in.&nbsp;
 
-**Performing – Lead roles and community performers – speaking, singing, non-speaking parts including a local family across 5 generations, 1930s schoolchildren and staff, USAF military 1940s to 1990s, peace women, journalists, police, WW2 evacuees, local residents in the 1980s, Asian refugees in the 1970s and choir members**
+&nbsp;
 
-**Our main audition dates**
-
-**Saturday 22 April:****10am - 4pm Audition for lead acting parts**
-
-New Greenham Arts, Greenham Business Park, 113 Lindenmuth Way, Newbury RG19 6HN
-
-**Sunday 7th May:****10am– 1.30pm Workshop style auditions – all acting parts including**
-
-**lead acting and singing parts**
-
-New Greenham Arts, Greenham Business Park, 113 Lindenmuth Way, Newbury RG19 6HN
-
-**2pm – 5pm Workshops introductory sessions for Groups**
-
-**eg dance, drama groups**
-
-New Greenham Arts, Greenham Business Park, 113 Lindenmuth Way, Newbury RG19 6HN
-
-**Introductory Music Sessions**
-
-**Sunday 7<sup>th</sup>&nbsp;May:****2pm-5pm Choir singing introduction to songs**
-
-Choir groups and individuals
-
-St Mary’s Church Hall, New Rd, Greenham, RG19 8RZ
+Please contact Laura Boffin on [laura@rosaproductions.co.uk](javascript:void(location.href='mailto:'+String.fromCharCode(108,97,117,114,97,64,114,111,115,97,112,114,111,100,117,99,116,105,111,110,115,46,99,111,46,117,107))) for more information on how you can get involved!
