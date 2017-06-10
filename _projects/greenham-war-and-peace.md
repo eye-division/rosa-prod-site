@@ -1,5 +1,5 @@
 ---
-title: 'Greenham: War and Peace'
+title: 'Greenham: 100 Years of War & Peace'
 event: true
 media: false
 highlight: true
@@ -37,7 +37,7 @@ images:
 
 **New information available about Production/Technical Volunteering and Singing/Acting opportunities. Please find more information below.**
 
-Greenham: War and Peace is a large scale outdoor event celebrating 20 years of the Greenham Trust. On the evenings of the 8th and 9th September 2017 the story of Greenham Common will come alive through an amazing spectacle of performance, songs, light projections and live art. We are expecting large audiences with some thousands on each night and the event will be filmed for online broadcast and covered by radio and TV. The event will portray 100 years of history of the Common and the dramatic moments of war and peace that form part of that history. It marks the 20th anniversary of the Greenham Common Trust which has distributed over &pound;35 million to local good causes since 1997
+Greenham: 100 Years of &nbsp;War and Peace is a large scale outdoor event celebrating 20 years of the Greenham Trust. On the evenings of the 8th and 9th September 2017 the story of Greenham Common will come alive through an amazing spectacle of performance, songs, light projections and live art. We are expecting large audiences with some thousands on each night and the event will be filmed for online broadcast and covered by radio and TV. The event will portray 100 years of history of the Common and the dramatic moments of war and peace that form part of that history. It marks the 20th anniversary of the Greenham Common Trust which has distributed over &pound;35 million to local good causes since 1997
 
 **PERFORMERS, PROCESSIONS, CHOIR, VOLUNTEERS, STEWARDS, MEDIA**
 
@@ -45,7 +45,7 @@ We are looking for volunteers to work and perform alongside a professional cast 
 
 **VOLUNTEER PERFORMERS**
 
-We are looking for a large ensemble of community performers to portray various roles from the common’s history – from 1940s US Airforce sta , women glider factory workers, peace protestors and the police.... and there are opportunities for school age children to take part in the 1930’s Greenham School.
+We are looking for a large ensemble of community performers to portray various roles from the common’s history – from 1940s US Airforce sta , women glider factory workers, peace protestors and the police…. and there are opportunities for school age children to take part in the 1930’s Greenham School.
 
 Please contact Laura Boffin on [laura@rosaproductions.co.uk](javascript:void(location.href='mailto:'+String.fromCharCode(108,97,117,114,97,64,114,111,115,97,112,114,111,100,117,99,116,105,111,110,115,46,99,111,46,117,107))) for more information.
 
@@ -55,7 +55,7 @@ New Greenham Arts, Greenham Business Park, 113 Lindenmuth Way, RG19 6HN
 
 101 Outdoor Arts Creation Centre, Greenham Business Park, Unit 101, Communications Rd, RG19 6HN
 
-Saturday 20th May -- NGA Studio 2 -&nbsp; 10am-4pm -
+Saturday 20th May – NGA Studio 2 -&nbsp; 10am-4pm -
 
 Saturday 10th June – 101 Outdoor Centre Empty Unit - 10am – 4pm (entrance by red bus)
 
@@ -63,7 +63,7 @@ Sunday 11th June - NGA Auditorium - 10am-4pm
 
 Tuesday 27th June - NGA Studio 2 - &nbsp;7pm-9pm
 
-Tuesday 4th July - &nbsp;NGA Studio 2 -- 7pm-9pm
+Tuesday 4th July - &nbsp;NGA Studio 2 – 7pm-9pm
 
 Tuesday 11th July - NGA Studio 3 - 7pm-9pm
 
