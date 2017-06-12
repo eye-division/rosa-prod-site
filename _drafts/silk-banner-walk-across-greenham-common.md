@@ -24,3 +24,5 @@ Places are free but please book via the link below
 https://www.eventbrite.co.uk/o/rosa-productions-in-partnership-with-the-greenham-trust-14203016002
 
 To find out more contact Laura Boffin: laura@rosaproductions.co.uk. Tel: 01635 813900
+
+&nbsp;
