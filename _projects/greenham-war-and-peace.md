@@ -37,7 +37,7 @@ images:
 
 **New information available about Production/Technical Volunteering and Singing/Acting opportunities. Please find more information below.**
 
-Greenham: 100 Years of  War and Peace is a large scale outdoor event celebrating 20 years of the Greenham Trust. On the evenings of the 8th and 9th September 2017 the story of Greenham Common will come alive through an amazing spectacle of performance, songs, light projections and live art. We are expecting large audiences with some thousands on each night and the event will be filmed for online broadcast and covered by radio and TV. The event will portray 100 years of history of the Common and the dramatic moments of war and peace that form part of that history. It marks the 20th anniversary of the Greenham Common Trust which has distributed over £35 million to local good causes since 1997
+Greenham: 100 Years of &nbsp;War and Peace is a large scale outdoor event celebrating 20 years of the Greenham Trust. On the evenings of the 8th and 9th September 2017 the story of Greenham Common will come alive through an amazing spectacle of performance, songs, light projections and live art. We are expecting large audiences with some thousands on each night and the event will be filmed for online broadcast and covered by radio and TV. The event will portray 100 years of history of the Common and the dramatic moments of war and peace that form part of that history. It marks the 20th anniversary of the Greenham Common Trust which has distributed over &pound;35 million to local good causes since 1997
 
 **PERFORMERS, PROCESSIONS, CHOIR, VOLUNTEERS, STEWARDS, MEDIA**
 
@@ -55,15 +55,15 @@ New Greenham Arts, Greenham Business Park, 113 Lindenmuth Way, RG19 6HN
 
 101 Outdoor Arts Creation Centre, Greenham Business Park, Unit 101, Communications Rd, RG19 6HN
 
-Saturday 20th May – NGA Studio 2 -  10am-4pm -
+Saturday 20th May – NGA Studio 2 -&nbsp; 10am-4pm -
 
 Saturday 10th June – 101 Outdoor Centre Empty Unit - 10am – 4pm (entrance by red bus)
 
 Sunday 11th June - NGA Auditorium - 10am-4pm
 
-Tuesday 27th June - NGA Studio 2 -  7pm-9pm
+Tuesday 27th June - NGA Studio 2 - &nbsp;7pm-9pm
 
-Tuesday 4th July -  NGA Studio 2 – 7pm-9pm
+Tuesday 4th July - &nbsp;NGA Studio 2 – 7pm-9pm
 
 Tuesday 11th July - NGA Studio 3 - 7pm-9pm
 
@@ -75,7 +75,7 @@ Sunday 16th July - NGA Auditorium - 10am-4pm
 
 Greenham Common –101 Outdoor Arts Creation Centre, Greenham Business Park, Unit 101, Communications Rd, RG19 6HN & on Event Site on Greenham Common
 
-All performers and Choir will have intensive rehearsals from 1<sup>st</sup> to 7<sup>th</sup> September with shows in the evening on Friday 8<sup>th</sup> and Saturday 9<sup>th</sup> September
+All performers and Choir will have intensive rehearsals from 1<sup>st</sup>&nbsp;to 7<sup>th</sup>&nbsp;September with shows in the evening on Friday 8<sup>th</sup>&nbsp;and Saturday 9<sup>th</sup>&nbsp;September
 
 Friday 1st September –Evening – 6.30pm to 9pm walk through on Common event site
 
@@ -112,3 +112,5 @@ If you are interested in stage management, stewarding technical builds, props an
 We are offering the opportunity to join a mass choir as part of the event. Rehearsals will be led by Newbury Choral Society and Incantata and all singers are welcome to join in.
 
 Please contact Laura Boffin on [laura@rosaproductions.co.uk](javascript:void(location.href='mailto:'+String.fromCharCode(108,97,117,114,97,64,114,111,115,97,112,114,111,100,117,99,116,105,111,110,115,46,99,111,46,117,107))) for more information on how you can get involved!
+
+http://www.greenhamtrust.com/greenham-100-years-of-war-and-peace
