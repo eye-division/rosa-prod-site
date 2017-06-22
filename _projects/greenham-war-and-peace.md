@@ -59,8 +59,6 @@ Saturday 20th May – NGA Studio 2 -&nbsp; 10am-4pm -
 
 Saturday 10th June – 101 Outdoor Centre Empty Unit - 10am – 4pm (entrance by red bus)
 
-Sunday 11th June - NGA Auditorium - 10am-4pm
-
 Tuesday 27th June - NGA Studio 2 - &nbsp;7pm-9pm
 
 Tuesday 4th July - &nbsp;NGA Studio 2 – 7pm-9pm
