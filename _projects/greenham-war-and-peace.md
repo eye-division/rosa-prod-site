@@ -32,6 +32,10 @@ images:
     description: Wildlife on Greenham Common
   - image_path: /uploads/p4060266.jpg
     description: The Castle School in Newbury created this fantastic picture to show us all how much they love Greenham Common.
+  - image_path: /uploads/p7010364.jpg
+    description: Saturday 1st July 2017 Greenham Common Banner Walk
+  - image_path: /uploads/P7010463.jpg
+    description: Saturday 1st July 2017 Greenham Common Banner Walk
 ---
 
 
