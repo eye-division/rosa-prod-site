@@ -49,6 +49,32 @@ Greenham: 100 Years of &nbsp;War and Peace is a large scale outdoor event celebr
 
 **Stewarding**&nbsp;- Are you interested in Stewarding on the night of Greenham: 100 Years of War and Peace? We are looking for keen individuals who would like to get involved on the 8th and 9th September. Please contact [laura@rosaproductions.co.uk](javascript:void(location.href='mailto:'+String.fromCharCode(108,97,117,114,97,64,114,111,115,97,112,114,111,100,117,99,116,105,111,110,115,46,99,111,46,117,107))) for more details.
 
+**Performer September Rehearsals**
+
+Greenham Common –101 Outdoor Arts Creation Centre, Greenham Business Park, Unit 101, Communications Rd, RG19 6HN & on Event Site on Greenham Common
+
+All performers and Choir will have intensive rehearsals from 1<sup>st</sup> to 7<sup>th</sup> September with shows in the evening on Friday 8<sup>th</sup> and Saturday 9<sup>th</sup> September
+
+Friday 1st September –Evening – 6.30pm to 9pm walk through on Common event site
+
+Saturday 2nd September - Full Day **plus costume fitting**
+
+Sunday 3rd September - Full Day **plus costume fitting**
+
+Monday 4th September – Evening (some of cast and possibly choir tbc)
+
+Tuesday 5th September – Evening (some of cast and possibly choir tbc)
+
+Wednesday 6th September - Technical Rehearsal on Greenham Common site
+
+Thursday 7th September - Dress Rehearsal on Greenham Common site
+
+Friday 8th September - 1st Performance on Greenham Common site
+
+Saturday 9th September - 2nd Performance on Greenham Common site&nbsp;
+
+&nbsp;
+
 **UPCOMING EVENTS.**
 
 **3 SEPTEMBER SUNDAY, 4pm-5.15pm - Corn Exchange, Newbury**
@@ -94,8 +120,6 @@ Colonel Mike Relph leads a walk onto the Common to explore the military history 
 Please visit the Greenham Trust website for more details:
 
 [http://www.greenhamtrust.com/greenham-100-years-of-war-and-peace](http://www.greenhamtrust.com/greenham-100-years-of-war-and-peace)
-
-&nbsp;
 
 **TRAVEL INFORMATION**
 
@@ -149,10 +173,6 @@ Free Drop off Only at Control Tower Car Park
 For drivers who are not parking and stopping you may drop off and pick up event visitors at the Control Tower car park. No need to book.
 
 **For all travel enquiries please call 01635 813900.**
-
-&nbsp;
-
-&nbsp;
 
 This event is supported by Greenham Trust, Arts Council England and Heritage Lottery Fund with appropriate logos.&nbsp; Websites also should reflect that we are sponsored by Verbatim and the logo and partners include BBOWT, Natural England, BBC Radio Berkshire, West Berkshire Council, West Berkshire Museum, &nbsp;Corn Exchange Newbury, 101 Outdoor Creation Centre, Watermill Arts Centre and Newbury College with the support of Home Front History, Royal British Legion and numerous other partners.
 
