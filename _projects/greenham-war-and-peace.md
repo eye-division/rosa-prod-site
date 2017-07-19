@@ -59,11 +59,15 @@ Are you interested in Stewarding on the night of Greenham: 100 Years of War and 
 
 A high profile public debate hosted by BBC Radio Berkshire presenter Andrew Peach with speakers including ex Guardian journalist David Fairhall, author of ‘Common Ground – The Story of Greenham’, vicar and former peace protestor Deborah Davies, politicians and historians. BBC Radio Berkshire will be broadcasting sections of the debate recording. Bring your questions for the panel. Also supported by the Newbury Weekly News.&nbsp;[https://cornexchangenew.com/event/missiles-politics-and-peace](https://cornexchangenew.com/event/missiles-politics-and-peace)
 
+&nbsp;
+
 **5 SEPTEMBER TUESDAY, 7pm-8.15pm - Corn Exchange, Newbury**
 
 **Characters on the Common**
 
 BBC Radio Berkshire presenter Bill Buckley presents a lively history chat show on stage in which we hear stories directly from the people who have helped shape the history of Greenham Common. We hear from those whose lives were transformed by events on the Common, from the Second World War right through to the present day. Note that elements of this show will be broadcast by the BBC. Also supported by the Newbury Weekly News. The event is free but ticketed. Please book tickets via Corn Exchange Box Office: www.cornexchangenew.com / 0845 5218 21&nbsp;[https://cornexchangenew.com/event/the-characters-on-the-common](https://cornexchangenew.com/event/the-characters-on-the-common)
+
+&nbsp;
 
 **6 SEPTEMBER WEDNESDAY, 2pm-3.30pm - Shaw House**
 
@@ -71,9 +75,9 @@ BBC Radio Berkshire presenter Bill Buckley presents a lively history chat show o
 
 With BBC Radio Berkshire presenter Bill Buckley, writers and historians Penny Stokes and Jonathan Sayers, and filmmaker Les Taylor. In the splendid and historic setting of Shaw House we will explore the long-term history of the Common. Penny Stokes has been commissioned by Greenham Trust to write a new history of the Common, and we will have a preview of *‘In Another Time’*, a fi lm about D-day and Greenham, by Les Taylor. Jonathan will talk about the Cold War period and how Greenham Common came to the attention of the rest of the world. Extracts may be broadcast on BBC Radio Berkshire. Free event but ticketed. Please book through the Corn Exchange box office, Details below. Refreshments: FREE Tea, coffee and biscuits provided.&nbsp;[https://cornexchangenew.com/event/exploring-the-history-of-the-common](https://cornexchangenew.com/event/exploring-the-history-of-the-common)
 
-**8/9 SEPTEMBER FRIDAY/SATURDAY**
+&nbsp;
 
-**Decontamination Suite, Greenham Business Park**
+**8/9 SEPTEMBER FRIDAY/SATURDAY -&nbsp;****Decontamination Suite, Greenham Business Park**
 
 **Decontamination Suite Tours**
 
@@ -89,6 +93,8 @@ Follow the red arrows on the fl oor. Follow all instructions for our personnel. 
 
 The event is free but ticketed. Please book tickets via Corn Exchange Box Offi ce: www.cornexchangenew.com / 0845 5218 218&nbsp;[https://cornexchangenew.com/event/decontamination-suite-tours](https://cornexchangenew.com/event/decontamination-suite-tours)
 
+&nbsp;
+
 **8/9 SEPTEMBER FRI/SAT, 11.30pm-1pm**
 
 **Military History Walk - Meet at Control Tower, Bury’s Bank Rd.**
@@ -98,8 +104,6 @@ Colonel Mike Relph leads a walk onto the Common to explore the military history 
 Please visit the Greenham Trust website for more details:
 
 [http://www.greenhamtrust.com/greenham-100-years-of-war-and-peace](http://www.greenhamtrust.com/greenham-100-years-of-war-and-peace)
-
-&nbsp;
 
 &nbsp;
 
