@@ -49,8 +49,6 @@ Greenham: 100 Years of &nbsp;War and Peace is a large scale outdoor event celebr
 
 **Stewarding**&nbsp;- Are you interested in Stewarding on the night of Greenham: 100 Years of War and Peace? We are looking for keen individuals who would like to get involved on the 8th and 9th September. Please contact [laura@rosaproductions.co.uk](javascript:void(location.href='mailto:'+String.fromCharCode(108,97,117,114,97,64,114,111,115,97,112,114,111,100,117,99,116,105,111,110,115,46,99,111,46,117,107))) for more details.
 
-&nbsp;
-
 **UPCOMING EVENTS.**
 
 **3 SEPTEMBER SUNDAY, 4pm-5.15pm - Corn Exchange, Newbury**
@@ -59,23 +57,17 @@ Greenham: 100 Years of &nbsp;War and Peace is a large scale outdoor event celebr
 
 A high profile public debate hosted by BBC Radio Berkshire presenter Andrew Peach with speakers including ex Guardian journalist David Fairhall, author of ‘Common Ground – The Story of Greenham’, vicar and former peace protestor Deborah Davies, politicians and historians. BBC Radio Berkshire will be broadcasting sections of the debate recording. Bring your questions for the panel. Also supported by the Newbury Weekly News.&nbsp;[https://cornexchangenew.com/event/missiles-politics-and-peace](https://cornexchangenew.com/event/missiles-politics-and-peace)
 
-&nbsp;
-
 **5 SEPTEMBER TUESDAY, 7pm-8.15pm - Corn Exchange, Newbury**
 
 **Characters on the Common**
 
 BBC Radio Berkshire presenter Bill Buckley presents a lively history chat show on stage in which we hear stories directly from the people who have helped shape the history of Greenham Common. We hear from those whose lives were transformed by events on the Common, from the Second World War right through to the present day. Note that elements of this show will be broadcast by the BBC. Also supported by the Newbury Weekly News. The event is free but ticketed. Please book tickets via Corn Exchange Box Office: www.cornexchangenew.com / 0845 5218 21&nbsp;[https://cornexchangenew.com/event/the-characters-on-the-common](https://cornexchangenew.com/event/the-characters-on-the-common)
 
-&nbsp;
-
 **6 SEPTEMBER WEDNESDAY, 2pm-3.30pm - Shaw House**
 
 **Exploring the History of the Common**
 
 With BBC Radio Berkshire presenter Bill Buckley, writers and historians Penny Stokes and Jonathan Sayers, and filmmaker Les Taylor. In the splendid and historic setting of Shaw House we will explore the long-term history of the Common. Penny Stokes has been commissioned by Greenham Trust to write a new history of the Common, and we will have a preview of *‘In Another Time’*, a fi lm about D-day and Greenham, by Les Taylor. Jonathan will talk about the Cold War period and how Greenham Common came to the attention of the rest of the world. Extracts may be broadcast on BBC Radio Berkshire. Free event but ticketed. Please book through the Corn Exchange box office, Details below. Refreshments: FREE Tea, coffee and biscuits provided.&nbsp;[https://cornexchangenew.com/event/exploring-the-history-of-the-common](https://cornexchangenew.com/event/exploring-the-history-of-the-common)
-
-&nbsp;
 
 **8/9 SEPTEMBER FRIDAY/SATURDAY -&nbsp;****Decontamination Suite, Greenham Business Park**
 
@@ -93,8 +85,6 @@ Follow the red arrows on the fl oor. Follow all instructions for our personnel. 
 
 The event is free but ticketed. Please book tickets via Corn Exchange Box Offi ce: www.cornexchangenew.com / 0845 5218 218&nbsp;[https://cornexchangenew.com/event/decontamination-suite-tours](https://cornexchangenew.com/event/decontamination-suite-tours)
 
-&nbsp;
-
 **8/9 SEPTEMBER FRI/SAT, 11.30pm-1pm**
 
 **Military History Walk - Meet at Control Tower, Bury’s Bank Rd.**
@@ -105,7 +95,59 @@ Please visit the Greenham Trust website for more details:
 
 [http://www.greenhamtrust.com/greenham-100-years-of-war-and-peace](http://www.greenhamtrust.com/greenham-100-years-of-war-and-peace)
 
+**TRAVEL INFORMATION**
+
+**Bus, Car Park and Disabled Parking&nbsp;**
+
+These are all bookable on eventbrite.co.uk.&nbsp; If you do not have online access please call 01635 813900 to reserve disabled parking.&nbsp;[https://www.eventbrite.com/o/fete-day-on-behalf-of-greenham-trust-14430580883](https://www.eventbrite.com/o/fete-day-on-behalf-of-greenham-trust-14430580883)
+
+**Friday 8 September Parking & Bus Ticket Pre-Booking**
+
+(note no ticket required for town centre shuttle bus)
+
+Parking Friday Greenham Business Park (&pound;5)&nbsp;
+
+Newbury College Friday Bus Ticket Booking (&pound;3)&nbsp;
+
+Disabled Parking Friday (Free)
+
+**Saturday 9 September Parking & Bus Ticket Pre-Booking**
+
+(note no ticket required for town centre shuttle bus)
+
+Parking Saturday Greenham Business Park (&pound;5)&nbsp;
+
+Newbury College Saturday Bus Ticket Booking (&pound;3)&nbsp;
+
+Disabled Parking Saturday (Free)
+
 &nbsp;
+<br>**Pedestrian and Bicycle Entry onto the Common**
+<br>Gates will be open at Control Tower, Business Park and at Pyle Hill (RG19 3BX). There is no parking at Pyle Hill car park on event evenings and Control Tower and Business Parks are restricted access – see below. Bicycles can be parked at car parks at your own risk. No dogs or bicycles in main event area please.
+
+**Free Town Centre Bus Service&nbsp;**
+<br>Just turn up. A bus service will run from 5.30pm from Cheap Street bus stop in town centre, close to the main Newbury bus station and Newbury Railway Station,opposite the Post Office. Buses will leave between 5.30pm & 8.30pm at 5 to 10 minute Intervals.
+
+**Park and Ride**
+<br>The bus will also stop at the Newbury College Park and Ride where there is a ticketed bus charge of &pound;3 (please pre-book or pay on night) and drop off at the Control Tower. Journey length 20 to 30 mins depending on traffic.&nbsp;
+
+**Return journey buses**
+<br>Buses will leave the Control Tower car park at 5 - 10 minute intervals after 9.30pm when the event finishes and then will shuttle to and from town centre until all audience members have reached their destination. Online bus reservations close at midday on Thursday 7 September.
+
+**Ticketed Parking on Greenham Business Park**
+<br>Parking charges: &pound;5 per car in advance, &pound;10 on the night. Marshalled car parking opens at 5.30pm for the event. Pre-booked spaces will have priority but some parking may be available on the night for &pound;10. Signage at entry points  will make it clear when car parks are full. (Regular Business Users – please follow the appropriate event entry signage. You may be requested to give details on entry from 5.30pm)
+
+Free Disabled Parking, Control Tower Car Park
+<br>Burys Bank Road, Thatcham, Berkshire RG19 8DB
+
+Disabled Parking must be pre-booked. Please be prepared to show reservations and Disabled Parking ID. Please note: there is still a walk of approx. 5 mins from disabled parking and that the event has no seating (although you can bring your own). Once on the Common the tracks are reasonable for wheelchairs but are tracks, not made up roads. It is possible to book to drop off people with mobility issues a little closer to the site on the Common by prior arrangement only. If this is required please use the message box on the Eventbrite booking form, or leave a message on the phone message service. The site is more like a small festival or county show site with a central stage rather than an outdoor classical concert or play.
+
+Free Drop off Only at Control Tower Car Park
+<br>Burys Bank Road, Thatcham, Berkshire RG19 8DB
+
+For drivers who are not parking and stopping you may drop off and pick up event visitors at the Control Tower car park. No need to book.
+
+**For all travel enquiries please call 01635 813900.**
 
 Supported by Greenham Trust, Arts Council England and Heritage Lottery Fund with appropriate logos.&nbsp; Websites also should reflect that we are sponsored by Verbatim and the logo and partners include BBOWT, Natural England, BBC Radio Berkshire, West Berkshire Council, West Berkshire Museum, &nbsp;Corn Exchange Newbury, 101 Outdoor Creation Centre, Watermill Arts Centre and Newbury College with the support of Home Front History, Royal British Legion and numerous other partners.
 
