@@ -173,8 +173,8 @@ Disabled Parking Saturday (Free)
 
 Disabled Parking must be pre-booked. Please be prepared to show reservations and Disabled Parking ID. Please note: there is still a walk of approx. 5 mins from disabled parking and that the event has no seating (although you can bring your own). Once on the Common the tracks are reasonable for wheelchairs but are tracks, not made up roads. It is possible to book to drop off people with mobility issues a little closer to the site on the Common by prior arrangement only. If this is required please use the message box on the Eventbrite booking form, or leave a message on the phone message service. The site is more like a small festival or county show site with a central stage rather than an outdoor classical concert or play.
 
-Free Drop off Only at Control Tower Car Park
-<br>Burys Bank Road, Thatcham, Berkshire RG19 8DB
+**Free Drop off Only at Control Tower Car Park
+<br>Burys Bank Road, Thatcham, Berkshire RG19 8DB**
 
 For drivers who are not parking and stopping you may drop off and pick up event visitors at the Control Tower car park. No need to book.
 
