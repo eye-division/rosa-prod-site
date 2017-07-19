@@ -36,6 +36,8 @@ images:
     description: Saturday 1st July 2017 Greenham Common Banner Walk
   - image_path: /uploads/P7010463.jpg
     description: Saturday 1st July 2017 Greenham Common Banner Walk
+  - image_path:
+    description:
 ---
 
 
@@ -43,13 +45,11 @@ Greenham: 100 Years of &nbsp;War and Peace is a large scale outdoor event celebr
 
 **HOW CAN I GET INVOLVED?**
 
-**Procession**
+**Procession**&nbsp;- Schools and community groups can take part in processions of banners and we can offering half day workshops to make processional lanterns in June/July.&nbsp;
 
-Schools and community groups can take part in processions of banners and we can offering half day workshops to make processional lanterns in June/July.&nbsp;
+**Stewarding**&nbsp;- Are you interested in Stewarding on the night of Greenham: 100 Years of War and Peace? We are looking for keen individuals who would like to get involved on the 8th and 9th September. Please contact [laura@rosaproductions.co.uk](javascript:void(location.href='mailto:'+String.fromCharCode(108,97,117,114,97,64,114,111,115,97,112,114,111,100,117,99,116,105,111,110,115,46,99,111,46,117,107))) for more details.
 
-**Stewarding**
-
-Are you interested in Stewarding on the night of Greenham: 100 Years of War and Peace? We are looking for keen individuals who would like to get involved on the 8th and 9th September. Please contact laura@rosaproductions.co.uk for more details.
+&nbsp;
 
 **UPCOMING EVENTS.**
 
