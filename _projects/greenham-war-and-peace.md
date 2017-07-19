@@ -240,6 +240,6 @@ Home Front History &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Home Front History (WW2 an
 
 Griffin Historical &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Civil War scenes
 
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Shademakers &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; WW1 Tank scenes
+Shademakers &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; WW1 Tank scenes
 
 **Local Cast and Choirs include members of Watermill Theatre Groups, Newbury Choral Society, InCantata, St Nicholas Church Choir, St Nicholas Primary School Choir, Horris Hill Choir, KATS, and many other local drama groups and individual participants. Banner Making and lantern making groups include Castle School, Mary Hare School, BBOWT Young Rangers, BBOWT Volunteers, Greenham Trust staff, Local Artists, Historians and Peace Women.**
