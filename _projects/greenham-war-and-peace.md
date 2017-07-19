@@ -95,6 +95,8 @@ Please visit the Greenham Trust website for more details:
 
 [http://www.greenhamtrust.com/greenham-100-years-of-war-and-peace](http://www.greenhamtrust.com/greenham-100-years-of-war-and-peace)
 
+&nbsp;
+
 **TRAVEL INFORMATION**
 
 **Bus, Car Park and Disabled Parking&nbsp;**
@@ -121,8 +123,7 @@ Newbury College Saturday Bus Ticket Booking (&pound;3)&nbsp;
 
 Disabled Parking Saturday (Free)
 
-&nbsp;
-<br>**Pedestrian and Bicycle Entry onto the Common**
+&nbsp;**Pedestrian and Bicycle Entry onto the Common**
 <br>Gates will be open at Control Tower, Business Park and at Pyle Hill (RG19 3BX). There is no parking at Pyle Hill car park on event evenings and Control Tower and Business Parks are restricted access – see below. Bicycles can be parked at car parks at your own risk. No dogs or bicycles in main event area please.
 
 **Free Town Centre Bus Service&nbsp;**
@@ -149,7 +150,11 @@ For drivers who are not parking and stopping you may drop off and pick up event 
 
 **For all travel enquiries please call 01635 813900.**
 
-Supported by Greenham Trust, Arts Council England and Heritage Lottery Fund with appropriate logos.&nbsp; Websites also should reflect that we are sponsored by Verbatim and the logo and partners include BBOWT, Natural England, BBC Radio Berkshire, West Berkshire Council, West Berkshire Museum, &nbsp;Corn Exchange Newbury, 101 Outdoor Creation Centre, Watermill Arts Centre and Newbury College with the support of Home Front History, Royal British Legion and numerous other partners.
+&nbsp;
+
+&nbsp;
+
+This event is supported by Greenham Trust, Arts Council England and Heritage Lottery Fund with appropriate logos.&nbsp; Websites also should reflect that we are sponsored by Verbatim and the logo and partners include BBOWT, Natural England, BBC Radio Berkshire, West Berkshire Council, West Berkshire Museum, &nbsp;Corn Exchange Newbury, 101 Outdoor Creation Centre, Watermill Arts Centre and Newbury College with the support of Home Front History, Royal British Legion and numerous other partners.
 
 **Rosa Productions & Fete Day**
 
