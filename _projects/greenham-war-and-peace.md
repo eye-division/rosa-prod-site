@@ -39,76 +39,136 @@ images:
 ---
 
 
-**New information available about Production/Technical Volunteering and Singing/Acting opportunities. Please find more information below.**
-
 Greenham: 100 Years of &nbsp;War and Peace is a large scale outdoor event celebrating 20 years of the Greenham Trust. On the evenings of the 8th and 9th September 2017 the story of Greenham Common will come alive through an amazing spectacle of performance, songs, light projections and live art. We are expecting large audiences with some thousands on each night and the event will be filmed for online broadcast and covered by radio and TV. The event will portray 100 years of history of the Common and the dramatic moments of war and peace that form part of that history. It marks the 20th anniversary of the Greenham Common Trust which has distributed over &pound;35 million to local good causes since 1997
 
-**PERFORMERS, PROCESSIONS, CHOIR, VOLUNTEERS, STEWARDS, MEDIA**
+**HOW CAN I GET INVOLVED?**
 
-We are looking for volunteers to work and perform alongside a professional cast and production team. This is a fantastic chance to get involved in a unique event led by world class artists and a professional production team. This opportunity is free and open to all levels of experience – we just need you to be enthusiastic and committed.
+**Procession**
 
-**VOLUNTEER PERFORMERS**
+Schools and community groups can take part in processions of banners and we can offering half day workshops to make processional lanterns in June/July.&nbsp;
 
-We are looking for a large ensemble of community performers to portray various roles from the common’s history – from 1940s US Airforce sta , women glider factory workers, peace protestors and the police…. and there are opportunities for school age children to take part in the 1930’s Greenham School.
+**Stewarding**
 
-Please contact Laura Boffin on [laura@rosaproductions.co.uk](javascript:void(location.href='mailto:'+String.fromCharCode(108,97,117,114,97,64,114,111,115,97,112,114,111,100,117,99,116,105,111,110,115,46,99,111,46,117,107))) for more information.
+Are you interested in Stewarding on the night of Greenham: 100 Years of War and Peace? We are looking for keen individuals who would like to get involved on the 8th and 9th September. Please contact laura@rosaproductions.co.uk for more details.
 
-**Community Performers Summer Rehearsals**
+**UPCOMING EVENTS.**
 
-New Greenham Arts, Greenham Business Park, 113 Lindenmuth Way, RG19 6HN
+**3 SEPTEMBER SUNDAY, 4pm-5.15pm - Corn Exchange, Newbury**
 
-101 Outdoor Arts Creation Centre, Greenham Business Park, Unit 101, Communications Rd, RG19 6HN
+**Mis****siles, Politics and&nbsp;****showdown?**
+
+A high profile public debate hosted by BBC Radio Berkshire presenter Andrew Peach with speakers including ex Guardian journalist David Fairhall, author of ‘Common Ground – The Story of Greenham’, vicar and former peace protestor Deborah Davies, politicians and historians. BBC Radio Berkshire will be broadcasting sections of the debate recording. Bring your questions for the panel. Also supported by the Newbury Weekly News.&nbsp;[https://cornexchangenew.com/event/missiles-politics-and-peace](https://cornexchangenew.com/event/missiles-politics-and-peace)
+
+**5 SEPTEMBER TUESDAY, 7pm-8.15pm - Corn Exchange, Newbury**
+
+**Characters on the Common**
+
+BBC Radio Berkshire presenter Bill Buckley presents a lively history chat show on stage in which we hear stories directly from the people who have helped shape the history of Greenham Common. We hear from those whose lives were transformed by events on the Common, from the Second World War right through to the present day. Note that elements of this show will be broadcast by the BBC. Also supported by the Newbury Weekly News. The event is free but ticketed. Please book tickets via Corn Exchange Box Office: www.cornexchangenew.com / 0845 5218 21&nbsp;[https://cornexchangenew.com/event/the-characters-on-the-common](https://cornexchangenew.com/event/the-characters-on-the-common)
+
+**6 SEPTEMBER WEDNESDAY, 2pm-3.30pm - Shaw House**
+
+**Exploring the History of the Common**
+
+With BBC Radio Berkshire presenter Bill Buckley, writers and historians Penny Stokes and Jonathan Sayers, and filmmaker Les Taylor. In the splendid and historic setting of Shaw House we will explore the long-term history of the Common. Penny Stokes has been commissioned by Greenham Trust to write a new history of the Common, and we will have a preview of *‘In Another Time’*, a fi lm about D-day and Greenham, by Les Taylor. Jonathan will talk about the Cold War period and how Greenham Common came to the attention of the rest of the world. Extracts may be broadcast on BBC Radio Berkshire. Free event but ticketed. Please book through the Corn Exchange box office, Details below. Refreshments: FREE Tea, coffee and biscuits provided.&nbsp;[https://cornexchangenew.com/event/exploring-the-history-of-the-common](https://cornexchangenew.com/event/exploring-the-history-of-the-common)
+
+**8/9 SEPTEMBER FRIDAY/SATURDAY**
+
+**Decontamination Suite, Greenham Business Park**
+
+**Decontamination Suite Tours**
+
+**Friday 11am-2pm**&nbsp;- Schools and groups tours by arrangement
+
+**Friday from 6pm-7.30pm**&nbsp;- Ticketed tours
+
+**Saturday 11am-2pm and 6pm-7.30pm**&nbsp;- Ticketed tours
+
+You have been contaminated.
+
+Follow the red arrows on the fl oor. Follow all instructions for our personnel. DO NOT ATTEMPT TO LEAVE. Our theatrical guided tour will unveil the fascinating secrets locked away in Greenham’s chemical decontamination suite, part of the USAF Cold War former Wing Headquarters Building.
+
+The event is free but ticketed. Please book tickets via Corn Exchange Box Offi ce: www.cornexchangenew.com / 0845 5218 218&nbsp;[https://cornexchangenew.com/event/decontamination-suite-tours](https://cornexchangenew.com/event/decontamination-suite-tours)
+
+**8/9 SEPTEMBER FRI/SAT, 11.30pm-1pm**
+
+**Military History Walk - Meet at Control Tower, Bury’s Bank Rd.**
+
+Colonel Mike Relph leads a walk onto the Common to explore the military history of the site and remaining USAF buildings. The walk includes a tour of the decontamination suite, and you will be guided past the outside of the Control Tower and the Cruise Missile Bunkers, and visit the centre of the runway. Free event but ticketed. Please book through the Corn Exchange box offi ce, Details below. Numbers limited to 30.&nbsp;[https://cornexchangenew.com/event/military-history-walk](https://cornexchangenew.com/event/military-history-walk)
+
+Please visit the Greenham Trust website for more details:
+
+[http://www.greenhamtrust.com/greenham-100-years-of-war-and-peace](http://www.greenhamtrust.com/greenham-100-years-of-war-and-peace)
 
 &nbsp;
 
-Tuesday 11th July - NGA Studio 3 - 7pm-9pm
-
-Saturday 15th July - NGA Auditorium- 10am-4pm
-
-Sunday 16th July - NGA Auditorium - 10am-4pm
-
 &nbsp;
 
-**Performer September Rehearsals**
+Supported by Greenham Trust, Arts Council England and Heritage Lottery Fund with appropriate logos.&nbsp; Websites also should reflect that we are sponsored by Verbatim and the logo and partners include BBOWT, Natural England, BBC Radio Berkshire, West Berkshire Council, West Berkshire Museum, &nbsp;Corn Exchange Newbury, 101 Outdoor Creation Centre, Watermill Arts Centre and Newbury College with the support of Home Front History, Royal British Legion and numerous other partners.
 
-Greenham Common –101 Outdoor Arts Creation Centre, Greenham Business Park, Unit 101, Communications Rd, RG19 6HN & on Event Site on Greenham Common
+**Rosa Productions & Fete Day**
 
-All performers and Choir will have intensive rehearsals from 1<sup>st</sup>&nbsp;to 7<sup>th</sup>&nbsp;September with shows in the evening on Friday 8<sup>th</sup>&nbsp;and Saturday 9<sup>th</sup>&nbsp;September
+Rosemary&nbsp; Richards &nbsp; &nbsp; &nbsp; &nbsp; Creative Director & Producer
 
-Friday 1st September –Evening – 6.30pm to 9pm walk through on Common event site
+Ameneh Enayat &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Producer
 
-Saturday 2nd September - Full Day (children will have specific call times tbc) (Choir PM)
+John Offord &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; Associate Producer
 
-Sunday 3rd September - Full Day (children will have specific call times tbc) (Choir PM)
+Laura Boffin &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Assistant Producer
 
-Monday 4th September – Evening (some of cast and possibly choir tbc)
+Simon Hollingworth &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; On Site Producer
 
-Tuesday 5th September – Evening (some of cast and possibly choir tbc)
+**Creative and Production Team**
 
-Wednesday 6th September - Technical Rehearsal on Greenham Common site
+Beth Flintoff &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Writer
 
-Thursday 7th September - Dress Rehearsal on Greenham Common site
+Nick Bic&acirc;t &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Composer&nbsp;
 
-Friday 8th September - 1st Performance on Greenham Common site
+Sophie Austin &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Performance Director
 
-Saturday 9th September - 2nd Performance on Greenham Common site
+Kristoffer Hubball &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Assistant Director
 
-**MEDIA AND HERITAGE VOLUNTEERS**
+Rachel Drazek &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Choreographer
 
-We are offering media and heritage training from leading professionals linked with the BBC coverage, and heritage volunteering opportunities. This is open to all adults from 16+ and we will have media trainings sessions in July and early September
+Cathal Garvey &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Choir Director
 
-**PROCESSIONS**
+Nic Cope &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Local Choir Coordinator
 
-Schools and community groups can take part in processions of banners and we can offering half day workshops to make processional images in June/July.
+Heidi Bird &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Associate Director Watermill Theatre
 
-**TECHNICAL VOLUNTEERS/STEWARDS**
+Lixi Chevas &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Associate Director Watermill Theatre
 
-If you are interested in stage management, stewarding technical builds, props and costumes then please get in touch with us to find out more.
+Emma Bradbury &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Associate Director Watermill Theatre
 
-**VOLUNTEER SINGERS**
+Philip Eddolls &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Production Designer
 
-We are offering the opportunity to join a mass choir as part of the event. Rehearsals will be led by Newbury Choral Society and Incantata and all singers are welcome to join in.
+Phil Supple &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Lighting Designer
 
-Please contact Laura Boffin on [laura@rosaproductions.co.uk](javascript:void(location.href='mailto:'+String.fromCharCode(108,97,117,114,97,64,114,111,115,97,112,114,111,100,117,99,116,105,111,110,115,46,99,111,46,117,107))) for more information on how you can get involved!
+Ali Pretty &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Banner Artist
 
-http://www.greenhamtrust.com/greenham-100-years-of-war-and-peace
+Joe Stathers &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Projection Artist
+
+Mohammed Ali &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Artist / Designer
+
+Cleveland Watkiss &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Music Performer&nbsp;
+
+Gareth Davies &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Sound Designer&nbsp;
+
+Sarah Dicks &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Costume Designer
+
+John Adkins &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Technical Director
+
+Kal Butt &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Production and Site Manager
+
+Jon Perry &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Health and Safety and Traffic Management
+
+John Darvell &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; NOCTURN&nbsp; Dance (Baxendales sequence)
+
+Debbie Camp &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; NOCTURN&nbsp; Dance (Baxendales sequence)
+
+Home Front History &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Home Front History (WW2 and 1980s re-enactors)
+
+Griffin Historical &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Civil War scenes
+
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Shademakers &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; WW1 Tank scenes
+
+**Local Cast and Choirs include members of Watermill Theatre Groups, Newbury Choral Society, InCantata, St Nicholas Church Choir, St Nicholas Primary School Choir, Horris Hill Choir, KATS, and many other local drama groups and individual participants. Banner Making and lantern making groups include Castle School, Mary Hare School, BBOWT Young Rangers, BBOWT Volunteers, Greenham Trust staff, Local Artists, Historians and Peace Women.**
