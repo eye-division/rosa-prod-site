@@ -46,6 +46,16 @@ images:
     description:
   - image_path: /uploads/p7010409.jpg
     description: Saturday 1st July Greenham Common Banner Walk
+  - image_path: /uploads/19884516-1959731497603879-483056254654754877-n.jpg
+    description: 'New Programmes loaded with all the latest information in it!'
+  - image_path: /uploads/19894761-1959731447603884-7358910106456591154-n.jpg
+    description: Choir Rehearsal
+  - image_path: /uploads/19894852-1959742780936084-550552412400656173-n.jpg
+    description: Choir Rehearsal
+  - image_path: /uploads/19989451-1960690214174674-3360143810944312359-n.jpg
+    description: Broadcasting and Social Media Training
+  - image_path: /uploads/19990144-1959742784269417-6992079167020966683-n.jpg
+    description: Choir Rehearsal
 ---
 
 
