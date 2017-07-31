@@ -100,7 +100,7 @@ Saturday 9th September - 2nd Performance on Greenham Common site
 
 **3 SEPTEMBER SUNDAY, 4pm-5.15pm - Corn Exchange, Newbury**
 
-**Mis****siles, Politics and****showdown?**
+**Mis****siles, Politics and&nbsp;****showdown?**
 
 A high profile public debate hosted by BBC Radio Berkshire presenter Andrew Peach with speakers including ex Guardian journalist David Fairhall, author of ‘Common Ground – The Story of Greenham’, vicar and former peace protestor Deborah Davies, politicians and historians. BBC Radio Berkshire will be broadcasting sections of the debate recording. Bring your questions for the panel. Also supported by the Newbury Weekly News.&nbsp;[https://cornexchangenew.com/event/missiles-politics-and-peace](https://cornexchangenew.com/event/missiles-politics-and-peace)
 
