@@ -56,6 +56,10 @@ images:
     description: Broadcasting and Social Media Training
   - image_path: /uploads/19990144-1959742784269417-6992079167020966683-n.jpg
     description: Choir Rehearsal
+  - image_path: /uploads/choir-16by9-img-3907.jpg
+    description:
+  - image_path: /uploads/choir-2-img-3908.JPG
+    description:
 ---
 
 
