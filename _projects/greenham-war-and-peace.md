@@ -7,7 +7,7 @@ past: false
 description: 'A unique and exciting, large-scale outdoor community event will be held on Friday 8th and Saturday 9th September 2017 at Greenham Common. Greenham: War and Peace is a professionally led event project which is inviting hundreds of people from the local community to take part.'
 project_date: 2017-09-08 00:00:00
 project_to_date: 2017-09-09 00:00:00
-main_image_path: /uploads/Greenham Image Grafitti - artwork  Mohammed Ali.jpg
+main_image_path: /uploads/200-res.jpg
 video_embed:
 images:
   - image_path: '/uploads/banner, late 80s.jpg'
