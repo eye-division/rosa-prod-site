@@ -103,46 +103,14 @@ With talks, walks and exhibitions from Sunday, the 3rd September. The extraordin
 
 &nbsp;
 
-**UPCOMING EVENTS.**
+**Upcoming Events**
 
-**3 SEPTEMBER SUNDAY, 4pm-5.15pm - Corn Exchange, Newbury**
+[**Mis****siles, Politics and&nbsp;****showdown?**](https://cornexchangenew.com/event/missiles-politics-and-peace)
 
-**Mis****siles, Politics and****showdown?**
+[**Characters on the Common**](https://cornexchangenew.com/event/the-characters-on-the-common)
 
-A high profile public debate hosted by BBC Radio Berkshire presenter Andrew Peach with speakers including ex Guardian journalist David Fairhall, author of ‘Common Ground – The Story of Greenham’, vicar and former peace protestor Deborah Davies, politicians and historians. BBC Radio Berkshire will be broadcasting sections of the debate recording. Bring your questions for the panel. Also supported by the Newbury Weekly News.&nbsp;[https://cornexchangenew.com/event/missiles-politics-and-peace](https://cornexchangenew.com/event/missiles-politics-and-peace)
+[**Exploring the History of the Common**](https://cornexchangenew.com/event/exploring-the-history-of-the-common)
 
-**5 SEPTEMBER TUESDAY, 7pm-8.15pm - Corn Exchange, Newbury**
+[**Decontamination Suite Tours**](https://cornexchangenew.com/event/decontamination-suite-tours)
 
-**Characters on the Common**
-
-&nbsp;[https://cornexchangenew.com/event/the-characters-on-the-common](https://cornexchangenew.com/event/the-characters-on-the-common)
-
-**6 SEPTEMBER WEDNESDAY, 2pm-3.30pm - Shaw House**
-
-**Exploring the History of the Common**
-
-[https://cornexchangenew.com/event/exploring-the-history-of-the-common](https://cornexchangenew.com/event/exploring-the-history-of-the-common)
-
-**8/9 SEPTEMBER FRIDAY/SATURDAY -****Decontamination Suite, Greenham Business Park**
-
-**Decontamination Suite Tours**
-
-**Friday 11am-2pm**&nbsp;- Schools and groups tours by arrangement
-
-**Friday from 6pm-7.30pm**&nbsp;- Ticketed tours
-
-**Saturday 11am-2pm and 6pm-7.30pm**&nbsp;- Ticketed tours
-
-[https://cornexchangenew.com/event/decontamination-suite-tours](https://cornexchangenew.com/event/decontamination-suite-tours)
-
-**8/9 SEPTEMBER FRI/SAT, 11.30pm-1pm**
-
-**Military History Walk - Meet at Control Tower, Bury’s Bank Rd.**
-
-&nbsp;[https://cornexchangenew.com/event/military-history-walk](https://cornexchangenew.com/event/military-history-walk)
-
-Please visit the Greenham Trust website for more details:
-
-[http://www.greenhamtrust.com/greenham-100-years-of-war-and-peace](http://www.greenhamtrust.com/greenham-100-years-of-war-and-peace)
-
-&nbsp;
+[**Military History Walk**](https://cornexchangenew.com/event/military-history-walk)
