@@ -133,6 +133,4 @@ For more information about this production please click on the links below.
 
 [**Living with the Americans**](http://www.greenhamtrust.com/greenham-100-year-of-war-and-peace/event-info)
 
-&nbsp;
-
 ![](/uploads/versions/website-logos---x----3402-1309x---.jpg)
