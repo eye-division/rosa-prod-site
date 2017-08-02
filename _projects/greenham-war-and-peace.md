@@ -7,21 +7,27 @@ past: false
 description: 'A unique and exciting, large-scale outdoor community event will be held on Friday 8th and Saturday 9th September 2017 at Greenham Common. Greenham: War and Peace is a professionally led event project which is inviting hundreds of people from the local community to take part.'
 project_date: 2017-09-08 00:00:00
 project_to_date: 2017-09-09 00:00:00
-main_image_path: /uploads/Greenham Image Wildlife - artwork Kinetika with BBOWT volunteers.jpg
+main_image_path: /uploads/Greenham Image Grafitti - artwork  Mohammed Ali.jpg
 video_embed:
 images:
-  - image_path: '/uploads/banner, late 80s.jpg'
-    description: The cold war and peace camp era put Greenham Common on the international map
-  - image_path: /uploads/Launch-Party-062.JPG
-    description: Actors recreate USAF officers on base for the community launch
+  - image_path: /uploads/Greenham Image American base - description Home Front History re-enactors.jpg
+    description:
+  - image_path: /uploads/Greenham Image Wildlife - artwork Kinetika with BBOWT volunteers.jpg
+    description:
+  - image_path: /uploads/Greenham Image Grafitti - artwork  Mohammed Ali.jpg
+    description:
+  - image_path: "/uploads/Greenham Image Cold war  - artwork Kinteka with St Gabriel's School and peace women.jpg"
+    description:
   - image_path: /uploads/Launch-Party-004.JPG
     description: Street artist Mohammed Ali working with the design team
+  - image_path: /uploads/Launch-Party-062.JPG
+    description: Actors recreate USAF officers on base for the community launch
   - image_path: /uploads/battle-of-newbury---civil-war.jpg
     description: Civil War on the Common
-  - image_path: /uploads/banner-workshop-in-progress.JPG
-    description: Volunteers working on one of the ten silk banners
   - image_path: /uploads/cold-war---missile-launchers-1.JPG
     description: Cold War silk banner
+  - image_path: /uploads/banner-workshop-in-progress.JPG
+    description: Volunteers working on one of the ten silk banners
   - image_path: /uploads/cold-war---reagan.jpg
     description: Cold War silk banner
   - image_path: /uploads/greenham-common-trust---grant-recipients.jpg
@@ -36,14 +42,6 @@ images:
     description: Saturday 1st July 2017 Greenham Common Banner Walk
   - image_path: /uploads/P7010463.jpg
     description: Saturday 1st July 2017 Greenham Common Banner Walk
-  - image_path: "/uploads/Greenham Image Cold war  - artwork Kinteka with St Gabriel's School and peace women.jpg"
-    description:
-  - image_path: /uploads/Greenham Image American base - description Home Front History re-enactors.jpg
-    description:
-  - image_path: /uploads/Greenham Image Grafitti - artwork  Mohammed Ali.jpg
-    description:
-  - image_path: /uploads/Greenham Image Wildlife - artwork Kinetika with BBOWT volunteers.jpg
-    description:
   - image_path: /uploads/p7010409.jpg
     description: Saturday 1st July Greenham Common Banner Walk
   - image_path: /uploads/19884516-1959731497603879-483056254654754877-n.jpg
@@ -63,19 +61,25 @@ images:
 ---
 
 
-Greenham: 100 Years of &nbsp;War and Peace is a large scale outdoor event celebrating 20 years of the Greenham Trust. On the evenings of the 8th and 9th September 2017 the story of Greenham Common will come alive through an amazing spectacle of performance, songs, light projections and live art. We are expecting large audiences with some thousands on each night and the event will be filmed for online broadcast and covered by radio and TV. The event will portray 100 years of history of the Common and the dramatic moments of war and peace that form part of that history. It marks the 20th anniversary of the Greenham &nbsp;Trust which has distributed over &pound;35 million to local good causes since 1997. A FREE outdoor show with talks, walks and exhibitions from Sunday the 3rd September. The extraordinary history of Greenham Common forms a basis of a large-scale community theatrical event and show, performed on the runway of the former RAF USAF Military base. The outdoor event and accompanying programme celebrate 20 years since the MOD returned Greenham Common to local people and the Greenham Trust was formed. At the outdoor event, the stories of the Common will be told by 100s of cast members from the local community led by a professional production team.
-
-**Outdoor Show on Greenham Common
-<br>8 Friday / 9 Saturday September
-<br>Event start 6.30pm
-<br>Finale at 8.30pm
-<br>Event ends 9.30pm**
-
-<br>**[Download the programme](/uploads/greenham-100-years.pdf)**
+**[Download the programme](/uploads/greenham-100-years.pdf)**
 
 **[Participants and Production Timeline](/A Master Copy GREENHAM PARTICIPANTS AND PRODUCTION TIMELINE 1 Aug v4.pdf)**
 
-**Press Pack**
+Greenham: 100 Years of &nbsp;War and Peace is a large scale outdoor event celebrating 20 years of the Greenham Trust. On the evenings of the 8th and 9th September 2017 the story of Greenham Common will come alive through an amazing spectacle of performance, songs, light projections and live art. The Event will be filmed for online broadcast and covered by radio and TV. It will portray 100 years of history of the Common and the dramatic moments of war and peace that form part of that history. It marks the 20th anniversary of the Greenham &nbsp;Trust which has distributed over &pound;35 million to local good causes since 1997. A FREE outdoor show with talks, walks and exhibitions from Sunday the 3rd September. The extraordinary history of Greenham Common forms a basis of a large-scale community theatrical event and show, performed on the runway of the former RAF USAF Military base. The outdoor event and accompanying programme celebrate 20 years since the MOD returned Greenham Common to local people and the Greenham Trust was formed. At the outdoor event, the stories of the Common will be told by 100s of cast members from the local community led by a professional production team.
+
+**GREENHAM:100 YEARS OF WAR AND PEACE**
+
+**FREE Outdoor Show on Greenham Common**
+
+**8/9 SEPTEMBER FRIDAY AND SATURDAY, 6.30-9.30pm, Finale at 8.30pm**
+
+**Written by Beth Flintoff
+<br>Music by Nick Bic&acirc;t&nbsp;
+<br>Performance Director Sophie Austin.
+<br>Creative Director & Producer Rosa Productions
+<br>A large cast of local performers, choir, musicians, artists and re-enactors with Paola Dionisotti and other professional performers.**
+
+[**Press Pack**](http://www.greenhamtrust.com/greenham-100-year-of-war-and-peace/press-pack)
 
 For more information about this production please click on the links below.
 
@@ -85,6 +89,14 @@ For more information about this production please click on the links below.
 
 [**GREENHAM:100 Travel Information**](http://www.greenhamtrust.com/greenham-100-years-of-war-and-peace/transport)
 
+[Book Paid Parking](https://www.eventbrite.com/e/greenham-pre-bookable-paid-car-parking-100-years-war-and-peace-tickets-35757768448?aff=es2)
+
+[Book Disabled Parking](https://www.eventbrite.com/e/disabled-and-limited-mobility-parking-for-greenham-100-years-of-war-and-peace-tickets-35801326732?aff=ehomecard)
+
+[Book Bus Tickets from Newbury College](https://www.eventbrite.com/e/newbury-college-bus-two-way-return-trip-to-the-greenham-100-event-site-tickets-36079390428)
+
+[Free Shuttle Bus Service from Cheap Street, Newbury Town Centre](http://www.greenhamtrust.com/greenham-100-years-of-war-and-peace/transport)
+
 [**GREENHAM: 100 FAQs**](http://www.greenhamtrust.com/greenham-100-years-of-war-and-peace/faqs)
 
 **How Can I Still Get Involved?**
@@ -93,12 +105,30 @@ For more information about this production please click on the links below.
 
 **Upcoming Events**
 
-[**Mis****siles, Politics and&nbsp;****showdown?**](https://cornexchangenew.com/event/missiles-politics-and-peace)
+**[Memories of Greenham Common Planes, Military, Nature, Dances, Peace](http://www.greenhamtrust.com/greenham-100-year-of-war-and-peace/event-info)**
 
-[**Characters on the Common**](https://cornexchangenew.com/event/the-characters-on-the-common)
+[**Book Launch – The Common Good by Penelope Stokes**](http://www.greenhamtrust.com/greenham-100-years-of-war-and-peace/the-common-good-book)
 
-[**Exploring the History of the Common**](https://cornexchangenew.com/event/exploring-the-history-of-the-common)
+[**Mis****siles, Politics and&nbsp;****showdown?**](https://cornexchangenew.com/event/missiles-politics-and-peace)&nbsp;[BBC Shows and Tours](http://www.bbc.co.uk/showsandtours/shows/date/greenham_missiles)
+
+**[Characters on the Common](https://cornexchangenew.com/event/the-characters-on-the-common)&nbsp;**[BBC Shows and Tours](http://www.bbc.co.uk/showsandtours/shows/date/greenham_characters)
+
+**[Exploring the History of the Common](https://cornexchangenew.com/event/exploring-the-history-of-the-common)&nbsp;**[BBC Shows and Tours](http://www.bbc.co.uk/showsandtours/shows/date/greenham_history)
 
 [**Decontamination Suite Tours**](https://cornexchangenew.com/event/decontamination-suite-tours)
 
 [**Military History Walk**](https://cornexchangenew.com/event/military-history-walk)
+
+[**How We Made The Show with Free Afternoon Tea**](http://www.greenhamtrust.com/greenham-100-year-of-war-and-peace/event-info)
+
+[**Tracks Across the Common: Exhibition**](http://www.greenhamtrust.com/greenham-100-year-of-war-and-peace/event-info)
+
+[**West Berkshire Museum: Post Event Talks**](http://www.greenhamtrust.com/greenham-100-year-of-war-and-peace/event-info)
+
+[**Greenham: 100 Years of War and Peace**](http://www.greenhamtrust.com/greenham-100-year-of-war-and-peace/event-info)
+
+[**Plants and Wildlife on Greenham Common**](http://www.greenhamtrust.com/greenham-100-year-of-war-and-peace/event-info)
+
+[**Flight from Uganda: No Sense For What The Future Held**](http://www.greenhamtrust.com/greenham-100-year-of-war-and-peace/event-info)
+
+[**Living with the Americans**](http://www.greenhamtrust.com/greenham-100-year-of-war-and-peace/event-info)
