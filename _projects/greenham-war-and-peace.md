@@ -4,19 +4,29 @@ event: true
 media: false
 highlight: true
 past: false
-description: 'A unique and exciting, large-scale outdoor community event will be held on Friday 8th and Saturday 9th September 2017 at Greenham Common. Greenham: War and Peace is a professionally led event project which is inviting hundreds of people from the local community to take part.'
+description: >-
+  A unique and exciting, large-scale outdoor community event will be held on
+  Friday 8th and Saturday 9th September 2017 at Greenham Common. Greenham: War
+  and Peace is a professionally led event project which is inviting hundreds of
+  people from the local community to take part.
 project_date: 2017-09-08 00:00:00
 project_to_date: 2017-09-09 00:00:00
 main_image_path: /uploads/Greenham Image Grafitti - artwork  Mohammed Ali.jpg
 video_embed:
 images:
-  - image_path: /uploads/Greenham Image American base - description Home Front History re-enactors.jpg
+  - image_path: >-
+      /uploads/Greenham Image American base - description Home Front History
+      re-enactors.jpg
     description:
-  - image_path: /uploads/Greenham Image Wildlife - artwork Kinetika with BBOWT volunteers.jpg
+  - image_path: >-
+      /uploads/Greenham Image Wildlife - artwork Kinetika with BBOWT
+      volunteers.jpg
     description:
   - image_path: /uploads/Greenham Image Grafitti - artwork  Mohammed Ali.jpg
     description:
-  - image_path: "/uploads/Greenham Image Cold war  - artwork Kinteka with St Gabriel's School and peace women.jpg"
+  - image_path: >-
+      /uploads/Greenham Image Cold war  - artwork Kinteka with St Gabriel's
+      School and peace women.jpg
     description:
   - image_path: /uploads/Launch-Party-004.JPG
     description: Street artist Mohammed Ali working with the design team
@@ -31,13 +41,15 @@ images:
   - image_path: /uploads/cold-war---reagan.jpg
     description: Cold War silk banner
   - image_path: /uploads/greenham-common-trust---grant-recipients.jpg
-    description: "Greenham Common Trust's silk banner"
+    description: Greenham Common Trust's silk banner
   - image_path: /uploads/peace-protests-women.jpg
     description: Peace Protest silk banner
   - image_path: /uploads/wildlife-on-common---bbowt-volunteers.jpg
     description: Wildlife on Greenham Common
   - image_path: /uploads/p4060266.jpg
-    description: The Castle School in Newbury created this fantastic picture to show us all how much they love Greenham Common.
+    description: >-
+      The Castle School in Newbury created this fantastic picture to show us all
+      how much they love Greenham Common.
   - image_path: /uploads/p7010364.jpg
     description: Saturday 1st July 2017 Greenham Common Banner Walk
   - image_path: /uploads/P7010463.jpg
@@ -45,7 +57,7 @@ images:
   - image_path: /uploads/p7010409.jpg
     description: Saturday 1st July Greenham Common Banner Walk
   - image_path: /uploads/19884516-1959731497603879-483056254654754877-n.jpg
-    description: 'New Programmes loaded with all the latest information in it!'
+    description: New Programmes loaded with all the latest information in it!
   - image_path: /uploads/19894761-1959731447603884-7358910106456591154-n.jpg
     description: Choir Rehearsal
   - image_path: /uploads/19894852-1959742780936084-550552412400656173-n.jpg
@@ -79,8 +91,6 @@ Greenham: 100 Years of &nbsp;War and Peace is a large scale outdoor event celebr
 <br>Creative Director & Producer Rosa Productions
 <br>A large cast of local performers, choir, musicians, artists and re-enactors with Paola Dionisotti and other professional performers.**
 
-[**Press Pack**](http://www.greenhamtrust.com/greenham-100-year-of-war-and-peace/press-pack)
-
 For more information about this production please click on the links below.
 
 [**GREENHAM: 100 Outdoor Event**](http://www.greenhamtrust.com/greenham-100-year-of-war-and-peace/outdoor-event)
@@ -105,32 +115,38 @@ For more information about this production please click on the links below.
 
 **Upcoming Events**
 
-**[Memories of Greenham Common Planes, Military, Nature, Dances, Peace](http://www.greenhamtrust.com/greenham-100-year-of-war-and-peace/event-info)**
+[**Mis****siles, Politics and&nbsp;****showdown?**](https://cornexchangenew.com/event/missiles-politics-and-peace)&nbsp;[BBC Shows and Tours](http://www.bbc.co.uk/showsandtours/shows/date/greenham_missiles)&nbsp;**3rd September**
 
-[**Book Launch – The Common Good by Penelope Stokes**](http://www.greenhamtrust.com/greenham-100-years-of-war-and-peace/the-common-good-book)
+**[Memories of Greenham Common Planes, Military, Nature, Dances, Peace](http://www.greenhamtrust.com/greenham-100-year-of-war-and-peace/event-info)&nbsp;4th September**
 
-[**Mis****siles, Politics and&nbsp;****showdown?**](https://cornexchangenew.com/event/missiles-politics-and-peace)&nbsp;[BBC Shows and Tours](http://www.bbc.co.uk/showsandtours/shows/date/greenham_missiles)
+**[Characters on the Common](https://cornexchangenew.com/event/the-characters-on-the-common)&nbsp;**[BBC Shows and Tours](http://www.bbc.co.uk/showsandtours/shows/date/greenham_characters)&nbsp;**5th September**
 
-**[Characters on the Common](https://cornexchangenew.com/event/the-characters-on-the-common)&nbsp;**[BBC Shows and Tours](http://www.bbc.co.uk/showsandtours/shows/date/greenham_characters)
+**[Exploring the History of the Common](https://cornexchangenew.com/event/exploring-the-history-of-the-common)&nbsp;**[BBC Shows and Tours](http://www.bbc.co.uk/showsandtours/shows/date/greenham_history)&nbsp;**6th September**
 
-**[Exploring the History of the Common](https://cornexchangenew.com/event/exploring-the-history-of-the-common)&nbsp;**[BBC Shows and Tours](http://www.bbc.co.uk/showsandtours/shows/date/greenham_history)
+**[Book Launch – The Common Good by Penelope Stokes](http://www.greenhamtrust.com/greenham-100-years-of-war-and-peace/the-common-good-book)&nbsp;8th September**
 
-[**Decontamination Suite Tours**](https://cornexchangenew.com/event/decontamination-suite-tours)
+**[Decontamination Suite Tours](https://cornexchangenew.com/event/decontamination-suite-tours)&nbsp;8th & 9th September**
 
-[**Military History Walk**](https://cornexchangenew.com/event/military-history-walk)
+**[Military History Walk](https://cornexchangenew.com/event/military-history-walk)&nbsp;8th & 9th September**
 
-[**How We Made The Show with Free Afternoon Tea**](http://www.greenhamtrust.com/greenham-100-year-of-war-and-peace/event-info)
+**[How We Made The Show with Free Afternoon Tea](http://www.greenhamtrust.com/greenham-100-year-of-war-and-peace/event-info)&nbsp;9th September**
 
-[**Tracks Across the Common: Exhibition**](http://www.greenhamtrust.com/greenham-100-year-of-war-and-peace/event-info)
+**[Tracks Across the Common: Exhibition](http://www.greenhamtrust.com/greenham-100-year-of-war-and-peace/event-info)&nbsp;27th September**
+
+&nbsp;
 
 [**West Berkshire Museum: Post Event Talks**](http://www.greenhamtrust.com/greenham-100-year-of-war-and-peace/event-info)
 
-[**Greenham: 100 Years of War and Peace**](http://www.greenhamtrust.com/greenham-100-year-of-war-and-peace/event-info)
+**[Greenham: 100 Years of War and Peace](http://www.greenhamtrust.com/greenham-100-year-of-war-and-peace/event-info)&nbsp;4th October**
 
-[**Plants and Wildlife on Greenham Common**](http://www.greenhamtrust.com/greenham-100-year-of-war-and-peace/event-info)
+**[Plants and Wildlife on Greenham Common](http://www.greenhamtrust.com/greenham-100-year-of-war-and-peace/event-info)&nbsp;6th October**
 
-[**Flight from Uganda: No Sense For What The Future Held**](http://www.greenhamtrust.com/greenham-100-year-of-war-and-peace/event-info)
+**[Flight from Uganda: No Sense For What The Future Held](http://www.greenhamtrust.com/greenham-100-year-of-war-and-peace/event-info)&nbsp;13th October**
 
-[**Living with the Americans**](http://www.greenhamtrust.com/greenham-100-year-of-war-and-peace/event-info)
+**[Living with the Americans](http://www.greenhamtrust.com/greenham-100-year-of-war-and-peace/event-info)&nbsp;20th October**
+
+&nbsp;
+
+[**Press Pack**](http://www.greenhamtrust.com/greenham-100-year-of-war-and-peace/press-pack)
 
 ![](/uploads/versions/website-logos---x----3402-1309x---.jpg)
