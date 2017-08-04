@@ -113,7 +113,9 @@ For more information about this production please click on the links below.
 
 **Stewarding**&nbsp;- We are looking for keen individuals who would like to get involved on the 8th and 9th September. Please contact [laura@rosaproductions.co.uk](javascript:void(location.href='mailto:'+String.fromCharCode(108,97,117,114,97,64,114,111,115,97,112,114,111,100,117,99,116,105,111,110,115,46,99,111,46,117,107))) for more details.
 
-**Upcoming Events**
+**Upcoming Events&nbsp;**
+
+Please book tickets through the Corn Exchange or West Berkshire Museum. Please click no the event for more details.
 
 [**Mis****siles, Politics and&nbsp;****showdown?**](https://cornexchangenew.com/event/missiles-politics-and-peace)&nbsp;[BBC Shows and Tours](http://www.bbc.co.uk/showsandtours/shows/date/greenham_missiles)&nbsp;**3rd September, Corn Exchange, Newbury**
 
