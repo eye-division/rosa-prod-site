@@ -115,23 +115,23 @@ For more information about this production please click on the links below.
 
 **Upcoming Events**
 
-[**Mis****siles, Politics and&nbsp;****showdown?**](https://cornexchangenew.com/event/missiles-politics-and-peace)&nbsp;[BBC Shows and Tours](http://www.bbc.co.uk/showsandtours/shows/date/greenham_missiles)&nbsp;**3rd September**
+[**Mis****siles, Politics and&nbsp;****showdown?**](https://cornexchangenew.com/event/missiles-politics-and-peace)&nbsp;[BBC Shows and Tours](http://www.bbc.co.uk/showsandtours/shows/date/greenham_missiles)&nbsp;**3rd September, Corn Exchange, Newbury**
 
-**[Memories of Greenham Common Planes, Military, Nature, Dances, Peace](http://www.greenhamtrust.com/greenham-100-year-of-war-and-peace/event-info)&nbsp;4th September**
+**[Memories of Greenham Common Planes, Military, Nature, Dances, Peace](http://www.greenhamtrust.com/greenham-100-year-of-war-and-peace/event-info)&nbsp;4th September, Royal British Legion, Newbury**
 
-**[Characters on the Common](https://cornexchangenew.com/event/the-characters-on-the-common)&nbsp;**[BBC Shows and Tours](http://www.bbc.co.uk/showsandtours/shows/date/greenham_characters)&nbsp;**5th September**
+**[Characters on the Common](https://cornexchangenew.com/event/the-characters-on-the-common)&nbsp;**[BBC Shows and Tours](http://www.bbc.co.uk/showsandtours/shows/date/greenham_characters)&nbsp;**5th September, Corn Exchange, Newbury**
 
-**[Exploring the History of the Common](https://cornexchangenew.com/event/exploring-the-history-of-the-common)&nbsp;**[BBC Shows and Tours](http://www.bbc.co.uk/showsandtours/shows/date/greenham_history)&nbsp;**6th September**
+**[Exploring the History of the Common](https://cornexchangenew.com/event/exploring-the-history-of-the-common)&nbsp;**[BBC Shows and Tours](http://www.bbc.co.uk/showsandtours/shows/date/greenham_history)&nbsp;**6th September, Shaw House, Newbury**
 
-**[Book Launch – The Common Good by Penelope Stokes](http://www.greenhamtrust.com/greenham-100-years-of-war-and-peace/the-common-good-book)&nbsp;8th September**
+**[Book Launch – The Common Good by Penelope Stokes](http://www.greenhamtrust.com/greenham-100-years-of-war-and-peace/the-common-good-book)&nbsp;8th September, Cloth Hall, West Berkshire Museum**
 
-**[Decontamination Suite Tours](https://cornexchangenew.com/event/decontamination-suite-tours)&nbsp;8th & 9th September**
+**[Decontamination Suite Tours](https://cornexchangenew.com/event/decontamination-suite-tours)&nbsp;8th & 9th September, Greenham Business Park**
 
-**[Military History Walk](https://cornexchangenew.com/event/military-history-walk)&nbsp;8th & 9th September**
+**[Military History Walk](https://cornexchangenew.com/event/military-history-walk)&nbsp;8th & 9th September, Control Tower, Bury's Bank Road**
 
-**[How We Made The Show with Free Afternoon Tea](http://www.greenhamtrust.com/greenham-100-year-of-war-and-peace/event-info)&nbsp;9th September**
+**[How We Made The Show with Free Afternoon Tea](http://www.greenhamtrust.com/greenham-100-year-of-war-and-peace/event-info)&nbsp;9th September, Greenham St Mary's Church Hall**
 
-**[Tracks Across the Common: Exhibition](http://www.greenhamtrust.com/greenham-100-year-of-war-and-peace/event-info)&nbsp;27th September**
+**[Tracks Across the Common: Exhibition](http://www.greenhamtrust.com/greenham-100-year-of-war-and-peace/event-info)&nbsp;27th September, West Berkshire Museum**
 
 &nbsp;
 
