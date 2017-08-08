@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Join Our Historical Banner Walk Across Greenham Common
 main_image_path: /uploads/image002.png
 video_embed:
