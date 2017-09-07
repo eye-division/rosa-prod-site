@@ -129,13 +129,11 @@ Please book tickets through the Corn Exchange or West Berkshire Museum. Please c
 
 **[Decontamination Suite Tours](https://cornexchangenew.com/event/decontamination-suite-tours)&nbsp;8th & 9th September, Greenham Business Park**
 
-**[Military History Walk](https://cornexchangenew.com/event/military-history-walk)&nbsp;8th & 9th September, Control Tower, Bury's Bank Road**
+**[Military History Walk](https://cornexchangenew.com/event/military-history-walk)&nbsp;8th & 9th September, Control Tower, Bury’s Bank Road**
 
-**[How We Made The Show with Free Afternoon Tea](http://www.greenhamtrust.com/greenham-100-year-of-war-and-peace/event-info)&nbsp;9th September, Greenham St Mary's Church Hall**
+**[How We Made The Show with Free Afternoon Tea](http://www.greenhamtrust.com/greenham-100-year-of-war-and-peace/event-info)&nbsp;9th September, Greenham St Mary’s Church Hall**
 
 **[Tracks Across the Common: Exhibition](http://www.greenhamtrust.com/greenham-100-year-of-war-and-peace/event-info)&nbsp;27th September, West Berkshire Museum**
-
-&nbsp;
 
 [**West Berkshire Museum: Post Event Talks**](http://www.greenhamtrust.com/greenham-100-year-of-war-and-peace/event-info)
 
@@ -147,8 +145,8 @@ Please book tickets through the Corn Exchange or West Berkshire Museum. Please c
 
 **[Living with the Americans](http://www.greenhamtrust.com/greenham-100-year-of-war-and-peace/event-info)&nbsp;20th October**
 
-&nbsp;
-
 [**Press Pack**](http://www.greenhamtrust.com/greenham-100-year-of-war-and-peace/press-pack)
+
+## **#GreenhamWP17**
 
 ![](/uploads/versions/website-logos---x----3402-1309x---.jpg)
