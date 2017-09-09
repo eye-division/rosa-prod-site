@@ -85,11 +85,7 @@ Greenham: 100 Years of &nbsp;War and Peace is a large scale outdoor event celebr
 
 **8/9 SEPTEMBER FRIDAY AND SATURDAY, 6.30-9.30pm, Finale at 8.30pm**
 
-**Written by Beth Flintoff
-<br>Music by Nick Bic&acirc;t&nbsp;
-<br>Performance Director Sophie Austin.
-<br>Creative Director & Producer Rosa Productions
-<br>A large cast of local performers, choir, musicians, artists and re-enactors with Paola Dionisotti and other professional performers.**
+**Written by Beth Flintoff<br>Music by Nick Bic&acirc;t&nbsp;<br>Performance Director Sophie Austin.<br>Creative Director & Producer Rosa Productions<br>A large cast of local performers, choir, musicians, artists and re-enactors with Paola Dionisotti and other professional performers.**
 
 For more information about this production please click on the links below.
 
@@ -148,5 +144,7 @@ Please book tickets through the Corn Exchange or West Berkshire Museum. Please c
 [**Press Pack**](http://www.greenhamtrust.com/greenham-100-year-of-war-and-peace/press-pack)
 
 ## **#GreenhamWP17**
+
+**Did you attend the event? If so we would love to get your feedback! [Please click here to go to our survey page](https://www.surveymonkey.co.uk/r/S5K8TRP).&nbsp;**
 
 ![](/uploads/versions/website-logos---x----3402-1309x---.jpg)
