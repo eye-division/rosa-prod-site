@@ -1,5 +1,5 @@
 ---
-title: 'Greenham: 100 Years of War & Peace'
+title: 'Greenham: One Hundred Years of War & Peace'
 event: true
 media: false
 highlight: true
