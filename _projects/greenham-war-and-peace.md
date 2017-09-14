@@ -12,7 +12,13 @@ description: >-
 project_date: 2017-09-08 00:00:00
 project_to_date: 2017-09-09 00:00:00
 main_image_path: /uploads/Greenham Image Grafitti - artwork  Mohammed Ali.jpg
-video_embed:
+video_embed: >-
+  <iframe src="https://player.vimeo.com/video/233180405" width="640"
+  height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen
+  allowfullscreen></iframe> <p><a href="https://vimeo.com/233180405">FINALE OF
+  GREENHAM COMMON 100 YEARS OF WAR &amp; PEACE</a> from <a
+  href="https://vimeo.com/rosaproductions">Rosa Productions</a> on <a
+  href="https://vimeo.com">Vimeo</a>.</p>
 images:
   - image_path: >-
       /uploads/Greenham Image American base - description Home Front History
@@ -84,8 +90,6 @@ Greenham: 100 Years of &nbsp;War and Peace is a large scale outdoor event celebr
 **8/9 SEPTEMBER FRIDAY AND SATURDAY, 6.30-9.30pm, Finale at 8.30pm**
 
 **Written by Beth Flintoff<br>Music by Nick Bic&acirc;t&nbsp;<br>Performance Director Sophie Austin.<br>Creative Director & Producer Rosa Productions<br>A large cast of local performers, choir, musicians, artists and re-enactors with Paola Dionisotti and other professional performers.**
-
-&lt;iframe src="https://player.vimeo.com/video/233180405" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt; &lt;p&gt;&lt;a href="https://vimeo.com/233180405"&gt;FINALE OF GREENHAM COMMON 100 YEARS OF WAR & PEACE&lt;/a&gt; from &lt;a href="https://vimeo.com/rosaproductions"&gt;Rosa Productions&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
 
 For more information about this production please click on the links below.
 
