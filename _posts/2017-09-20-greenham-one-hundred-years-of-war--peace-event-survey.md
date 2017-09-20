@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'GREENHAM: ONE HUNDRED YEARS OF WAR & PEACE EVENT SURVEY'
-date:
+date: 2017-09-20 14:24:27
 main_image_path: /uploads/greenham-wp17-1.jpg
 video_embed:
 images:
