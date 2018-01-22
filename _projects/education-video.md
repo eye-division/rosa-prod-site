@@ -40,4 +40,4 @@ The media content sits online as part of their international postgraduate course
 
 We work closely with the learning and publishing teams, and with the academics to create a range of materials to support learning.
 
-We manage the pre-production of the academic content and introductory material to lecturers, filming of course content, creation of graphics and post production of the video content.
+We manage the pre-production of the academic content and introductory material, filming of course content, including interviews, case studies, learning materials, online recording of interviews with international collaborators, creation of graphics and post production of the video content.
