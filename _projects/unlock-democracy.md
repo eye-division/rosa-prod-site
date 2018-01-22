@@ -6,8 +6,8 @@ highlight: false
 past: true
 description: >-
   To mark the 800th anniversary of the Magna Carta we were commissioned by
-  Unlock Democracy to attend and work with communities to film events across the
-  UK, the filmed community,  the participation, the discussions and creative
+  Unlock Democracy to attend and work with communities to film their events
+  across the UK, including community participation in discussions and creative
   activity.  Short films were produced for each event for use on social media
   and web, and for documenting the overall project we produced a video which
   summarised the views and debates around proposals for a new Magna Carta.
