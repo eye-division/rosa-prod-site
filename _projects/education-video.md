@@ -36,8 +36,8 @@ images:
 
 Rosa Productions is working in partnership with Wiley Publishing on the production of video media for post-graduate courses at the University of Birmingham and Nottingham Trent University.
 
-The media content sits online as part of their international postgraduate courses in business, public administration, construction project management and international relations.
+The media content sits online as part of their international postgraduate courses in business (MBA and MSc), public administration (MPA), construction project management (MSc) and international relations (MA).
 
-We work closely with the learning and publishing teams, and with the academics to create a range of materials to support learning.
+We work closely with the learning and publishing teams, and with the academics, to create a range of materials to support learning.
 
 We manage the pre-production of the academic content and introductory material, filming of course content, including interviews, case studies, learning materials, online recording of interviews with international collaborators, creation of graphics and post production of the video content.
