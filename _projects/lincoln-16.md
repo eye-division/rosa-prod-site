@@ -3,7 +3,7 @@ title: Lincoln 16 - BBC partnership project
 event: false
 media: true
 highlight: false
-past: false
+past: true
 description: >-
   Lincoln 16 was a collaborative project with BBC Radio Lincolnshire bringing to
   life World War One Lincoln through broadcast, social media and events.  The
