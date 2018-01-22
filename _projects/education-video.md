@@ -4,9 +4,12 @@ event: false
 media: true
 highlight: false
 past: false
-description: Rosa Productions is working with Wiley Publishing on the production of educational video media for post-graduate courses at the University of Birmingham and Nottingham Trent University.
-project_date: 2015-11-01T00:00:00.000Z
-project_to_date: 2016-12-31T00:00:00.000Z
+description: >-
+  Rosa Productions is working with Wiley Publishing on the production of
+  educational video media for post-graduate courses at the University of
+  Birmingham and Nottingham Trent University.
+project_date: 2015-11-01 00:00:00
+project_to_date: 2018-12-31 00:00:00
 main_image_path: /uploads/uni-birmingham1.jpg
 video_embed:
 images:
