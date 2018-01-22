@@ -1,5 +1,5 @@
 ---
-title: Unlock Democracy
+title: Unlock Democracy - Magna Carta
 event: false
 media: true
 highlight: false
