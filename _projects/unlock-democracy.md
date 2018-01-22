@@ -11,7 +11,7 @@ description: >-
   activity.  Short films were produced for each event for use on social media
   and web, and for documenting the overall project we produced a video which
   summarised the views and debates around proposals for a new Magna Carta.
-project_date: 2017-01-08 00:00:00
+project_date: 2015-01-11 00:00:00
 project_to_date: 2015-11-30 00:00:00
 main_image_path: /uploads/2015-06-14 10.31.45.jpg
 video_embed: >-
