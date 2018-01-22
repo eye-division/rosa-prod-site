@@ -2,7 +2,7 @@
 title: University Online Courses - Video Content
 event: false
 media: true
-highlight: false
+highlight: true
 past: false
 description: >-
   Rosa Productions is working with Wiley Publishing on the production of
