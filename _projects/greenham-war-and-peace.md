@@ -3,7 +3,7 @@ title: 'Greenham: One Hundred Years of War & Peace'
 event: true
 media: false
 highlight: true
-past: false
+past: true
 description: >-
   A unique and exciting, large-scale outdoor community event will be held on
   Friday 8th and Saturday 9th September 2017 at Greenham Common. Greenham: War
@@ -156,10 +156,9 @@ images:
     description: Oxygen Photography
 ---
 
-
 [**Download the programme**](/Update (4 Aug)  GREENHAM PARTICIPANTS AND PRODUCTION TIMELINE version 4.docx)
 
-Greenham: One Hundred Years of &nbsp;War and Peace was a large scale outdoor event celebrating 20 years of the Greenham Trust. On the evenings of the 8th and 9th September 2017 the story of Greenham Common came alive through an amazing spectacle of performance, songs, light projections and live art. The Event was filmed for online broadcast and was covered by radio and TV. It portrayed one hundred years of history of the Common and the dramatic moments of war and peace that form part of it's history. It marked the 20th anniversary of the Greenham Trust which has distributed over &pound;35 million to local good causes since 1997. It was a FREE outdoor show with talks, walks and exhibitions from Sunday the 3rd September. The extraordinary history of Greenham Common has formed the basis of a large-scale community theatrical event and show, performed on the runway of the former RAF USAF Military base. The outdoor event and accompanying programme celebrated 20 years since the MOD returned Greenham Common to local people and the Greenham Trust was formed. At the outdoor event, the stories of the Common were told by 100s of cast members from the local community and led by a professional production team.
+Greenham: One Hundred Years of  War and Peace was a large scale outdoor event celebrating 20 years of the Greenham Trust. On the evenings of the 8th and 9th September 2017 the story of Greenham Common came alive through an amazing spectacle of performance, songs, light projections and live art. The Event was filmed for online broadcast and was covered by radio and TV. It portrayed one hundred years of history of the Common and the dramatic moments of war and peace that form part of it’s history. It marked the 20th anniversary of the Greenham Trust which has distributed over £35 million to local good causes since 1997. It was a FREE outdoor show with talks, walks and exhibitions from Sunday the 3rd September. The extraordinary history of Greenham Common has formed the basis of a large-scale community theatrical event and show, performed on the runway of the former RAF USAF Military base. The outdoor event and accompanying programme celebrated 20 years since the MOD returned Greenham Common to local people and the Greenham Trust was formed. At the outdoor event, the stories of the Common were told by 100s of cast members from the local community and led by a professional production team.
 
 **GREENHAM: ONE HUNDRED YEARS OF WAR AND PEACE**
 
@@ -167,7 +166,7 @@ Greenham: One Hundred Years of &nbsp;War and Peace was a large scale outdoor eve
 
 **8/9 SEPTEMBER FRIDAY AND SATURDAY, 6.30-9.30pm, Finale at 8.30pm**
 
-**Written by Beth Flintoff<br>Music by Nick Bic&acirc;t&nbsp;<br>Performance Director Sophie Austin.<br>Creative Director & Producer Rosa Productions<br>A large cast of local performers, choir, musicians, artists and re-enactors with Paola Dionisotti and other professional performers.**
+**Written by Beth Flintoff<br>Music by Nick Bicât <br>Performance Director Sophie Austin.<br>Creative Director & Producer Rosa Productions<br>A large cast of local performers, choir, musicians, artists and re-enactors with Paola Dionisotti and other professional performers.**
 
 For more information about this production please click on the links below.
 
@@ -183,33 +182,33 @@ For more information about this production please click on the links below.
 
 Please book tickets through the Corn Exchange or West Berkshire Museum. Please click no the event for more details.
 
-[**Mis****siles, Politics and****showdown?**](https://cornexchangenew.com/event/missiles-politics-and-peace)&nbsp;[BBC Shows and Tours](http://www.bbc.co.uk/showsandtours/shows/date/greenham_missiles)&nbsp;**3rd September, Corn Exchange, Newbury**
+[**Mis****siles, Politics and****showdown?**](https://cornexchangenew.com/event/missiles-politics-and-peace) [BBC Shows and Tours](http://www.bbc.co.uk/showsandtours/shows/date/greenham_missiles) **3rd September, Corn Exchange, Newbury**
 
-**[Memories of Greenham Common Planes, Military, Nature, Dances, Peace](http://www.greenhamtrust.com/greenham-100-year-of-war-and-peace/event-info)&nbsp;4th September, Royal British Legion, Newbury**
+**[Memories of Greenham Common Planes, Military, Nature, Dances, Peace](http://www.greenhamtrust.com/greenham-100-year-of-war-and-peace/event-info) 4th September, Royal British Legion, Newbury**
 
-**[Characters on the Common](https://cornexchangenew.com/event/the-characters-on-the-common)**[BBC Shows and Tours](http://www.bbc.co.uk/showsandtours/shows/date/greenham_characters)&nbsp;**5th September, Corn Exchange, Newbury**
+**[Characters on the Common](https://cornexchangenew.com/event/the-characters-on-the-common)**[BBC Shows and Tours](http://www.bbc.co.uk/showsandtours/shows/date/greenham_characters) **5th September, Corn Exchange, Newbury**
 
-**[Exploring the History of the Common](https://cornexchangenew.com/event/exploring-the-history-of-the-common)**[BBC Shows and Tours](http://www.bbc.co.uk/showsandtours/shows/date/greenham_history)&nbsp;**6th September, Shaw House, Newbury**
+**[Exploring the History of the Common](https://cornexchangenew.com/event/exploring-the-history-of-the-common)**[BBC Shows and Tours](http://www.bbc.co.uk/showsandtours/shows/date/greenham_history) **6th September, Shaw House, Newbury**
 
-**[Book Launch – The Common Good by Penelope Stokes](http://www.greenhamtrust.com/greenham-100-years-of-war-and-peace/the-common-good-book)&nbsp;8th September, Cloth Hall, West Berkshire Museum**
+**[Book Launch – The Common Good by Penelope Stokes](http://www.greenhamtrust.com/greenham-100-years-of-war-and-peace/the-common-good-book) 8th September, Cloth Hall, West Berkshire Museum**
 
-**[Decontamination Suite Tours](https://cornexchangenew.com/event/decontamination-suite-tours)&nbsp;8th & 9th September, Greenham Business Park**
+**[Decontamination Suite Tours](https://cornexchangenew.com/event/decontamination-suite-tours) 8th & 9th September, Greenham Business Park**
 
-**[Military History Walk](https://cornexchangenew.com/event/military-history-walk)&nbsp;8th & 9th September, Control Tower, Bury’s Bank Road**
+**[Military History Walk](https://cornexchangenew.com/event/military-history-walk) 8th & 9th September, Control Tower, Bury’s Bank Road**
 
-**[How We Made The Show with Free Afternoon Tea](http://www.greenhamtrust.com/greenham-100-year-of-war-and-peace/event-info)&nbsp;9th September, Greenham St Mary’s Church Hall**
+**[How We Made The Show with Free Afternoon Tea](http://www.greenhamtrust.com/greenham-100-year-of-war-and-peace/event-info) 9th September, Greenham St Mary’s Church Hall**
 
-**[Tracks Across the Common: Exhibition](http://www.greenhamtrust.com/greenham-100-year-of-war-and-peace/event-info)&nbsp;27th September, West Berkshire Museum**
+**[Tracks Across the Common: Exhibition](http://www.greenhamtrust.com/greenham-100-year-of-war-and-peace/event-info) 27th September, West Berkshire Museum**
 
 [**West Berkshire Museum: Post Event Talks**](http://www.greenhamtrust.com/greenham-100-year-of-war-and-peace/event-info)
 
-**[Greenham: 100 Years of War and Peace](http://www.greenhamtrust.com/greenham-100-year-of-war-and-peace/event-info)&nbsp;4th October**
+**[Greenham: 100 Years of War and Peace](http://www.greenhamtrust.com/greenham-100-year-of-war-and-peace/event-info) 4th October**
 
-**[Plants and Wildlife on Greenham Common](http://www.greenhamtrust.com/greenham-100-year-of-war-and-peace/event-info)&nbsp;6th October**
+**[Plants and Wildlife on Greenham Common](http://www.greenhamtrust.com/greenham-100-year-of-war-and-peace/event-info) 6th October**
 
-**[Flight from Uganda: No Sense For What The Future Held](http://www.greenhamtrust.com/greenham-100-year-of-war-and-peace/event-info)&nbsp;13th October**
+**[Flight from Uganda: No Sense For What The Future Held](http://www.greenhamtrust.com/greenham-100-year-of-war-and-peace/event-info) 13th October**
 
-**[Living with the Americans](http://www.greenhamtrust.com/greenham-100-year-of-war-and-peace/event-info)&nbsp;20th October**
+**[Living with the Americans](http://www.greenhamtrust.com/greenham-100-year-of-war-and-peace/event-info) 20th October**
 
 [**Press Pack**](http://www.greenhamtrust.com/greenham-100-year-of-war-and-peace/press-pack)
 
