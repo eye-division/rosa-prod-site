@@ -1,12 +1,15 @@
 ---
 title: Gravity Fields Festival 2018
-event: false
+event: true
 media: false
 highlight: false
 past: false
-description:
-project_date:
-project_to_date:
+description: >-
+  A flowery feast of a festival in 2018 themed on Voyages of Discovery and the
+  250th anniversary of the sailing of HMS Endeavour with Captain Cook and
+  Lincolnshire born Sir Joseph Banks.
+project_date: 2018-09-26 00:00:00
+project_to_date: 2018-09-30 00:00:00
 main_image_path: /uploads/IMG_6340.JPG
 video_embed: >-
   <iframe
