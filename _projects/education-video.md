@@ -33,7 +33,7 @@ images:
     description:
 ---
 
-Rosa Productions is working in partnership with Wiley Publishing on the production of video media for post-graduate courses at the University of Birmingham and Nottingham Trent University.
+Rosa Productions is working in partnership with Wiley Publishing on the production of video media for post-graduate courses at the University of Birmingham and Nottingham Trent University.&nbsp;
 
 The media content sits online as part of their international postgraduate courses in business (MBA and MSc), public administration (MPA), construction project management (MSc) and international relations (MA).
 
