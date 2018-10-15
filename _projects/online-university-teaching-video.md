@@ -1,5 +1,5 @@
 ---
-title: Online University Teaching Video
+title: University Teaching Video Production
 event: false
 media: true
 highlight: true
