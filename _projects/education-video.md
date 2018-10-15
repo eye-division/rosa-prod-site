@@ -14,7 +14,11 @@ project_date: 2015-11-01 00:00:00
 project_to_date: 2018-12-31 00:00:00
 main_image_path: /uploads/uni-birmingham1.jpg
 video_embed: >-
-  https://cdnapisec.kaltura.com/index.php/extwidget/preview/partner_id/941911/uiconf_id/38868771/entry_id/1_r57kkhyx/embed/dynamic
+  <iframe
+  src="https://cdnapisec.kaltura.com/p/941911/sp/94191100/embedIframeJs/uiconf_id/38868771/partner_id/941911?iframeembed=true&playerId=kaltura_player_1538660145&entry_id=1_r57kkhyx&flashvars[streamerType]=auto"
+  width="560" height="395" allowfullscreen webkitallowfullscreen
+  mozAllowFullScreen allow="autoplay *; fullscreen *; encrypted-media *"
+  frameborder="0"></iframe>
 images:
   - image_path: /uploads/2015-07-07 17.22.45.jpg
     description: Camera Operator  for university shoot
