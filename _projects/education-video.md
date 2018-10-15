@@ -13,8 +13,7 @@ description: >-
 project_date: 2015-11-01 00:00:00
 project_to_date: 2018-12-31 00:00:00
 main_image_path: /uploads/uni-birmingham1.jpg
-video_embed: >-
-  https://cdnapisec.kaltura.com/index.php/extwidget/preview/partner_id/941911/uiconf_id/38868771/entry_id/1_r57kkhyx/embed/dynamic
+video_embed:
 images:
   - image_path: /uploads/2015-07-07 17.22.45.jpg
     description: Camera Operator  for university shoot
@@ -34,7 +33,7 @@ images:
     description:
 ---
 
-Rosa Productions is working in partnership with Wiley Publishing on the production of video media for post-graduate courses at the University of Birmingham and Nottingham Trent University.&nbsp;
+Rosa Productions is working in partnership with Wiley Publishing on the production of video media for post-graduate courses at the University of Birmingham and Nottingham Trent University. 
 
 The media content sits online as part of their international postgraduate courses in business (MBA and MSc), public administration (MPA), construction project management (MSc) and international relations (MA).
 
