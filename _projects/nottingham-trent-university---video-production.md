@@ -1,12 +1,15 @@
 ---
 title: Nottingham Trent University  - video production
 event: false
-media: false
+media: true
 highlight: false
 past: false
-description:
-project_date:
-project_to_date:
+description: >-
+  Filming at Nottingham Trent University covers a wide range of course content -
+  International Relations, Construction Project Management and the MBA with
+  specialist pathways.
+project_date: 2016-03-01 00:00:00
+project_to_date: 2018-10-16 00:00:00
 main_image_path: /uploads/Newton building IMG_2840.jpg
 video_embed:
 images:
@@ -22,3 +25,4 @@ images:
       Newark new council offices
 ---
 
+Over two years we have filmed all over England from the rooftops overlooking the Houses of Parliament, to an empty airfield in Lincolnshire, to the streets of Nottingham.&nbsp; We work with teams of academics from the university and the Wiley learning designers to present the teachers to students across the world on these online courses, and give a flavour of life at the university in Nottingham and across the UK.
