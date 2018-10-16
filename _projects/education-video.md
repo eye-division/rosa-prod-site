@@ -5,7 +5,7 @@ media: true
 highlight: false
 past: false
 description: >-
-  We work on a variety of international online post-graduate courses with Wiley
+  We work on a variety of international online postgraduate courses with Wiley
   Education Services for the University of Birmingham.  Educational media
   content produced for the courses includes documentary, teacher presence and
   graphics led production.
