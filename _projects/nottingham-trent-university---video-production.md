@@ -25,10 +25,12 @@ images:
       Newark new council offices
   - image_path: /uploads/healthcare ambulances shutterstock_126460121.jpg
     description: Filming for MBA
-  - image_path: /uploads/mair1-banner.jpg
+  - image_path: /uploads/IMAGE 8.jpg
     description: >-
       International Relations is one of three postgraduate courses for which we
       produce video content
+  - image_path:
+    description:
 ---
 
 Over two years we have filmed all over England from the rooftops overlooking the Houses of Parliament, to an empty airfield in Lincolnshire, to the streets of Nottingham.  We work with teams of academics from the university and the Wiley learning designers to present the teachers to students across the world on these online courses, and give a flavour of life at the university in Nottingham and across the UK.
