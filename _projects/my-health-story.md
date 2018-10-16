@@ -9,7 +9,7 @@ description: >-
   testament short films and digital stories has  a focus on the people of the
   London boroughs of Lambeth and Southwark,. We worked with community groups to
   reach individuals to share their stories about living with multiple long term
-  health .conditions.
+  health conditions.
 project_date: 2018-01-07 00:00:00
 project_to_date: 2018-07-31 00:00:00
 main_image_path: /Mario_Shoot.jpg
