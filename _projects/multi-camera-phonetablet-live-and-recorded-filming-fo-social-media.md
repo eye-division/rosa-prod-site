@@ -1,0 +1,15 @@
+---
+title: Multi-camera phone/tablet live and recorded filming fo social media
+event: false
+media: false
+highlight: false
+past: false
+description:
+project_date:
+project_to_date:
+main_image_path:
+video_embed:
+images:
+  - image_path:
+    description:
+---
