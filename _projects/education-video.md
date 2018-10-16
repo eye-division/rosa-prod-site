@@ -13,7 +13,10 @@ description: >-
 project_date: 2015-11-01 00:00:00
 project_to_date: 2018-12-31 00:00:00
 main_image_path: /uploads/uni-birmingham1.jpg
-video_embed:
+video_embed: >-
+  <iframe width="560" height="315"
+  src="https://www.youtube.com/embed/_TuTVPMLmhI" frameborder="0"
+  allow="autoplay; encrypted-media" allowfullscreen></iframe>
 images:
   - image_path: /uploads/2015-07-07 17.22.45.jpg
     description: Camera Operator  for university shoot
