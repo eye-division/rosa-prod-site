@@ -23,6 +23,12 @@ images:
     description: >-
       Filming for construction project management course at NTU - on location at
       Newark new council offices
+  - image_path: /uploads/healthcare ambulances shutterstock_126460121.jpg
+    description: Filming for MBA
+  - image_path: /uploads/mair1-banner.jpg
+    description: >-
+      International Relations is one of three postgraduate courses for which we
+      produce video content
 ---
 
-Over two years we have filmed all over England from the rooftops overlooking the Houses of Parliament, to an empty airfield in Lincolnshire, to the streets of Nottingham.&nbsp; We work with teams of academics from the university and the Wiley learning designers to present the teachers to students across the world on these online courses, and give a flavour of life at the university in Nottingham and across the UK.
+Over two years we have filmed all over England from the rooftops overlooking the Houses of Parliament, to an empty airfield in Lincolnshire, to the streets of Nottingham.  We work with teams of academics from the university and the Wiley learning designers to present the teachers to students across the world on these online courses, and give a flavour of life at the university in Nottingham and across the UK.
