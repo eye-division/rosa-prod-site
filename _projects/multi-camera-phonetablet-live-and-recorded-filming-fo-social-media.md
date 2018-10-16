@@ -7,8 +7,8 @@ past: false
 description: >-
   Our media coverage of arts events offers a very contemporary opportunity to
   publish our own video content live, using phones, tablets and mobile software
-  technologies.  We work with arts partners and live events producers to provide
-  live and recorded multi camera or single camera coverage of events
+  technologies.  We also work with arts partners and live events producers to
+  provide live and recorded multi camera or single camera coverage of events
 project_date: 2016-07-01 00:00:00
 project_to_date: 2018-10-16 00:00:00
 main_image_path: /uploads/film 1 IMG_4691.JPG
@@ -33,4 +33,4 @@ images:
       of Discovery
 ---
 
-Working with upcoming crews and videographers we capture live event footage and mix with the experience of TV broadcasters used to multi-camera operation.&nbsp; We are constantly experimenting with new technologies to see how we can best capture arts and live events and work with social media publishing to provide live streaming and creative coverage.&nbsp; We are keen to work with new partners to explore the potential of this ever changing and adapting world of technology.
+Working with upcoming crews and videographers we capture live event footage and mix with the experience of TV broadcasters used to multi-camera operation.  We are constantly experimenting with new technologies to see how we can best capture arts and live events and work with social media publishing to provide live streaming and creative coverage.  We are keen to work with new partners to explore the potential of this ever changing and adapting world of technology.
