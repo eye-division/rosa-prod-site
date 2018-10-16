@@ -33,3 +33,4 @@ images:
       of Discovery
 ---
 
+Working with upcoming crews and videographers we capture live event footage and mix with the experience of TV broadcasters used to multi-camera operation.&nbsp; We are constantly experimenting with new technologies to see how we can best capture arts and live events and work with social media publishing to provide live streaming and creative coverage.&nbsp; We are keen to work with new partners to explore the potential of this ever changing and adapting world of technology.
