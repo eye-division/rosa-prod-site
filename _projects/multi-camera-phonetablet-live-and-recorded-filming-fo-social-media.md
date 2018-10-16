@@ -8,8 +8,9 @@ description: >-
   Our media coverage of arts and other live events offers a very contemporary
   opportunity to publish video content of our own arts and outdoor events live,
   using phones, tablets and mobile software technologies.  We also work with
-  arts partners and live events producers to provide live and recorded multi
-  camera or single camera coverage of events
+  partners and clients who present live arts and other live events to produce
+  live and recorded multi camera or single camera coverage of events and
+  publishing online.
 project_date: 2016-07-01 00:00:00
 project_to_date: 2018-10-16 00:00:00
 main_image_path: /uploads/film 1 IMG_4691.JPG
