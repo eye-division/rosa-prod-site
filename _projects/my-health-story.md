@@ -24,6 +24,16 @@ images:
     description: Lindsay
   - image_path: /uploads/Photo Lynda in Garden - master shot.jpg
     description: Lynda
+  - image_path: /uploads/photo Frederick Violin with fabric pattern .jpg
+    description: Frederick's violin
+  - image_path: /uploads/photo Mario_tasting2.jpg
+    description: Mario and family
+  - image_path: /uploads/photo inacia and dog 1.jpg
+    description: Inacia
+  - image_path: /uploads/photo Sue IMG_7992.jpg
+    description: Sue
+  - image_path: /uploads/photo Jacqueline IMG_6738 cropped and treated.jpg
+    description: Jacqueline
 ---
 
 Guy’s and St Thomas’ Charity has a focus on big health challenges that affect inner-city areas. Multiple long-term conditions are key amongst these.  We were invited to work with the charity’s community and medical health partners to help individuals tell their own video and digital stories about living with multiple conditions.<br><br>Thank you to all who took part in community groups and to those who shared their stories with us in detail: Frederick, Inacia, Jacqueline, Lesley, Lindsay, Lynda, Mario and Sue.
