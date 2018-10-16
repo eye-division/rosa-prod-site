@@ -17,6 +17,8 @@ video_embed: >-
   src="https://player.vimeo.com/video/284330850" frameborder="0" allowFullScreen
   mozallowfullscreen webkitAllowFullScreen></iframe>
 images:
+  - image_path: 'https://gsttcharity-uk.shorthandstories.com/lynda/'
+    description: Lynda's Story
   - image_path:
     description:
 ---
