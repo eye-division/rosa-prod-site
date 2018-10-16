@@ -1,5 +1,5 @@
 ---
-title: University Online Courses - Video Content
+title: University of Birmingham - Video Production
 event: false
 media: true
 highlight: false
@@ -9,10 +9,10 @@ description: >-
   courses with Wiley Publishing.  Educational media content produced for the
   courses includes documentary, teacher presence and graphics led production. 
   The video and media are post-graduate course content for the University of
-  Birmingham and Nottingham Trent University.
+  Birmingham
 project_date: 2015-11-01 00:00:00
 project_to_date: 2018-12-31 00:00:00
-main_image_path: /uploads/uni-birmingham1.jpg
+main_image_path: /assets/Grad 2018-07-05 10.52.20.jpg
 video_embed: >-
   <iframe width="560" height="315"
   src="https://www.youtube.com/embed/_TuTVPMLmhI" frameborder="0"
@@ -36,9 +36,7 @@ images:
     description:
 ---
 
-Rosa Productions is working in partnership with Wiley Publishing on the production of video media for post-graduate courses at the University of Birmingham and Nottingham Trent University. 
-
-The media content sits online as part of their international postgraduate courses in business (MBA and MSc), public administration (MPA), construction project management (MSc) and international relations (MA).
+Rosa Productions is working in partnership with Wiley Publishing on the production of video media for post-graduate courses at the University of Birmingham for MBA, MSc and Masters of Public Adminstration Courses.
 
 We work closely with the learning and publishing teams, and with the academics, to create a range of materials to support learning.
 
