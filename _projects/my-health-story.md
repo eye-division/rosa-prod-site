@@ -7,7 +7,7 @@ past: false
 description: >-
   Commissioned by Guy's and St Thomas' Charity, this series of personal
   testament short films and digital stories has  a focus on the people of the
-  London boroughs of Lambeth and Southwark,. We worked with community groups to
+  London boroughs of Lambeth and Southwark. We worked with community groups to
   reach individuals to share their stories about living with multiple long term
   health conditions.
 project_date: 2018-01-07 00:00:00
