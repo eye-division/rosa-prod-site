@@ -5,11 +5,10 @@ media: true
 highlight: false
 past: false
 description: >-
-  Rosa Productions is working on a variety of international online post-graduate
-  courses with Wiley Publishing.  Educational media content produced for the
-  courses includes documentary, teacher presence and graphics led production. 
-  The video and media are post-graduate course content for the University of
-  Birmingham
+  We work on a variety of international online post-graduate courses with Wiley
+  Publishing for the University of Birmingham.  Educational media content
+  produced for the courses includes documentary, teacher presence and graphics
+  led production.
 project_date: 2015-11-01 00:00:00
 project_to_date: 2018-12-31 00:00:00
 main_image_path: /assets/Grad 2018-07-05 10.52.20.jpg
@@ -36,7 +35,7 @@ images:
     description:
 ---
 
-Rosa Productions is working in partnership with Wiley Publishing on the production of video media for post-graduate courses at the University of Birmingham for MBA, MSc and Masters of Public Adminstration Courses.
+We have been working in partnership with Wiley Publishing since 2015 on the production of video media for post-graduate courses at the University of Birmingham for MBA, MSc and Masters of Public Adminstration Courses.
 
 We work closely with the learning and publishing teams, and with the academics, to create a range of materials to support learning.
 
