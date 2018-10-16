@@ -35,7 +35,7 @@ images:
     description:
 ---
 
-We have been working in partnership with Wiley Publishing since 2015 on the production of video media for post-graduate courses at the University of Birmingham for MBA, MSc and Masters of Public Adminstration Courses.
+We have been working in partnership with Wiley Publishing since 2015 on the production of video media for post-graduate courses at the University of Birmingham for MBA, MSc and Masters of Public Adminstration courses.
 
 We work closely with the learning and publishing teams, and with the academics, to create a range of materials to support learning.
 
