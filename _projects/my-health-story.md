@@ -2,7 +2,7 @@
 title: My Health Story
 event: false
 media: true
-highlight: false
+highlight: true
 past: false
 description: >-
   Working with partners of Guy's and St Thomas' Charity and with a focus on the
