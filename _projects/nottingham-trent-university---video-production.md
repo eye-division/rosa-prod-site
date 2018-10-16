@@ -33,4 +33,4 @@ images:
     description:
 ---
 
-Over two years we have filmed all over England from the rooftops overlooking the Houses of Parliament, to an empty airfield in Lincolnshire, to the streets of Nottingham.  We work with teams of academics from the university and the Wiley learning designers to present the teachers to students across the world on these online courses, and give a flavour of life at the university in Nottingham and across the UK.
+Over two years we have filmed all over England from the rooftops overlooking the Houses of Parliament, to an empty airfield in Lincolnshire, to the streets of Nottingham.&nbsp; We work with teams of academics from the university and the Wiley Education Services learning designers to present the teachers to students across the world on these online courses, and give a flavour of life at the university in Nottingham and across the UK.
