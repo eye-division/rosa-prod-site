@@ -31,6 +31,6 @@ Guy’s and St Thomas’ Charity has a focus on big health challenges that affec
 
 &nbsp;Gayle Willis, Director of Communications, Guy’s and St Thomas’ Charity
 
-**Mario's digital story and video**
+[**Mario’s digital story and video**](https://gsttcharity-uk.shorthandstories.com/mario/){: target="_blank"}
 
 &nbsp;
