@@ -1,7 +1,7 @@
 ---
 title: Multi-camera/phone/tablet live and recorded filming for social media
 event: false
-media: false
+media: true
 highlight: false
 past: false
 description:
