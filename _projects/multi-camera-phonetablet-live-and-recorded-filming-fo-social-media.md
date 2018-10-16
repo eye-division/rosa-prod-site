@@ -1,5 +1,5 @@
 ---
-title: Multi-camera phone/tablet live and recorded filming for social media
+title: Multi-camera/phone/tablet live and recorded filming for social media
 event: false
 media: false
 highlight: false
