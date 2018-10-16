@@ -18,10 +18,12 @@ video_embed: >-
   src="https://player.vimeo.com/video/284330850" frameborder="0" allowFullScreen
   mozallowfullscreen webkitAllowFullScreen></iframe>
 images:
-  - image_path:
-    description:
-  - image_path:
-    description:
+  - image_path: /uploads/Photo Lesley _MG_4018.jpg
+    description: Lesley
+  - image_path: /uploads/Photo Lindsay _MG_4700.jpg
+    description: Lindsay
+  - image_path: /uploads/Photo Lynda in Garden - master shot.jpg
+    description: Lynda
 ---
 
 Guy’s and St Thomas’ Charity has a focus on big health challenges that affect inner-city areas. Multiple long-term conditions are key amongst these.  We were invited to work with the charity’s community and medical health partners to help individuals tell their own video and digital stories about living with multiple conditions.<br><br>Thank you to all who took part in community groups and to those who shared their stories with us in detail: Frederick, Inacia, Jacqueline, Lesley, Lindsay, Lynda, Mario and Sue.
