@@ -1,5 +1,5 @@
 ---
-title: Nottingham Trent University  - video production
+title: Nottingham Trent University  - Video Production
 event: false
 media: true
 highlight: false
