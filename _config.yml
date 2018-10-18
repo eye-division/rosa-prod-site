@@ -12,7 +12,7 @@ title: Rosa Productions
 # root of your server.
 baseurl: ""
 # the base hostname & protocol for your site
-url: "http://www.rosaproductions.co.uk"
+url: "https://www.rosaproductions.co.uk"
 logo: "/assets/logo.png"
 email: admin@rosaproductions.co.uk
 
@@ -25,8 +25,8 @@ permalink: /posts/:title
 
 # Image CDN
 imagecdn:
-  staging: "http://ed-rosa-dev.imgix.net"
-  production: "http://ed-rosa.imgix.net"
+  staging: "https://ed-rosa-dev.imgix.net"
+  production: "https://ed-rosa.imgix.net"
 
 
 # Collections
@@ -53,9 +53,9 @@ defaults:
 # Social settings are used in two places:
 # * In the footer, as links to your personal profiles
 # * After each blog post for sharing widgets
-# 
+#
 # Example:
-# 
+#
 # social:
 #   - name: Twitter                         # Name of the service
 #     icon: twitter                         # Font Awesome icon to use (minus fa- prefix)
@@ -94,29 +94,29 @@ social:
 
   - name: YouTube
     icon: youtube
-    username: 
-    url: 
+    username:
+    url:
     desc: Subscribe on YouTube
     share: false
 
   - name: Instagram
     icon: instagram
-    username: 
-    url: 
+    username:
+    url:
     desc: Follow me on Instagram
     share: false
 
   - name: Pinterest
     icon: pinterest
-    username: 
-    url: 
+    username:
+    url:
     desc: Follow me on Pinterest
     share: true
 
   - name: Vimeo
     icon: vimeo-square
-    username: 
-    url: 
+    username:
+    url:
     desc: Follow me on Vimeo
     share: false
 
