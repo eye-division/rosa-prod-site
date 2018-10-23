@@ -47,7 +47,7 @@ blockquote {
   font-style: italic;
 }
 
-.flex-fifty { 
+.flex-fifty {
   @include media ($tablet) {
     @include display(flex);
     @include flex-wrap(wrap);
@@ -164,7 +164,7 @@ blockquote {
       padding-right: 0.3rem;
       @include media ($tablet) {
         padding-right: 0.3rem;
-      } 
+      }
     }
     &:last-child a {
       padding-right: 0;
@@ -347,17 +347,17 @@ main {
     height: 50%;
     background-size: cover;
     background-position: 50% 20%;
-    background-image: url("../assets/events-front-sm.jpg");
+    background-image: url("../assets/homepage-sm.jpg");
     @include media ($tablet) {
       float: left;
       width: 50%;
       height: 100%;
-      background-image: url("../assets/events-front-lg.jpg");
+      background-image: url("../assets/homepage-lg.jpg");
       h2 a {
         float: left;
         text-align: left;
       }
-    } 
+    }
   }
 
   .media {
@@ -374,7 +374,7 @@ main {
         float: right;
         text-align: right;
       }
-    } 
+    }
   }
 
 
@@ -559,7 +559,7 @@ main {
       width: 40%;
       float: right;
     }
-    
+
     .image-gallery {
       float: left;
       img {
@@ -631,7 +631,7 @@ main {
     position: absolute;
     bottom: 0;
   }
-  
+
 }
 
 .projects.events {
@@ -659,7 +659,7 @@ main {
 
 .about {
   /*  @extend .has-cover;
-  
+
     #content-header {
       background-image: url("../assets/about-sm.jpg");
       @include media($tablet) {
@@ -671,7 +671,7 @@ main {
 
 .contact {
   /*  @extend .has-cover;
-  
+
     #content-header {
       background-image: url("../assets/contact-sm.jpg");
       @include media($tablet) {
