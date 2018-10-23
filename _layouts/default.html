@@ -4,8 +4,8 @@
   {% include head.html %}
 
   {% assign section = page.url | split: '/' %}
-  
-  <body class="{% if section[1] == "index.html" %}front{% else %}{{section[1]}}{% endif %}{% if page.main_image_path %} has-cover{% endif %}{% if page.classes %} {{ page.classes }}{% endif %}">
+
+  <body class="{% if section[1] %}{{section[1]}}{% else %}front{% endif %}{% if page.main_image_path %} has-cover{% endif %}{% if page.classes %} {{ page.classes }}{% endif %}">
 
     {% include header.html %}
 
