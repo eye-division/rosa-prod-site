@@ -1,6 +1,6 @@
-# External gems
-gems:
-  - jekyll-sitemap
+# External gems - updated to plugins in jekyll v3.6
+plugins:
+   - jekyll-sitemap
 
 exclude:
   - "/vendor/"
