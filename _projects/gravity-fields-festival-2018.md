@@ -10,7 +10,7 @@ description: >-
   Lincolnshire born Sir Joseph Banks.
 project_date: 2018-09-26 00:00:00
 project_to_date: 2018-09-30 00:00:00
-main_image_path: /uploads/ship 069A4546.jpg
+main_image_path: /uploads/Tightrope Gravity Fields-72.jpg
 video_embed: >-
   <iframe
   src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2FGravityFields%2Fvideos%2F2154404974779660%2F&show_text=0&width=560"
