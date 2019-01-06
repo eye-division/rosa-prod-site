@@ -10,7 +10,7 @@ description: >-
   Lincolnshire born Sir Joseph Banks.
 project_date: 2018-09-26 00:00:00
 project_to_date: 2018-09-30 00:00:00
-main_image_path: /uploads/IMG_6340.JPG
+main_image_path: /uploads/ship 069A4546.jpg
 video_embed: >-
   <iframe
   src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2FGravityFields%2Fvideos%2F2154404974779660%2F&show_text=0&width=560"
@@ -25,4 +25,4 @@ images:
     description: Big Space Show with the Science Museum
 ---
 
-The fourth Gravity Fields Festival celebrating arts and science, and the area's links to Sir Isaac Newton who grew up in Grantham, Lincolnshire.&nbsp; Our 2018 theme also drew inspiration from the Lincolnshire botanist Sir Joseph Banks who travelled with Captain Cook on HMS Endeavour and gathered plants and wildlife specimens across the globe.
+The fourth Gravity Fields Festival celebrating arts and science, and the area’s links to Sir Isaac Newton who grew up in Grantham, Lincolnshire.  Our 2018 theme also drew inspiration from the Lincolnshire botanist Sir Joseph Banks who travelled with Captain Cook on HMS Endeavour and gathered plants and wildlife specimens across the globe.
