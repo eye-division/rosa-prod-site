@@ -57,6 +57,16 @@ images:
     description:
   - image_path: /uploads/Gravity Fields-54.jpg
     description:
+  - image_path: /uploads/069A4413.JPG
+    description:
+  - image_path: /uploads/069A4721.JPG
+    description:
+  - image_path: /uploads/069A4848.JPG
+    description:
+  - image_path: /uploads/069A4870.JPG
+    description:
+  - image_path: /uploads/069A4904.JPG
+    description:
   - image_path:
     description:
 ---
