@@ -23,6 +23,42 @@ images:
     description: Professor Val Gibson and Dr Harry Cliff with the Voyage of Discovery globe
   - image_path: /IMG_6223.JPG
     description: Big Space Show with the Science Museum
+  - image_path: /uploads/Best of 110.jpg
+    description:
+  - image_path: /uploads/Best of 126.jpg
+    description:
+  - image_path: /uploads/Best of 131.jpg
+    description:
+  - image_path: /uploads/Best of 144.jpg
+    description:
+  - image_path: /uploads/Best of 152.jpg
+    description:
+  - image_path: /uploads/Best of 154.jpg
+    description:
+  - image_path: /uploads/Best of 158.jpg
+    description:
+  - image_path: /uploads/Best of 49.jpg
+    description:
+  - image_path: /uploads/Best of 72.jpg
+    description:
+  - image_path: /uploads/Best of 71.jpg
+    description:
+  - image_path: /uploads/Gravity Fields-1.jpg
+    description:
+  - image_path: /uploads/Gravity Fields-122.jpg
+    description:
+  - image_path: /uploads/Gravity Fields-34.jpg
+    description:
+  - image_path: /uploads/Gravity Fields-126.jpg
+    description:
+  - image_path: /uploads/Gravity Fields-28.jpg
+    description:
+  - image_path: /uploads/Gravity Fields-37.jpg
+    description:
+  - image_path: /uploads/Gravity Fields-54.jpg
+    description:
+  - image_path:
+    description:
 ---
 
 The fourth Gravity Fields Festival celebrating arts and science, and the area’s links to Sir Isaac Newton who grew up in Grantham, Lincolnshire.  Our 2018 theme also drew inspiration from the Lincolnshire botanist Sir Joseph Banks who travelled with Captain Cook on HMS Endeavour and gathered plants and wildlife specimens across the globe.
