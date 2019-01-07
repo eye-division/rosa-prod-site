@@ -5,21 +5,14 @@ media: false
 highlight: false
 past: false
 description: >-
-  A flowery feast of a festival in 2018 themed on Voyages of Discovery and the
-  250th anniversary of the sailing of HMS Endeavour with Captain Cook and
-  Lincolnshire born Sir Joseph Banks.
+  The 2018 festival was themed on Voyages of Discovery and the 250th anniversary
+  of the sailing of HMS Endeavour with Captain Cook and Lincolnshire born Sir
+  Joseph Banks.
 
   Gravity Fields Festival is a biennial festival taking place in south
   Lincolnshire, in and around Grantham, where Sir Isaac Newton was born and
   brought up.  It is a contemporary science and arts festival with large scale
-  community participation in outdoor arts.  
-
-  The festival is funded by South Kesteven District Council with support from
-  Arts Council England, Heritage Lottery Fund and science grants.
-
-  Rosa Productions created the festival in 2012 on behalf of SKDC and has
-  subsequently curated the biennial programme and produced the outdoor arts and
-  science programme of evens.
+  community participation in outdoor arts.
 project_date: 2018-09-26 00:00:00
 project_to_date: 2018-09-30 00:00:00
 main_image_path: /uploads/Tightrope Gravity Fields-72.jpg
