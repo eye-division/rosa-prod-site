@@ -18,10 +18,7 @@ email: admin@rosaproductions.co.uk
 
 # Build settings
 markdown: kramdown
-paginate: 5
-paginate_path: "/page:num/"
-inter_post_navigation: false
-permalink: /posts/:title
+#permalink: /posts/:title
 
 # Image CDN
 imagecdn:
