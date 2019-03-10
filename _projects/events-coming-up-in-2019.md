@@ -5,21 +5,21 @@ media: false
 highlight: true
 past: false
 description: |-
-  2019 - Rosa Productions and Fete Day
+  2019 
 
-  Greenham Cold War Experience - 18-27 May
+  Greenham Cold War Experience;
 
-  Leeds Castle Kent - Carnival of History celebrating 900 Years - 28-29 July
+  Leeds Castle Kent - Carnival of History;
 
-  Designing a World For Everyone BBC R4 commission
+  Designing a World For Everyone BBC R4 commission;
 
-  Land of the Fanns Media Outreach with Kinetika
+  Land of the Fanns Media Outreach with Kinetika;
 
   2020
 
-  Tour of Sir Joseph Banks Globe
+  Tour of Sir Joseph Banks Globe;
 
-  Tour of Voyages of Discovery with Shademakers UK
+  Tour of Voyages of Discovery with Shademakers UK;
 project_date: 2019-05-18 00:00:00
 project_to_date: 2020-12-31 00:00:00
 main_image_path: /uploads/swan and lion.JPG
