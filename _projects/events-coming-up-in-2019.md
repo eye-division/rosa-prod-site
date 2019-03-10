@@ -1,5 +1,5 @@
 ---
-title: Events Coming Up in 2019
+title: Events Coming Up in 2019 and 2020
 event: true
 media: false
 highlight: true
