@@ -37,7 +37,7 @@ _options:
     mime_type: image/jpeg
 ---
 
-**Upcoming Projects 2019 Rosa Productions with partner company Fete Day**
+**Upcoming projects 2019 Rosa Productions with partner company Fete Day**
 
 Greenham Cold War Experience - 18-27 May [Tickets](https://cornexchangenew.com/event/greenham-cold-war-experience-2019)&nbsp;[More information](https://www.feteday.co.uk/projects/the-greenham-cold-war-experience/)
 
