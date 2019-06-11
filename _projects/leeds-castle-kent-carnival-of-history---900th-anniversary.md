@@ -16,8 +16,10 @@ images:
     description: >-
       18th century banner holder - the eagle representing the American
       connection of the castle in that time.
-  - image_path:
-    description:
+  - image_path: /uploads/Leeds Castle dress rehearsal -9.JPG
+    description: >-
+      In the 15th century Queen Joan was convicted of using witchcraft to murder
+      her husband the King.
 _options:
   layout:
     hidden: true
