@@ -32,3 +32,16 @@ _options:
     mime_type: image/jpeg
 ---
 
+Join us for the incredible Leeds Castle Kent ‘Carnival of History’ celebrating the castle's 900th anniversary. Tickets are available from the [Ticket Office at Leeds Castle.](https://www.leeds-castle.com/Visit)
+
+Using large-scale costumes re-enactors will travel through nine centuries of the Castle’s history across two days. Local communities will come together to bring this spectacular event to life.
+
+The Carnival will be brought to life by collaborations with Shademakers UK and leading professional street arts performers, alongside acclaimed national professional arts companies, community participants, dancers, band, volunteers and re-enactors, to create a vibrant and exciting procession through the grounds.
+
+The event will also provide a public platform for local people already involved in creative activities to showcase their talents. Come and join the procession, which will wind its way from the Castle Island, around the estate to culminate in an impressive finale set against the stunning backdrop of 'the loveliest Castle in the world'.
+
+On Saturday 27 July the focus is on re-enactors and on Sunday 28 July the focus is on the community participation.&nbsp; On both days of the Carnival of History there will be arena shows of historic battles, busking around the castle and a procession at 3pm.
+
+More information for the [Leeds Castle website](https://www.leeds-castle.com/What%E2%80%99s+On/Featured+Events/Carnival+of+History/)
+
+&nbsp;
