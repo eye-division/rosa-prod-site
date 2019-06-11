@@ -42,6 +42,8 @@ The event will also provide a public platform for local people already involved 
 
 On Saturday 27 July the focus is on re-enactors and on Sunday 28 July the focus is on the community participation.&nbsp; On both days of the Carnival of History there will be arena shows of historic battles, busking around the castle and a procession at 3pm.
 
-More information for the [Leeds Castle website](https://www.leeds-castle.com/What%E2%80%99s+On/Featured+Events/Carnival+of+History/)
+More information for the [Leeds Castle website](https://www.leeds-castle.com/What%E2%80%99s+On/Featured+Events/Carnival+of+History/).
+
+Produced by Rosa Productions with Shademakers UK, University of the Creative Arts (Rochester campus), MESS Room, LV21, INTRA, Dizzy O'Dare, Acrojou and over 40 groups of musicians and community participants.
 
 &nbsp;
