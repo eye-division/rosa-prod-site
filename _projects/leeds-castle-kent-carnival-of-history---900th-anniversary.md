@@ -2,7 +2,7 @@
 title: 'Leeds Castle Kent, Carnival of History - 900th Anniversary'
 event: true
 media: false
-highlight: false
+highlight: true
 past: false
 description: >-
   A dazzling riot of colour, music, dance and giant costumes will travel through
