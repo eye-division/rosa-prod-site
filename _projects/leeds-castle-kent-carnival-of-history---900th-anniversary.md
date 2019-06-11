@@ -20,6 +20,8 @@ images:
     description: >-
       In the 15th century Queen Joan was convicted of using witchcraft to murder
       her husband the King.
+  - image_path: /IMG_6735.JPG
+    description: The Black Swan represents the 20th century and is a symbol of Leeds Castle
 _options:
   layout:
     hidden: true
