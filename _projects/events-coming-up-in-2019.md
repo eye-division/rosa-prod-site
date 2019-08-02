@@ -22,10 +22,12 @@ description: |-
   Tour of Voyages of Discovery with Shademakers UK
 project_date: 2019-05-18 00:00:00
 project_to_date: 2020-12-31 00:00:00
-main_image_path: /uploads/swan and lion.JPG
+main_image_path: /uploads/4-central-park-img-8215-1.jpg
 video_embed:
 images:
   - image_path:
+    description:
+  - image_path: /uploads/4-central-park-img-8215-1.jpg
     description:
 _options:
   layout:
@@ -38,10 +40,6 @@ _options:
 ---
 
 **Upcoming projects 2019 Rosa Productions with partner company Fete Day**
-
-Greenham Cold War Experience - 18-27 May [Tickets](https://cornexchangenew.com/event/greenham-cold-war-experience-2019)&nbsp;[More information](https://www.feteday.co.uk/projects/the-greenham-cold-war-experience/)
-
-Leeds Castle Kent - Carnival of History celebrating 900 Years - 27-28 July (Main Procession 3pm Sunday 28 July) [Event and Take Part Information](https://www.leeds-castle.com/What%E2%80%99s+On/Featured+Events/Carnival+of+History/)
 
 Designing a World For Everyone BBC R4 commission - Recording Spring 2019
 
