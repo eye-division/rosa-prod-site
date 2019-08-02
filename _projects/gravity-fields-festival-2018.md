@@ -3,7 +3,7 @@ title: Gravity Fields Festival 2018
 event: true
 media: false
 highlight: false
-past: false
+past: true
 description: >-
   The 2018 festival was themed on Voyages of Discovery and the 250th anniversary
   of the sailing of HMS Endeavour with Captain Cook and Lincolnshire born Sir
@@ -76,12 +76,12 @@ images:
     description:
 ---
 
-The fourth Gravity Fields Festival celebrating arts and science, and the area’s links to Sir Isaac Newton who grew up in Grantham, Lincolnshire.  Our 2018 theme also drew inspiration from the Lincolnshire botanist Sir Joseph Banks who travelled with Captain Cook on HMS Endeavour and gathered plants and wildlife specimens across the globe.
+The fourth Gravity Fields Festival celebrating arts and science, and the area’s links to Sir Isaac Newton who grew up in Grantham, Lincolnshire.&nbsp; Our 2018 theme also drew inspiration from the Lincolnshire botanist Sir Joseph Banks who travelled with Captain Cook on HMS Endeavour and gathered plants and wildlife specimens across the globe.
 
 [Gravity Fields Festival 2018 Programme](https://www.dropbox.com/home/Rosemary%20Richards/GFF%202018/Voyage%20templates?preview=Gravity-Brochure-final-version.pdf)
 
-[Interactive Science Salon 2018 Programme Grantham ](https://www.dropbox.com/home/Rosemary%20Richards/Interactive%20Science%20Salon%20-%20Globe%20plus?preview=Science+Salon+Brochure+2018+WEB.pdf)
+[Interactive Science Salon 2018 Programme Grantham&nbsp;](https://www.dropbox.com/home/Rosemary%20Richards/Interactive%20Science%20Salon%20-%20Globe%20plus?preview=Science+Salon+Brochure+2018+WEB.pdf)
 
-The biennial festival welcomes outstanding speakers and academics on science, science history, arts and related themes, and has at its centrepiece a large scale outdoor event produced and commissioned for festival with leading UK and international artists.  Rosa Productions created the first ever Gravity Fields Festival in 2012 and has  subsequently created and produced all four festivals, including the full science programmes and commissioned and produced all the outdoor arts programmes and has led on theming and shaping of each festival for South Kesteven District Council.  
+The biennial festival welcomes outstanding speakers and academics on science, science history, arts and related themes, and has at its centrepiece a large scale outdoor event produced and commissioned for festival with leading UK and international artists.&nbsp; Rosa Productions created the first ever Gravity Fields Festival in 2012 and has&nbsp; subsequently created and produced all four festivals, including the full science programmes and commissioned and produced all the outdoor arts programmes and has led on theming and shaping of each festival for South Kesteven District Council. &nbsp;
 
 Supported by Arts Council England and Heritage Lottery Fund
