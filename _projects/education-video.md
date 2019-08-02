@@ -10,7 +10,7 @@ description: >-
   content produced for the courses includes documentary, teacher presence and
   graphics led production.
 project_date: 2015-11-01 00:00:00
-project_to_date: 2018-12-31 00:00:00
+project_to_date: 2021-01-01 00:00:00
 main_image_path: /assets/Grad 2018-07-05 10.52.20.jpg
 video_embed: >-
   <iframe width="560" height="315"
