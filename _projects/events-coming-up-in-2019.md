@@ -5,7 +5,7 @@ media: false
 highlight: true
 past: false
 description: |-
-  2019 
+  Upcoming 2019 Events and Media Projects:
 
   Designing a World For Everyone BBC R4 commission;
 
@@ -35,7 +35,7 @@ _options:
     mime_type: image/jpeg
 ---
 
-**Upcoming projects 2019 Rosa Productions with partner company Fete Day**
+**Upcoming projects 2019&nbsp;**
 
 Designing a World For Everyone BBC R4 commission - Recording Spring 2019
 
