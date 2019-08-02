@@ -1,0 +1,34 @@
+---
+title: Broadcast Radio
+event: false
+media: true
+highlight: false
+past: false
+description: >-
+  We are working on three broadcast commissions for BBC Radio 4.  'Designing a
+  World for Everyone' will be broadcast in November 2019, and two further
+  commission in 2020.
+project_date: 2019-08-01 00:00:00
+project_to_date: 2020-12-31 00:00:00
+main_image_path: /uploads/1 Pattie at Grand Central Station IMG_0232 copy.jpg
+video_embed:
+images:
+  - image_path:
+    description:
+  - image_path: /uploads/5 Pattie at CH IMG_0124.jpg
+    description: >-
+      Designer Pattie Moore at the Cooper Hewitt Smithsonian Design Museum -
+      recording for 'Designing a World for Everyone' for BBC Radio 4
+_options:
+  layout:
+    hidden: true
+  image_path:
+    width: '1600'
+    height: '1600'
+    resize_style: contain
+    mime_type: image/jpeg
+---
+
+We currently have three broadcast BBC Radio 4 commissions in production, the first to be broadcast in Autumn 2019 with future programmes commissioned for 2020.
+
+'Designing a World For Everyone' is produced by Sara Parker with Executive Producer Emma Walker.&nbsp; The programme has been recorded in New York and in London and follows designer Pattie Moore as she retraces steps from earlier in her career when she became a trailblazer for taking consideration of seniors and wider members of the community into the top industrial design companies in the States.&nbsp; She is now renowned world-wide for the inclusive nature of her work.&nbsp; The programme is introduced by Professor Jeremy Myserson and will be broadcast in November 2019 on BBC Radio 4.&nbsp;
