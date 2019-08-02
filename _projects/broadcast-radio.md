@@ -23,6 +23,11 @@ images:
     description: >-
       Designer Pattie Moore in Washington Square discussing life in the city
       with local resident Doris.
+  - image_path: /uploads/1-pattie-at-grand-central-station-img-0232-copy.jpg
+    description: >-
+      Pattie Moore retracing her steps in Grand Central Station New York, where
+      earlier in her career, she would dress as an 80 year old to explore the
+      impact of the city and public space design on older people.
 _options:
   layout:
     hidden: true
@@ -35,4 +40,4 @@ _options:
 
 We currently have three broadcast BBC Radio 4 commissions in production, the first to be broadcast in Autumn 2019 with future programmes commissioned for 2020.
 
-'Designing a World For Everyone' is produced by Sara Parker with Executive Producer Emma Walker.&nbsp; The programme has been recorded in New York and in London and follows designer Pattie Moore as she retraces steps from earlier in her career when she became a trailblazer for taking consideration of seniors and wider members of the community into the top industrial design companies in the States.&nbsp; She is now renowned world-wide for the inclusive nature of her work.&nbsp; The programme is introduced by Professor Jeremy Myserson and will be broadcast in November 2019 on BBC Radio 4.&nbsp;
+'Designing a World For Everyone' is produced by Sara Parker with Executive Producer Emma Walker.&nbsp; The programme has been recorded in New York and in London and follows designer Pattie Moore as she retraces steps from earlier in her career when she became a trailblazer for taking consideration of seniors and wider members of the community into the top industrial design companies in the States.&nbsp; She is now renowned world-wide for the inclusive nature of her work.&nbsp; The programme is introduced by Professor Jeremy Myserson and will be broadcast in November 2019 on BBC Radio 4.&nbsp; Additional media recording by Rosemary Richards.
