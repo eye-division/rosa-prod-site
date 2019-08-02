@@ -19,6 +19,10 @@ images:
     description: >-
       Designer Pattie Moore at the Cooper Hewitt Smithsonian Design Museum -
       recording for 'Designing a World for Everyone' for BBC Radio 4
+  - image_path: /uploads/pattie-with-doris-img-0199-copy-2.jpg
+    description: >-
+      Designer Pattie Moore in Washington Square discussing life in the city
+      with local resident Doris.
 _options:
   layout:
     hidden: true
