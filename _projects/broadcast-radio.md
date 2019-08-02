@@ -28,6 +28,11 @@ images:
       Pattie Moore retracing her steps in Grand Central Station New York, where
       earlier in her career, she would dress as an 80 year old to explore the
       impact of the city and public space design on older people.
+  - image_path: /uploads/4-central-park-img-8215.jpg
+    description: >-
+      Designer Pattie Moore in Central Park.  In the 1970s she would come here
+      as a young designer, dressed as an older woman, to talk with other seniors
+      about their lives.
 _options:
   layout:
     hidden: true
