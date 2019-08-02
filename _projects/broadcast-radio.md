@@ -13,12 +13,12 @@ project_to_date: 2020-12-31 00:00:00
 main_image_path: /uploads/1 Pattie at Grand Central Station IMG_0232 copy.jpg
 video_embed:
 images:
-  - image_path:
-    description:
   - image_path: /uploads/5 Pattie at CH IMG_0124.jpg
     description: >-
       Designer Pattie Moore at the Cooper Hewitt Smithsonian Design Museum -
       recording for 'Designing a World for Everyone' for BBC Radio 4
+  - image_path:
+    description:
   - image_path: /uploads/pattie-with-doris-img-0199-copy-2.jpg
     description: >-
       Designer Pattie Moore in Washington Square discussing life in the city
