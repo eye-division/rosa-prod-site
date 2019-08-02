@@ -1,15 +1,11 @@
 ---
-title: Events Coming Up in 2019 and 2020
+title: Coming Up in 2019 and 2020
 event: true
 media: false
 highlight: true
 past: false
 description: |-
   2019 
-
-  Greenham Cold War Experience;
-
-  Leeds Castle Kent - Carnival of History;
 
   Designing a World For Everyone BBC R4 commission;
 
