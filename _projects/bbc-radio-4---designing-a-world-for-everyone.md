@@ -52,17 +52,19 @@ _options:
 
 [BBC Radio 4 - Designing a World For Everyone&nbsp;](https://www.bbc.co.uk/programmes/m000bcnf){: target="_blank"}
 
-In 1979, Pattie Moore, a twenty-six-year-old designer in New York was so was so incensed by the way her colleagues ignored the needs of the elderly that she embarked on a daring piece of social research. Disguised as an eighty-five-year-old woman, she took to the streets of America, travelling to over 100 cities, to discover the realities of being old. Her disguise not only looked the part but also simulated the infirmities of old age - prosthetics reduced her hearing, vision and the ability to move with ease. She bound her fingers and wore gloves to simulate arthritis.&nbsp;
+In 1979, Pattie Moore, a twenty-six-year-old designer in New York was so incensed by the way her colleagues ignored the needs of the elderly that she embarked on a daring piece of social research. Disguised as an 85 year old woman, she took to the streets of America, travelling to over 100 cities, to discover the realities of being old. Her disguise not only looked the part but also simulated the infirmities of old age - prosthetics reduced her hearing, vision and the ability to move with ease. She bound her fingers and wore gloves to simulate arthritis.&nbsp;
 
-&nbsp;
+![Pattie disguised as an 85 year old woman](/uploads/moore-elder-photo.jpg "Designer Pattie Moore experimenting as living life as a senior"){: width="1107" height="1623"}
+
+![Pattie as she really looked at the age of 26](/uploads/cropped-photo-as-young-woman-img-0111.jpg "Pattie worked as a designer for a New York agency in the late 1970s and early 1980s"){: width="2993" height="4005"}
 
 In this programme, Jeremy Myerson, the Helen Hamlyn Professor of Design at the Royal College of Art, follows Pattie’s story as she relives memories in New York where her radical experiment began. &nbsp;Pattie retraces her steps to significant places such as Harlem where she was brutally attacked and the bench in Central Park where she was romanced by an elderly widower. She talks to senior New Yorkers today about their lives in the city.
 
-![](/uploads/pattie-plus-senior-with-old-pattie-photo-img-0247.jpg){: width="6000" height="4000"}
+![Pattie visits the patrons of the Carter Burden/Covello programme for seniors in New York](/uploads/pattie-plus-senior-with-old-pattie-photo-img-0247.jpg "At the Harlem Seniors Day Centre"){: width="6000" height="4000"}
 
-![](/uploads/img-0271.jpg){: width="6000" height="4000"}Pattie’s experiment was a milestone in development of universal design - the idea that products and environments should designed so they can be used by as many people as possible regardless of age or disability.&nbsp; Her mission since has been to champion the needs of those less able and to design with empathy. We hear from a veteran who has benefitted from one of her rehabilitation simulation environments and look to the future of design for conditions such as autism.
+![Joining the patrons for lunch](/uploads/img-0271.jpg "With the Harlem seniors at the Carter Burden/Leonard Covello Senior Program in New York"){: width="6000" height="4000"}Pattie’s experiment was a milestone in development of universal design - the idea that products and environments should designed so they can be used by as many people as possible regardless of age or disability.&nbsp; Her mission since has been to champion the needs of those less able and to design with empathy. We hear from a veteran who has benefitted from one of her rehabilitation simulation environments and look to the future of design for conditions such as autism.
 
-![](/uploads/img-0360.jpg){: width="6000" height="4000"}
+![New York Mum Amy and her son Carson testing the new access packs for children with autism at a basketball game](/uploads/img-0360.jpg "The Kulture City project at the Barclays Centre New York"){: width="6000" height="4000"}
 
 Today, Pattie is an internationally renowned gerontologist and designer. In October Pattie received the prestigious Design Mind Award at the 2019 National Design Awards in New York.
 
