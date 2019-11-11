@@ -5,18 +5,12 @@ media: true
 highlight: true
 past: false
 description: >-
-  In May 2019 designer Pattie Moore returned to New York for a BBC Radio 4
-  documentary.
+  In May 2019 we took designer Pattie Moore back  to New York for a BBC Radio 4
+  documentary produced by Rosa Productions.
 
 
   The programme is presented by her long-time friend Professor Jeremy Myerson,
   the Helen Hamlyn Professor of Design at the Royal College of Art.
-
-
-  In the programme Pattie looks back 40 years to a daring experiment when she
-  disguised herself as a woman in her 80s and travelled to cities across north
-  America. Her aim was to experience and understand the impact of age
-  first-hand.
 
 
   'Designing a World for Everyone' is broadcast on BBC Radio 4 on Monday 18th
