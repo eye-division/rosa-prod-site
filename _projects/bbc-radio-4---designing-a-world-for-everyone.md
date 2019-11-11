@@ -2,7 +2,7 @@
 title: BBC Radio 4 - Designing a World for Everyone
 event: false
 media: true
-highlight: false
+highlight: true
 past: false
 description: >-
   In May 2019 designer Pattie Moore returned to New York for a BBC Radio 4
