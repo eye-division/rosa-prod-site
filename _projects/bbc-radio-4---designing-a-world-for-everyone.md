@@ -22,7 +22,7 @@ description: >-
   'Designing a World for Everyone' is broadcast on BBC Radio 4 on Monday 18th
   November 2019 at 8pm and repeated on Wednesday 20th November at 11am
 project_date: 2019-11-11 00:00:00
-project_to_date: 2019-11-30 00:00:00
+project_to_date: 2020-08-31 00:00:00
 main_image_path: /uploads/IMG_0198.JPG
 video_embed:
 images:
