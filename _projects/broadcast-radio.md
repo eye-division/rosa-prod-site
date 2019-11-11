@@ -5,12 +5,17 @@ media: true
 highlight: true
 past: false
 description: >-
-  We are working on three broadcast commissions for BBC Radio 4.  'Designing a
-  World for Everyone' will be broadcast in November 2019, and two further
-  commission in 2020.
+  We are working on three broadcast commissions for BBC Radio 4.  The first
+  programme 'Designing a World for Everyone' will be broadcast on Monday 18th
+  November 2019,
+
+
+  In December 2019 we begin recording in Lapland for a Christmas 2020
+  commission, and we are starting work now on Pebbles in Your Pocket for summer
+  2020.
 project_date: 2019-08-01 00:00:00
 project_to_date: 2020-12-31 00:00:00
-main_image_path: /uploads/1 Pattie at Grand Central Station IMG_0232 copy.jpg
+main_image_path: /uploads/shutterstock_764222953.jpg
 video_embed:
 images:
   - image_path: /uploads/5 Pattie at CH IMG_0124.jpg
@@ -44,5 +49,7 @@ _options:
 ---
 
 We currently have three broadcast BBC Radio 4 commissions in production, the first to be broadcast in Autumn 2019 with future programmes commissioned for 2020.
+
+![](/uploads/img-0234.JPG){: width="6000" height="4000"}
 
 'Designing a World For Everyone' is produced by Sara Parker with Executive Producer Emma Walker.&nbsp; The programme has been recorded in New York and in London and follows designer Pattie Moore as she retraces steps from earlier in her career when she became a trailblazer for taking consideration of seniors and wider members of the community into the top industrial design companies in the States.&nbsp; She is now renowned world-wide for the inclusive nature of her work.&nbsp; The programme is introduced by Professor Jeremy Myserson and will be broadcast in November 2019 on BBC Radio 4.&nbsp; Additional media recording by Rosemary Richards.
