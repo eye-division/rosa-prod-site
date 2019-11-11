@@ -52,6 +52,10 @@ _options:
 
 [BBC Radio 4 - Designing a World For Everyone&nbsp;](https://www.bbc.co.uk/programmes/m000bcnf){: target="_blank"}
 
+Produced by Rosa Productions for BBC Radio 4. Presented by Professor Jeremy Myerson with Designer Patricia Moore.
+
+Producer Sara Parker.&nbsp; Executive Producer Emma Walker
+
 In 1979, Pattie Moore, a twenty-six-year-old designer in New York was so incensed by the way her colleagues ignored the needs of the elderly that she embarked on a daring piece of social research. Disguised as an 85 year old woman, she took to the streets of America, travelling to over 100 cities, to discover the realities of being old. Her disguise not only looked the part but also simulated the infirmities of old age - prosthetics reduced her hearing, vision and the ability to move with ease. She bound her fingers and wore gloves to simulate arthritis.&nbsp;
 
 ![Pattie disguised as an 85 year old woman](/uploads/moore-elder-photo.jpg "Designer Pattie Moore experimenting as living life as a senior"){: width="1107" height="1623"}
