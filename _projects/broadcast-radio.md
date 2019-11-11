@@ -6,8 +6,8 @@ highlight: true
 past: false
 description: >-
   We are working on three broadcast commissions for BBC Radio 4.  The first
-  programme 'Designing a World for Everyone' will be broadcast on Monday 18th
-  November 2019.
+  programme 'Designing a World for Everyone' is now complete and will be
+  broadcast in November 2019.
 
 
   In December 2019 we begin recording in Lapland for a Christmas 2020
