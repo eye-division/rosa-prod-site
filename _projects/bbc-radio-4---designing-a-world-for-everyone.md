@@ -38,10 +38,10 @@ _options:
   layout:
     hidden: true
   image_path:
-    width: '1600'
-    height: '1600'
-    resize_style: contain
-    mime_type: image/jpeg
+    width: 1600
+    height: 1600
+    resize_style: "contain"
+    mime_type: "image/jpeg"
 ---
 
 [BBC Radio 4 - Designing a World For Everyone&nbsp;](https://www.bbc.co.uk/programmes/m000bcnf){: target="_blank"}
@@ -52,7 +52,7 @@ Producer Sara Parker.&nbsp; Executive Producer Emma Walker
 
 In 1979, Pattie Moore, a twenty-six-year-old designer in New York was so incensed by the way her colleagues ignored the needs of the elderly that she embarked on a daring piece of social research. Disguised as an 85 year old woman, she took to the streets of America, travelling to over 100 cities, to discover the realities of being old. Her disguise not only looked the part but also simulated the infirmities of old age - prosthetics reduced her hearing, vision and the ability to move with ease. She bound her fingers and wore gloves to simulate arthritis.&nbsp;
 
-![Pattie disguised as an 85 year old woman](/uploads/moore-elder-photo.jpg "Designer Pattie Moore experimenting as living life as a senior"){: width="1107" height="1623"}
+![Pattie disguised as an 85 year old woman](/uploads/moore-elder-photo.jpg "Designer Pattie Moore experimenting as living life as a senior")
 
 &nbsp;
 
@@ -60,10 +60,10 @@ In this programme, Jeremy Myerson, the Helen Hamlyn Professor of Design at the R
 
 &nbsp;
 
-![Joining the patrons for lunch](/uploads/img-0271.jpg "With the Harlem seniors at the Carter Burden/Leonard Covello Senior Program in New York"){: width="6000" height="4000"}Pattie’s experiment was a milestone in development of universal design - the idea that products and environments should designed so they can be used by as many people as possible regardless of age or disability.&nbsp; Her mission since has been to champion the needs of those less able and to design with empathy. We hear from a veteran who has benefitted from one of her rehabilitation simulation environments and look to the future of design for conditions such as autism.
+![Joining the patrons for lunch](/uploads/img-0271.jpg "With the Harlem seniors at the Carter Burden/Leonard Covello Senior Program in New York")Pattie’s experiment was a milestone in development of universal design - the idea that products and environments should designed so they can be used by as many people as possible regardless of age or disability.&nbsp; Her mission since has been to champion the needs of those less able and to design with empathy. We hear from a veteran who has benefitted from one of her rehabilitation simulation environments and look to the future of design for conditions such as autism.
 
-![New York Mum Amy and her son Carson testing the new access packs for children with autism at a basketball game](/uploads/img-0360.jpg "The Kulture City project at the Barclays Centre New York"){: width="6000" height="4000"}
+![New York Mum Amy and her son Carson testing the new access packs for children with autism at a basketball game](/uploads/img-0360.jpg "The Kulture City project at the Barclays Centre New York")
 
 Today, Pattie is an internationally renowned gerontologist and designer. In October Pattie received the prestigious Design Mind Award at the 2019 National Design Awards in New York.
 
-![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVQYV2P4////fwAJ+wP9BUNFygAAAABJRU5ErkJggg==){: .cms-image-placeholder}![](/uploads/5-ch-sign-1-img-0145.jpg){: width="6000" height="4000"}
+![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVQYV2P4////fwAJ+wP9BUNFygAAAABJRU5ErkJggg==){: .cms-image-placeholder}![](/uploads/5-ch-sign-1-img-0145.jpg)
