@@ -1,7 +1,7 @@
 ---
 layout: post
 title:
-date:
+date: 2019-11-14 21:28:46
 main_image_path:
 video_embed:
 images:
