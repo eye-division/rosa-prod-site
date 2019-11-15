@@ -25,21 +25,13 @@ With radio producer Sara Parker I met up with Pattie in New York in May 2019 to 
 
 It was her quest to find out a professional insight which could be transferred into her work as an industrial designer - about how it really feels to navigate the world without full physical mobility.&nbsp; Her unique experiment has led to a career covering 4 decades of travelling, working and teaching across the world. And in October 2019 Patricia (Pattie) Moore was the recipient of the 2019 US National Design Award for Design Mind at the Cooper Hewitt Museum
 
-&nbsp;
-
 Our 2 day journey around Manhattan took in Grand Central Station, Central Park, Washington Square and the streets where she would sit on benches awaiting conversations and companionship from other older citizens.
 
-Now in her mid 60s Pattie walks with a stick following an accident in New York - and we were a sympathetic crew with my dodgy ankles, the producer Sara with a temporarily dodgy knee and a very fluffy mic cover…. and me with an app at the ready to order an Uber as we circled the city\!&nbsp;&nbsp;
-
-&nbsp;
+Now in her mid 60s Pattie walks with a stick following an accident in New York - and we were a sympathetic crew with my dodgy ankles, the producer Sara with a temporarily dodgy knee and a very fluffy mic cover…. and me with an app at the ready to order an Uber as we circled the city\! &nbsp;
 
 As well as following Pattie's original journey we made some new stop-offs - first at the highly impressive Carter Burden/Leonard Covello seniors programme where we stopped off to join the regulars for lunch and conversation - and to take a look at their amazing art facilities
 
-&nbsp;
-
 We were also delighted to go with Pattie to visit the Sensory Inclusive programme Kulture City programme and meet Mum Amy and her son Carson trying out the new sensory inclusive packs at a basketball game at the Barclays Center home of the Brooklyn Nets and New York Islanders&nbsp;
-
-&nbsp;
 
 An amazing insight into how design has evolved over the last half century and how Pattie's experiment and a change of mind set in inclusion has real impact on on all our lives today.
 
