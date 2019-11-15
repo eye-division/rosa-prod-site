@@ -21,8 +21,6 @@ _options:
 
 Monday 18 November 8pm and Wednesday 20 November 11am
 
-&nbsp;
-
 With radio producer Sara Parker I met up with Pattie in New York in May 2019 to record a radio programme around the city for 2 days at the start of summer.&nbsp; We were retracing Pattie's journeys around the city from the start of her career.&nbsp; What a priveledge\! Both to meet the amazing Pattie and the New York world of design, but also to be shown around the city - to the parks, stations and streets where Pattie, 40 years ago, dressed up as a woman in her mid 80s - when she was really only 26 years old.&nbsp; What possessed her to put on painful disguises and make herself into a vulnerable older woman in over 100 cities across North America?&nbsp;&nbsp;
 
 It was her quest to find out a professional insight which could be transferred into her work as an industrial designer - about how it really feels to navigate the world without full physical mobility.&nbsp; Her unique experiment has led to a career covering 4 decades of travelling, working and teaching across the world. And in October 2019 Patricia (Pattie) Moore was the recipient of the 2019 US National Design Award for Design Mind at the Cooper Hewitt Museum
