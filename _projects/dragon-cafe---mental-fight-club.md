@@ -2,7 +2,7 @@
 title: Dragon Cafe - Mental Fight Club
 event: false
 media: true
-highlight: true
+highlight: false
 past: false
 description: >-
   "You can't remake the world without remaking yourself" Ben Okri. Commissioned
