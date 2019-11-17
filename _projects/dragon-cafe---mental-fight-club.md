@@ -5,9 +5,10 @@ media: true
 highlight: true
 past: false
 description: >-
-  Commissioned by the Mental Fight Club this film is a powerful reflection of
-  the work of the Dragon Cafe in Borough, SE London, and in the City of London,
-  and the importance of the projects, and their creative activity.
+  "You can't remake the world without remaking yourself" Ben Okri. Commissioned
+  by the Mental Fight Club this film is a powerful reflection of the work of the
+  Dragon Cafe in Borough, SE London, and in the City of London, and the
+  importance of the projects, and their creative activity.
 
   The Dragon Cafe is a leading example of the importance of social prescribing
   and the benefit of arts in the support of our mental wellbeing.
