@@ -39,7 +39,7 @@ We all owe you \!
 
 Rosemary Richards, Director and Uber orderer, Rosa Productions
 
-With Sara Walker, programme producer, Emma Walker (who stayed in London at mission control) Pattie and all our hosts in New York
+With Sara Parker, programme producer, Emma Walker (who stayed in London at mission control) Pattie and all our hosts in New York
 
 &nbsp;
 
