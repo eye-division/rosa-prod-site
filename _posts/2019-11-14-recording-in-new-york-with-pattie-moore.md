@@ -10,8 +10,6 @@ video_embed: >-
   streets of New York</a> from <a href="https://vimeo.com/rosaproductions">Rosa
   Productions</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 images:
-  - image_path:
-    description:
   - image_path: /uploads/2 Pattie in park IMG_0167 copy.jpg
     description:
   - image_path: /uploads/4 central park IMG_8215.jpg
