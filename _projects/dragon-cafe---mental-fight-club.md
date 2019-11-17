@@ -2,7 +2,7 @@
 title: Dragon Cafe - Mental Fight Club
 event: false
 media: true
-highlight: false
+highlight: true
 past: false
 description: >-
   Commissioned by the Mental Fight Club this film is a powerful reflection of
