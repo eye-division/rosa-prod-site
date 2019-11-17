@@ -59,5 +59,3 @@ In this programme, Jeremy Myerson, the Helen Hamlyn Professor of Design at the R
 ![](/uploads/img-0271.jpg)Pattie’s experiment was a milestone in development of universal design - the idea that products and environments should designed so they can be used by as many people as possible regardless of age or disability.&nbsp; Her mission since has been to champion the needs of those less able and to design with empathy. We hear from a veteran who has benefitted from one of her rehabilitation simulation environments and look to the future of design for conditions such as autism.
 
 Today, Pattie is an internationally renowned gerontologist and designer. In October Pattie received the prestigious Design Mind Award at the 2019 National Design Awards in New York.
-
-![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVQYV2P4////fwAJ+wP9BUNFygAAAABJRU5ErkJggg==){: .cms-image-placeholder}![](/uploads/5-ch-sign-1-img-0145.jpg)
