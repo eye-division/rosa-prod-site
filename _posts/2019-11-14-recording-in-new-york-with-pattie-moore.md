@@ -2,10 +2,23 @@
 layout: post
 title:
 date: 2019-11-14 21:28:00
-main_image_path:
-video_embed:
+main_image_path: /uploads/IMG_0237.JPG
+video_embed: >-
+  <iframe src="https://player.vimeo.com/video/373734150" width="640"
+  height="360" frameborder="0" allow="autoplay; fullscreen"
+  allowfullscreen></iframe> <p><a href="https://vimeo.com/373734150">On the
+  streets of New York</a> from <a href="https://vimeo.com/rosaproductions">Rosa
+  Productions</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 images:
   - image_path:
+    description:
+  - image_path: /uploads/2 Pattie in park IMG_0167 copy.jpg
+    description:
+  - image_path: /uploads/4 central park IMG_8215.jpg
+    description:
+  - image_path: /uploads/caroline-interview-img-0118.JPG
+    description:
+  - image_path: /uploads/img-0360.jpg
     description:
 _options:
   layout:
