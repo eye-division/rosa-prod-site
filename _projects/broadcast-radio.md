@@ -2,7 +2,7 @@
 title: Broadcast Radio
 event: false
 media: true
-highlight: true
+highlight: false
 past: false
 description: >-
   We are working on three broadcast commissions for BBC Radio 4.  The first
