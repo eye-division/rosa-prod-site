@@ -12,7 +12,7 @@ description: >-
   The Dragon Cafe is a leading example of the importance of social prescribing
   and the benefit of arts in the support of our mental wellbeing.
 project_date: 2019-06-01 00:00:00
-project_to_date: 2023-01-01 00:00:00
+project_to_date: 2019-12-31 00:00:00
 main_image_path: /IMG_8548.jpg
 video_embed: >-
   <iframe src="https://player.vimeo.com/video/349274452" width="640"
