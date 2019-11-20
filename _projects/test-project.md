@@ -32,3 +32,9 @@ And here's some main page content.
 ![](/uploads/c5d40199.jpg){: width="2048" height="1365"}
 
 Does this get resized correctly?
+
+&nbsp;
+
+Trying again with 'content' set in front\_matter
+
+![](/uploads/c5d40199-1.jpg){: width="1600" height="1066"}
