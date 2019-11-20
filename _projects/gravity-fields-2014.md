@@ -12,6 +12,19 @@ video_embed: '<iframe width="1280" height="720" src="https://www.youtube-nocooki
 images:
   - image_path:
     description:
+_options:
+  layout:
+    hidden: true
+  image_path:
+    width: 1600
+    height: 1600
+    resize_style: "contain"
+    mime_type: "image/jpeg"
+  content:
+    width: 1600
+    height: 1600
+    resize_style: "contain"
+    mime_type: "image/jpeg"
 ---
 The second biennial Gravity Fields Festival with five days of outdoor arts, science events and heritage programme.
 

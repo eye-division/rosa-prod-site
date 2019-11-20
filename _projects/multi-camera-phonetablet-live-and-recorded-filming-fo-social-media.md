@@ -32,6 +32,19 @@ images:
     description: >-
       Filming for online media at Gravity Fields Festival finale 2018 - Voyages
       of Discovery
+_options:
+  layout:
+    hidden: true
+  image_path:
+    width: 1600
+    height: 1600
+    resize_style: "contain"
+    mime_type: "image/jpeg"
+  content:
+    width: 1600
+    height: 1600
+    resize_style: "contain"
+    mime_type: "image/jpeg"
 ---
 
 Working with upcoming crews and videographers we capture live event footage and mix with the experience of TV broadcasters used to multi-camera operation.  We are constantly experimenting with new technologies to see how we can best capture arts and live events and work with social media publishing to provide live streaming and creative coverage.  We are keen to work with new partners to explore the potential of this ever changing and adapting world of technology.

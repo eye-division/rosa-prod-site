@@ -34,6 +34,19 @@ images:
     description: >-
       The Masters of International Relations examines global relationships from
       the 20th century to the present day
+_options:
+  layout:
+    hidden: true
+  image_path:
+    width: 1600
+    height: 1600
+    resize_style: "contain"
+    mime_type: "image/jpeg"
+  content:
+    width: 1600
+    height: 1600
+    resize_style: "contain"
+    mime_type: "image/jpeg"
 ---
 
 Over two years we have filmed in many parts of England from rooftops overlooking the Houses of Parliament, to an empty airfield in Lincolnshire, to the streets of central Birmingham.&nbsp; We work with teams of academics from the university and the Wiley Education Services learning designers to present the teachers to students across the world on these online courses, and give a flavour of life at the university in Nottingham and across the UK.

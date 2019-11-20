@@ -40,8 +40,13 @@ _options:
   image_path:
     width: 1600
     height: 1600
-    resize_style: contain
-    mime_type: image/jpeg
+    resize_style: "contain"
+    mime_type: "image/jpeg"
+  content:
+    width: 1600
+    height: 1600
+    resize_style: "contain"
+    mime_type: "image/jpeg"
 ---
 
 [BBC Radio 4 - Designing a World For Everyone&nbsp;](https://www.bbc.co.uk/programmes/m000bcnf){: target="_blank"}
