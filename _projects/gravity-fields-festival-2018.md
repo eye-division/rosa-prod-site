@@ -74,6 +74,19 @@ images:
     description:
   - image_path:
     description:
+_options:
+  layout:
+    hidden: true
+  image_path:
+    width: 1600
+    height: 1600
+    resize_style: "contain"
+    mime_type: "image/jpeg"
+  content:
+    width: 1600
+    height: 1600
+    resize_style: "contain"
+    mime_type: "image/jpeg"
 ---
 
 The fourth Gravity Fields Festival celebrating arts and science, and the area’s links to Sir Isaac Newton who grew up in Grantham, Lincolnshire.&nbsp; Our 2018 theme also drew inspiration from the Lincolnshire botanist Sir Joseph Banks who travelled with Captain Cook on HMS Endeavour and gathered plants and wildlife specimens across the globe.

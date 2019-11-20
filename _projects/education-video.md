@@ -33,6 +33,19 @@ images:
     description:
   - image_path: /uploads/img_1979.jpg
     description:
+_options:
+  layout:
+    hidden: true
+  image_path:
+    width: 1600
+    height: 1600
+    resize_style: "contain"
+    mime_type: "image/jpeg"
+  content:
+    width: 1600
+    height: 1600
+    resize_style: "contain"
+    mime_type: "image/jpeg"
 ---
 
 We have been working in partnership with Wiley Education Services since 2015 on the production of video media for post-graduate courses at the University of Birmingham for MBA, MSc and Masters of Public Administration courses.

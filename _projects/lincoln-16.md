@@ -35,6 +35,20 @@ images:
       Mayor of Lincoln
   - image_path: /uploads/pctank16_0701.jpg
     description: Filming of processions
+_options:
+  layout:
+    hidden: true
+  image_path:
+    width: 1600
+    height: 1600
+    resize_style: "contain"
+    mime_type: "image/jpeg"
+  content:
+    width: 1600
+    height: 1600
+    resize_style: "contain"
+    mime_type: "image/jpeg"
+
 ---
 
 

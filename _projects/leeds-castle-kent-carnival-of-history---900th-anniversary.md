@@ -40,10 +40,15 @@ _options:
   layout:
     hidden: true
   image_path:
-    width: '1600'
-    height: '1600'
-    resize_style: contain
-    mime_type: image/jpeg
+    width: 1600
+    height: 1600
+    resize_style: "contain"
+    mime_type: "image/jpeg"
+  content:
+    width: 1600
+    height: 1600
+    resize_style: "contain"
+    mime_type: "image/jpeg"
 ---
 
 To celebrate its 900th anniversary, Leeds Castle commissioned the Carnival of History with artists, performers, community groups and musicians coming together from across Kent and beyond, to recreate 9 centuries of history on the weekend of 27/28 July 2019.

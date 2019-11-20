@@ -33,6 +33,19 @@ images:
     description: Sutton Taylor in his studio
   - image_path: /uploads/mo jupp2.jpg
     description: Mo Jupp in Oxford
+_options:
+  layout:
+    hidden: true
+  image_path:
+    width: 1600
+    height: 1600
+    resize_style: "contain"
+    mime_type: "image/jpeg"
+  content:
+    width: 1600
+    height: 1600
+    resize_style: "contain"
+    mime_type: "image/jpeg"
 ---
 
 
