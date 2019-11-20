@@ -16,7 +16,7 @@ description: >-
   'Designing a World for Everyone' is broadcast on BBC Radio 4 on Monday 18th
   November 2019 at 8pm and repeated on Wednesday 20th November at 11am
 project_date: 2019-11-11 00:00:00
-project_to_date: 2020-08-31 00:00:00
+project_to_date: 2019-12-31 00:00:00
 main_image_path: /uploads/IMG_0198.JPG
 video_embed:
 images:
@@ -40,13 +40,15 @@ _options:
   image_path:
     width: 1600
     height: 1600
-    resize_style: "contain"
-    mime_type: "image/jpeg"
+    resize_style: contain
+    mime_type: image/jpeg
 ---
 
 [BBC Radio 4 - Designing a World For Everyone&nbsp;](https://www.bbc.co.uk/programmes/m000bcnf){: target="_blank"}
 
 Produced by Rosa Productions for BBC Radio 4. Presented by Professor Jeremy Myerson with Designer Patricia Moore.
+
+BBC Radio 4. Monday 18 October 8pm. Wednesday 20 October 11am.
 
 Producer Sara Parker.&nbsp; Executive Producer Emma Walker
 
@@ -54,16 +56,8 @@ In 1979, Pattie Moore, a twenty-six-year-old designer in New York was so incense
 
 ![Pattie disguised as an 85 year old woman](/uploads/moore-elder-photo.jpg "Designer Pattie Moore experimenting as living life as a senior")
 
-&nbsp;
-
 In this programme, Jeremy Myerson, the Helen Hamlyn Professor of Design at the Royal College of Art, follows Pattie’s story as she relives memories in New York where her radical experiment began. &nbsp;Pattie retraces her steps to significant places such as Harlem where she was brutally attacked and the bench in Central Park where she was romanced by an elderly widower. She talks to senior New Yorkers today about their lives in the city.
 
-&nbsp;
-
-![Joining the patrons for lunch](/uploads/img-0271.jpg "With the Harlem seniors at the Carter Burden/Leonard Covello Senior Program in New York")Pattie’s experiment was a milestone in development of universal design - the idea that products and environments should designed so they can be used by as many people as possible regardless of age or disability.&nbsp; Her mission since has been to champion the needs of those less able and to design with empathy. We hear from a veteran who has benefitted from one of her rehabilitation simulation environments and look to the future of design for conditions such as autism.
-
-![New York Mum Amy and her son Carson testing the new access packs for children with autism at a basketball game](/uploads/img-0360.jpg "The Kulture City project at the Barclays Centre New York")
+![](/uploads/img-0271.jpg)Pattie’s experiment was a milestone in development of universal design - the idea that products and environments should designed so they can be used by as many people as possible regardless of age or disability.&nbsp; Her mission since has been to champion the needs of those less able and to design with empathy. We hear from a veteran who has benefitted from one of her rehabilitation simulation environments and look to the future of design for conditions such as autism.
 
 Today, Pattie is an internationally renowned gerontologist and designer. In October Pattie received the prestigious Design Mind Award at the 2019 National Design Awards in New York.
-
-![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVQYV2P4////fwAJ+wP9BUNFygAAAABJRU5ErkJggg==){: .cms-image-placeholder}![](/uploads/5-ch-sign-1-img-0145.jpg)

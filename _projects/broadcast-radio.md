@@ -2,7 +2,7 @@
 title: Broadcast Radio
 event: false
 media: true
-highlight: true
+highlight: false
 past: false
 description: >-
   We are working on three broadcast commissions for BBC Radio 4.  The first
@@ -14,7 +14,7 @@ description: >-
   commission, and we are starting work now on The Pebble in Your Pocket for
   summer 2020.
 project_date: 2019-12-01 00:00:00
-project_to_date: 2020-12-31 00:00:00
+project_to_date: 2019-12-31 00:00:00
 main_image_path: /uploads/shutterstock_764222953.jpg
 video_embed:
 images:
