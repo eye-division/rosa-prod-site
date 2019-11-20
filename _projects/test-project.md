@@ -35,4 +35,4 @@ Trying again with 'content' set in front\_matter
 
 ![](/uploads/c5d40199-1.jpg){: width="1600" height="1066"}
 
-&nbsp;
+![](/uploads/parents-image.jpg){: width="1200" height="580"}
