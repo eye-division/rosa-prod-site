@@ -13,7 +13,7 @@ description: >-
   the world, and about ourselves?
 project_date: 2020-05-07 00:00:00
 project_to_date: 2020-05-31 00:00:00
-main_image_path: /uploads/Pebble.jpg
+main_image_path: /uploads/img-20191019-174909792-hdr.jpg
 video_embed:
 images:
   - image_path:
