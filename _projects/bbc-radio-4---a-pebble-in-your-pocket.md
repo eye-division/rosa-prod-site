@@ -1,5 +1,5 @@
 ---
-title: BBC Radio 4 - A Pebble in Your Pocket
+title: BBC Radio 4 - The Pebble in Your Pocket
 event: false
 media: true
 highlight: true
@@ -36,12 +36,26 @@ _options:
 
 Why do people love pebbles? What is it about their appearance, texture, sounds, history and folklore that inspires us? BBC Radio 4 invites you on a lyrical pebble pilgrimage, shaped by the sounds of scrunching shingle and wild waves.
 
-&nbsp;
+This digital stories is a companion to the radio programme
 
 [https://stories.rosaproductions.co.uk/a-pebble-for-your-thoughts-/index.html](https://stories.rosaproductions.co.uk/a-pebble-for-your-thoughts-/index.html){: target="_blank"}
 
-&nbsp;
+‘The beautifully shaped stone, washed up by the sea, is a symbol of continuity, a silent image of our desire for survival, peace and security.’ (Barbara Hepworth)
 
-&nbsp;
+We hear how pebbles have influenced some of our greatest artists, possessing secrets of deep time, and woven into our history and our very being. What do pebbles tell us about the world, and about ourselves?
+
+Across the British Isles, we meet a writer, a geologist, an archivist, a clothes designer, and a team of pebble dashers – people who work with and are captivated by pebbles. In Cambridge, we visit Kettle’s Yard gallery – created by the late art collector Jim Ede and known as the Louvre of the Pebble.
+
+The programme includes pebble-inspired poetry and music, and soundscapes of pebbles recorded in a range of locations, from NE Scotland to SW England.
+
+POETRY:Stone Speech by Charles TomlinsonDover Beach (extract) by Matthew Arnold
+
+MUSIC:The Sea – MorcheebaPebble Dash – Gang ColoursSunday Morning, from Four Sea Interludes from Peter Grimes (Opus 33a), composed by Benjamin Britten.Pebble Shore – Baltic FleetGotta Pebble In My Shoe – Ella FitzgeraldThe Pebble and the Boulder – MJ HibbettSu-a Song – Jenna Reid
+
+Extract from Barbara Hepworth, BBC TV, September 1961 – by kind permission of Sophie Bowness: ‘Barbara Hepworth &copy; Bowness'
+
+Producer: Steve UrquhartExecutive Producer: Emma WalkerA Rosa production for BBC Radio 4
+
+Show less
 
 &nbsp;
