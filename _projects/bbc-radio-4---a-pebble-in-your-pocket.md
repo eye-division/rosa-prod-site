@@ -13,9 +13,9 @@ description: >-
   the world, and about ourselves?
 
 
-  Producer: Steve Urquhart
+  Producer: Steve Urquhart;
 
-  Executive Producer: Emma Walker
+  Executive Producer: Emma Walker;
 
   A Rosa Production for BBC Radio 4
 project_date: 2020-05-07 00:00:00
