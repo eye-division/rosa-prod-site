@@ -2,7 +2,7 @@
 title: BBC Radio 4 - A Pebble in Your Pocket
 event: false
 media: true
-highlight: false
+highlight: true
 past: false
 description: >-
   Broadcast on BBC Radio 4 at 11am on Tuesday 12 May and 9pm Monday 8 May 2020.
@@ -12,7 +12,7 @@ description: >-
   sounds, history and folklore that inspires us? What do pebbles tell us about
   the world, and about ourselves?
 project_date: 2020-05-07 00:00:00
-project_to_date: 2020-05-31 00:00:00
+project_to_date: 2020-12-31 00:00:00
 main_image_path: /uploads/img-20191019-174909792-hdr.jpg
 video_embed: >-
   <script src="https://embed.shorthand.com/embed_9.js"></script> <div
