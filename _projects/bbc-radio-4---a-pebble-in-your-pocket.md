@@ -11,6 +11,13 @@ description: >-
   Why do people love pebbles? What is it about their appearance, texture,
   sounds, history and folklore that inspires us? What do pebbles tell us about
   the world, and about ourselves?
+
+
+  Producer: Steve Urquhart
+
+  Executive Producer: Emma Walker
+
+  A Rosa Production for BBC Radio 4
 project_date: 2020-05-07 00:00:00
 project_to_date: 2020-12-31 00:00:00
 main_image_path: /uploads/img-20191019-174909792-hdr.jpg
