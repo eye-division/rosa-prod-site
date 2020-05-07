@@ -14,7 +14,10 @@ description: >-
 project_date: 2019-11-11 00:00:00
 project_to_date: 2019-12-31 00:00:00
 main_image_path: /uploads/1-pattie-at-grand-central-station-img-0232-copy.jpg
-video_embed:
+video_embed: >-
+  <script src="https://embed.shorthand.com/embed_9.js"></script> <div
+  data-shorthand-embed="stories.rosaproductions.co.uk/a-spy-in-the-camp/"><h1>A
+  Spy in the Camp</h1><p>Feeling the Impact of Age First-Hand</p></div>
 images:
   - image_path:
     description:
@@ -53,7 +56,7 @@ BBC Radio 4. Monday 18 October 8pm. Wednesday 20 October 11am.
 
 Producer Sara Parker.&nbsp; Executive Producer Emma Walker
 
-&lt;script src="https://embed.shorthand.com/embed\_9.js"&gt;&lt;/script&gt; &lt;div data-shorthand-embed="stories.rosaproductions.co.uk/a-spy-in-the-camp/"&gt;&lt;h1&gt;A Spy in the Camp&lt;/h1&gt;&lt;p&gt;Feeling the Impact of Age First-Hand&lt;/p&gt;&lt;/div&gt;
+&nbsp;
 
 In 1979, Pattie Moore, a twenty-six-year-old designer in New York was so incensed by the way her colleagues ignored the needs of the elderly that she embarked on a daring piece of social research. Disguised as an 85 year old woman, she took to the streets of America, travelling to over 100 cities, to discover the realities of being old. Her disguise not only looked the part but also simulated the infirmities of old age - prosthetics reduced her hearing, vision and the ability to move with ease. She bound her fingers and wore gloves to simulate arthritis.&nbsp;
 
