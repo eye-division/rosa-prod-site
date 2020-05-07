@@ -10,8 +10,8 @@ description: >-
 
   Why do people love pebbles? What is it about their appearance, texture,
   sounds, history and folklore that inspires us? What do pebbles tell us about
-  the world, and about ourselves? Producer: Steve Urquhart.  Executive Producer:
-  Emma Walker.  A Rosa Production for BBC Radio 4
+  the world, and about ourselves? Producer and Photography: Steve Urquhart. 
+  Executive Producer: Emma Walker.  A Rosa Production for BBC Radio 4
 project_date: 2020-05-07 00:00:00
 project_to_date: 2020-12-31 00:00:00
 main_image_path: /uploads/img-20191019-174909792-hdr.jpg
@@ -50,12 +50,12 @@ The programme includes pebble-inspired poetry and music, and soundscapes of pebb
 
 POETRY:Stone Speech by Charles TomlinsonDover Beach (extract) by Matthew Arnold
 
-MUSIC:The Sea – MorcheebaPebble Dash – Gang ColoursSunday Morning, from Four Sea Interludes from Peter Grimes (Opus 33a), composed by Benjamin Britten.Pebble Shore – Baltic FleetGotta Pebble In My Shoe – Ella FitzgeraldThe Pebble and the Boulder – MJ HibbettSu-a Song – Jenna Reid
+MUSIC:The Sea – Morcheeba Pebble Dash – Gang Colours Sunday Morning, from Four Sea Interludes from Peter Grimes (Opus 33a), composed by Benjamin Britten.Pebble Shore – Baltic FleetGotta Pebble In My Shoe – Ella FitzgeraldThe Pebble and the Boulder – MJ HibbettSu-a Song – Jenna Reid
 
 Extract from Barbara Hepworth, BBC TV, September 1961 – by kind permission of Sophie Bowness: ‘Barbara Hepworth &copy; Bowness'
 
 Producer: Steve UrquhartExecutive Producer: Emma WalkerA Rosa production for BBC Radio 4
 
-Show less
+&nbsp;
 
 &nbsp;
