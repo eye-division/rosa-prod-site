@@ -14,7 +14,10 @@ description: >-
 project_date: 2020-05-07 00:00:00
 project_to_date: 2020-05-31 00:00:00
 main_image_path: /uploads/img-20191019-174909792-hdr.jpg
-video_embed:
+video_embed: >-
+  <script src="https://embed.shorthand.com/embed_9.js"></script> <div
+  data-shorthand-embed="stories.rosaproductions.co.uk/a-pebble-for-your-thoughts-/"><h1>A
+  Pebble for Your Thoughts </h1></div>
 images:
   - image_path:
     description:
@@ -33,4 +36,8 @@ _options:
     mime_type: image/jpeg
 ---
 
-&lt;script src="https://embed.shorthand.com/embed\_9.js"&gt;&lt;/script&gt; &lt;div data-shorthand-embed="stories.rosaproductions.co.uk/a-pebble-for-your-thoughts-/"&gt;&lt;h1&gt;A Pebble for Your Thoughts &lt;/h1&gt;&lt;/div&gt;
+Why do people love pebbles? What is it about their appearance, texture, sounds, history and folklore that inspires us? BBC Radio 4 invites you on a lyrical pebble pilgrimage, shaped by the sounds of scrunching shingle and wild waves.
+
+&nbsp;
+
+&nbsp;
