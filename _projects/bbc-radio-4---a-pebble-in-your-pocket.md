@@ -36,7 +36,7 @@ _options:
 
 Why do people love pebbles? What is it about their appearance, texture, sounds, history and folklore that inspires us? BBC Radio 4 invites you on a lyrical pebble pilgrimage, shaped by the sounds of scrunching shingle and wild waves.
 
-This digital stories is a companion to the radio programme
+The link to this digital story adds a visual dimension to the radio programme
 
 [https://stories.rosaproductions.co.uk/a-pebble-for-your-thoughts-/index.html](https://stories.rosaproductions.co.uk/a-pebble-for-your-thoughts-/index.html){: target="_blank"}
 
