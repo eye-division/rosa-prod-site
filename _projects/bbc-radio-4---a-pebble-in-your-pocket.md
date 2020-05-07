@@ -15,10 +15,7 @@ description: >-
 project_date: 2020-05-07 00:00:00
 project_to_date: 2020-12-31 00:00:00
 main_image_path: /uploads/img-20191019-174909792-hdr.jpg
-video_embed: >-
-  <script src="https://embed.shorthand.com/embed_9.js"></script> <div
-  data-shorthand-embed="stories.rosaproductions.co.uk/a-pebble-for-your-thoughts-/"><h1>A
-  Pebble for Your Thoughts </h1></div>
+video_embed:
 images:
   - image_path:
     description:
