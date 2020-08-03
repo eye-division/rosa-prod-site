@@ -48,7 +48,7 @@ _options:
     mime_type: image/jpeg
 ---
 
-We worked in partnership with Wiley Education Services from 2015 to 2020 on the production of video media for post-graduate courses at the University of Birmingham for MBA, MSc and Masters of Public Administration courses.
+We worked in partnership with Wiley Education Services from 2015 to 2020 on the production of video media for post-graduate courses at the University of Birmingham for MBA, MSc, MPA and LLM courses.
 
 We worked closely with the learning and publishing teams, and with the academics, to create a range of materials to support learning.
 
