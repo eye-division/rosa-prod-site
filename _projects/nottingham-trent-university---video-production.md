@@ -5,10 +5,11 @@ media: true
 highlight: false
 past: false
 description: >-
-  Filming at Nottingham Trent University covers a wide range of course content -
-  International Relations, Construction Project Management and the MBA with
-  specialist pathways. Working with Wiley Education Services we plan the video
-  content to bring the teaching to life for the global postgraduate students.
+  Our academic courswork filming at Nottingham Trent University covered a wide
+  range of course content - International Relations, Construction Project
+  Management and the MBA with specialist pathways. We worked with Wiley
+  Education Services we plan the video content to bring the teaching to life for
+  the global postgraduate students.
 project_date: 2016-03-01 00:00:00
 project_to_date: 2018-10-16 00:00:00
 main_image_path: /uploads/Newton building IMG_2840.jpg
@@ -40,13 +41,13 @@ _options:
   image_path:
     width: 1600
     height: 1600
-    resize_style: "contain"
-    mime_type: "image/jpeg"
+    resize_style: contain
+    mime_type: image/jpeg
   content:
     width: 1600
     height: 1600
-    resize_style: "contain"
-    mime_type: "image/jpeg"
+    resize_style: contain
+    mime_type: image/jpeg
 ---
 
-Over two years we have filmed in many parts of England from rooftops overlooking the Houses of Parliament, to an empty airfield in Lincolnshire, to the streets of central Birmingham.&nbsp; We work with teams of academics from the university and the Wiley Education Services learning designers to present the teachers to students across the world on these online courses, and give a flavour of life at the university in Nottingham and across the UK.
+Over two years we filmed in many parts of England from rooftops overlooking the Houses of Parliament, to an empty airfield in Lincolnshire, to the streets of central Birmingham.&nbsp; We worked with teams of academics from the university and the Wiley Education Services learning designers to present the teachers to students across the world on these online courses, and give a flavour of life at the university in Nottingham and across the UK.
