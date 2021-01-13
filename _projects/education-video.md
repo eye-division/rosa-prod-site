@@ -3,7 +3,7 @@ title: University of Birmingham - Video Production
 event: false
 media: true
 highlight: false
-past: false
+past: true
 description: >-
   We work on a variety of international online postgraduate courses with Wiley
   Education Services for the University of Birmingham.  Educational media
@@ -48,7 +48,7 @@ _options:
     mime_type: image/jpeg
 ---
 
-We worked in partnership with Wiley Education Services from 2015 to 2020 on the production of video media for post-graduate courses at the University of Birmingham for MBA, MSc, MPA and LLM courses.
+Working in partnership from 2015 to 2020 with Wiley Education Services on the production of video media for post-graduate courses at the University of Birmingham for MBA, MSc, MPA and LLM courses.
 
 We worked closely with the learning and publishing teams, and with the academics, to create a range of materials to support learning.
 
