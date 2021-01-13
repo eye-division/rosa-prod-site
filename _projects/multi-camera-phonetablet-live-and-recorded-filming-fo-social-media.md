@@ -5,11 +5,12 @@ media: true
 highlight: false
 past: false
 description: >-
-  Our media coverage of arts and events offers a very contemporary opportunity
-  to publish video content live, using phones, tablets and mobile software
-  technologies.  We work with partners and clients who present arts and other
-  live events to produce live or recorded multi camera or single camera coverage
-  of events for publishing online.
+  For Carnival of Animals with Exeter RAMM Museum and Shademakers UK, and at
+  other events, our media coverage of arts and events offers a very contemporary
+  opportunity to publish video content live, using phones, tablets and mobile
+  software technologies.  We work with partners and clients who present arts and
+  other live events to produce live or recorded multi camera or single camera
+  coverage of events for publishing online.
 project_date: 2016-07-01 00:00:00
 project_to_date: 2018-10-16 00:00:00
 main_image_path: /uploads/film 1 IMG_4691.JPG
@@ -38,17 +39,17 @@ _options:
   image_path:
     width: 1600
     height: 1600
-    resize_style: "contain"
-    mime_type: "image/jpeg"
+    resize_style: contain
+    mime_type: image/jpeg
   content:
     width: 1600
     height: 1600
-    resize_style: "contain"
-    mime_type: "image/jpeg"
+    resize_style: contain
+    mime_type: image/jpeg
 ---
 
-Working with upcoming crews and videographers we capture live event footage and mix with the experience of TV broadcasters used to multi-camera operation.  We are constantly experimenting with new technologies to see how we can best capture arts and live events and work with social media publishing to provide live streaming and creative coverage.  We are keen to work with new partners to explore the potential of this ever changing and adapting world of technology.
+Working with upcoming crews and videographers we capture live event footage and mix with the experience of TV broadcasters used to multi-camera operation.&nbsp; We are constantly experimenting with new technologies to see how we can best capture arts and live events and work with social media publishing to provide live streaming and creative coverage.&nbsp; We are keen to work with new partners to explore the potential of this ever changing and adapting world of technology.
 
-Get in touch if you want to enhance the digital offer alongside your arts or other live events.  We are continually looking for new opportunities and environments to expand our offer, and can either work on very modest budgets with young professionals broadcasting via 3G and 4G, or with very experienced teams, still using new technologies but with secure satellite signals, or with established broadcast teams.
+Get in touch if you want to enhance the digital offer alongside your arts or other live events.&nbsp; We are continually looking for new opportunities and environments to expand our offer, and can either work on very modest budgets with young professionals broadcasting via 3G and 4G, or with very experienced teams, still using new technologies but with secure satellite signals, or with established broadcast teams.
 
 This type of live publishing online works best through partner channels which already have large numbers of followers such as theatres, musuems, broadcasters and established institutions.
