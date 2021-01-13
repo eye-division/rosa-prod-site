@@ -8,6 +8,9 @@ description: >-
   Presented by Miles Jupp and Produced by Sara Parker for Rosa Productions and
   BBC Radio 4.
 
+  Executive Producer - Emma Walker
+
+
   Broadcast 21 and 23 December 2020.
 project_date: 2020-12-21 00:00:00
 project_to_date: 2020-06-23 00:00:00
