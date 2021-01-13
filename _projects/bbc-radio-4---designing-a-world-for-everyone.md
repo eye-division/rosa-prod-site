@@ -3,7 +3,7 @@ title: BBC Radio 4 - Designing a World for Everyone
 event: false
 media: true
 highlight: false
-past: false
+past: true
 description: >-
   In May 2019 we took designer Pattie Moore back  to New York for a BBC Radio 4
   documentary produced by Rosa Productions.
