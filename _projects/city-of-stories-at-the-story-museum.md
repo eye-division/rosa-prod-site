@@ -44,7 +44,7 @@ _options:
     mime_type: image/jpeg
 ---
 
-Commissioned by [The Story Museum](https://www.storymuseum.org.uk/)&nbsp;in Oxford for its 2020 opening as a&nbsp; permanent multi-screen digital installation experience telling the story of 1,000 years of storytelling and story tellers in Oxford.
+Commissioned by [The Story Museum](https://www.storymuseum.org.uk/)&nbsp;in Oxford for its 2020 Opening - the City of Stories is a&nbsp; permanent multi-screen experience for family audiences romping through 1,000 years of storytelling and story tellers in Oxford.
 
 "Board our fantastical Story Craft and fly through a thousand years of Oxford’s story history, from ancient myths and legends to classics of children’s literature enjoyed across the world.
 
