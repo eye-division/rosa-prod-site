@@ -9,7 +9,7 @@ description: >-
   event for children,  in partnership with Thrive London at the Tramshed in
   Woolwich
 project_date: 2020-03-03 00:00:00
-project_to_date: 2019-03-05 00:00:00
+project_to_date: 2020-03-03 00:00:00
 main_image_path: /uploads/rubys-worry.jpg
 video_embed: >-
   <iframe width="560" height="315"
