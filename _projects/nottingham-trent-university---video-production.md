@@ -50,4 +50,4 @@ _options:
     mime_type: image/jpeg
 ---
 
-Over two years we filmed in many parts of England from rooftops overlooking the Houses of Parliament, to an empty airfield in Lincolnshire, to the streets of central Birmingham.&nbsp; We worked with teams of academics from the university and the Wiley Education Services learning designers to present the teachers to students across the world on these online courses, and give a flavour of life at the university in Nottingham and across the UK.
+Over two years from 2016 to 2018 we worked in partnership with Wiley Education Services and Nottingham Trent University to provide media content for 3 degrees courses taught online. We filmed in many parts of England from rooftops overlooking the Houses of Parliament, to an empty airfield in Lincolnshire, to the streets of central Birmingham.&nbsp; We worked with teams of academics from the university and the Wiley Education Services learning designers to present the teachers to students across the world on these online courses, and give a flavour of life at the university in Nottingham and across the UK.
