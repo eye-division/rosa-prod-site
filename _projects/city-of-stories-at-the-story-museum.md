@@ -10,7 +10,7 @@ description: >-
   Oxford’s story history, from ancient myths and legends to classics of
   children’s literature enjoyed across the world.
 project_date: 2020-04-01 00:00:00
-project_to_date: 2022-12-31 00:00:00
+project_to_date: 2020-12-31 00:00:00
 main_image_path: /uploads/Storycraft web image.jpg
 video_embed:
 images:
