@@ -2,7 +2,7 @@
 title: BBC Radio 4 - The Pebble in Your Pocket
 event: false
 media: true
-highlight: true
+highlight: false
 past: false
 description: >-
   Broadcast on BBC Radio 4 at 11am on Tuesday 12 May and 9pm Monday 8 May 2020.
