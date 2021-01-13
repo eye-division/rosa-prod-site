@@ -14,8 +14,6 @@ project_to_date: 2020-12-31 00:00:00
 main_image_path: /uploads/Storycraft web image.jpg
 video_embed:
 images:
-  - image_path:
-    description:
   - image_path: /COS withc.jpg
     description:
   - image_path: /COS tea party.jpg
@@ -25,8 +23,6 @@ images:
   - image_path: /COS Alice characters.jpg
     description:
   - image_path: /COS film set.jpg
-    description:
-  - image_path: /uploads/poster-landscape-alice-300dpi.jpg
     description:
   - image_path: /uploads/poster-landscape-cos-300dpi.jpg
     description:
