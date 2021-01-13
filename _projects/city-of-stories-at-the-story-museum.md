@@ -5,10 +5,10 @@ media: true
 highlight: true
 past: false
 description: >-
-  City of Stories is a digital installation  and experience  for  audiences of
-  all ages. Step into the Stroy Craft and fly through a thousand years of
-  Oxford’s story history, from ancient myths and legends to classics of
-  children’s literature enjoyed across the world.
+  City of Stories is a multi screen experience  for  audiences of all ages. Step
+  into the Stroy Craft and fly through a thousand years of Oxford’s story
+  history, from ancient myths and legends to classics of children’s literature
+  enjoyed across the world.
 project_date: 2020-04-01 00:00:00
 project_to_date: 2020-12-31 00:00:00
 main_image_path: /uploads/Storycraft web image.jpg
