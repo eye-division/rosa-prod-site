@@ -2,7 +2,7 @@
 title: '''City of Stories'' at The Story Museum'
 event: false
 media: true
-highlight: false
+highlight: true
 past: false
 description: >-
   City of Stories is a digital installation  and experience  for  audiences of
