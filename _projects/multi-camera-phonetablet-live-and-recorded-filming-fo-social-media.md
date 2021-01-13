@@ -3,7 +3,7 @@ title: Multi-camera/phone/tablet live and recorded filming for social media
 event: false
 media: true
 highlight: false
-past: false
+past: true
 description: >-
   For Carnival of Animals with Exeter RAMM Museum and Shademakers UK, and at
   other events, our media coverage of arts and events offers a very contemporary
