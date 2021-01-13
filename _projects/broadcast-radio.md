@@ -17,8 +17,6 @@ project_to_date: 2020-06-23 00:00:00
 main_image_path: /uploads/shutterstock_764222953.jpg
 video_embed:
 images:
-  - image_path:
-    description:
   - image_path: /uploads/miles-elf-2.jpg
     description:
   - image_path: /uploads/arctic-po-winter-scene.jpg
