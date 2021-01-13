@@ -1,5 +1,5 @@
 ---
-title: City of Stories at the Story Museum
+title: '''City of Stories'' at The Story Museum'
 event: false
 media: true
 highlight: false
