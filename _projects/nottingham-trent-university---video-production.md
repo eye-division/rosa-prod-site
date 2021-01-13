@@ -3,7 +3,7 @@ title: Nottingham Trent University  - Video & Graphics Production
 event: false
 media: true
 highlight: false
-past: false
+past: true
 description: >-
   Our academic courswork filming at Nottingham Trent University covered a wide
   range of course content - International Relations, Construction Project
