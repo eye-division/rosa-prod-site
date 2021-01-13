@@ -3,7 +3,7 @@ title: Dragon Cafe - Mental Fight Club
 event: false
 media: true
 highlight: false
-past: false
+past: true
 description: >-
   "You can't remake the world without remaking yourself" Ben Okri. Commissioned
   by the Mental Fight Club this film is a powerful reflection of the work of the
@@ -28,16 +28,16 @@ _options:
   image_path:
     width: 1600
     height: 1600
-    resize_style: "contain"
-    mime_type: "image/jpeg"
+    resize_style: contain
+    mime_type: image/jpeg
   content:
     width: 1600
     height: 1600
-    resize_style: "contain"
-    mime_type: "image/jpeg"
+    resize_style: contain
+    mime_type: image/jpeg
 ---
 
-The film is a powerful advocate for the work of Mental Fight Club and its SE London and City of London based project The Dragon Caf&eacute;. It shows the arts activities of the Caf&eacute;, particularly the choir and the singing project and hears from interviews patrons who rely on the activities for their wellbeing.&nbsp;
+The film is a powerful advocate for the work of Mental Fight Club and its SE London and City of London based project The Dragon Café. It shows the arts activities of the Café, particularly the choir and the singing project and hears from interviews patrons who rely on the activities for their wellbeing.&nbsp;
 
 The video shows how wellbeing and creative projects can have a major impact on our lives and health – particularly through offering creative outlets.
 
