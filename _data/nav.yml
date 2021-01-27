@@ -1,14 +1,12 @@
-- title: "Events"
-  href: "/projects/events/"
-
-- title: "Media"
-  href: "/projects/media/"
-
-- title: "News"
-  href: "/news/"
-
-- title: "About"
-  href: "/about/"
-  
-- title: "Contact"
-  href: "/contact/"
+- title: Events
+  href: /projects/events/
+- title: Media
+  href: /projects/media/
+- title: News
+  href: /news/
+- title: About
+  href: /about/
+- title: Contact
+  href: /contact/
+- title: Stories
+  href: 'https://stories.rosaproductions.co.uk/'
