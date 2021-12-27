@@ -5,9 +5,9 @@ media: false
 highlight: false
 past: false
 description: >-
-  Festival Director for the Bloomsbury Festival - taking over in March 2021 just
+  Festival Director for the Bloomsbury Festival - taking over in March 2020 just
   as the pandemic struck!
-project_date: 2021-10-15 00:00:00
+project_date: 2021-03-21 00:00:00
 project_to_date: 2021-12-25 00:00:00
 main_image_path: /uploads/bf2021---rr--fri-cromer-st-welcome-signs-img-3586-2.jpg
 video_embed: >-
@@ -31,3 +31,4 @@ _options:
     resize_style: contain
     mime_type: image/jpeg
 ---
+
