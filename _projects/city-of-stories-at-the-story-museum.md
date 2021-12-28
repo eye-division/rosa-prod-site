@@ -2,8 +2,8 @@
 title: '''City of Stories'' at The Story Museum'
 event: false
 media: true
-highlight: true
-past: false
+highlight: false
+past: true
 description: >-
   City of Stories is a multi screen experience  for  audiences of all ages. Step
   into the Story Craft and fly through a thousand years of Oxford’s story
