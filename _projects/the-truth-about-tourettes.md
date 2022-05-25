@@ -40,11 +40,13 @@ _options:
 
 **Rosa Productions for BBC Radio 4**
 
-Presented by[Aidy Smith](https://www.aidysmith.com/){: target="_blank" rel="noopener"}
+Presented by&nbsp;[Aidy Smith](https://www.aidysmith.com/){: target="_blank" rel="noopener"}
 
 Producer [John Offord](https://www.linkedin.com/in/john-offord-8350031a?originalSubdomain=uk){: target="_blank" rel="noopener"}
 
 Executive Producer [Mike Hally](www.mikehally.com){: target="_blank" rel="noopener"}
+
+**The Truth About Tourette’s will air on BBC Radio 4 on May 31st at 11am and June 6th at 9pm, thereafter streaming on BBC Sounds for 12 months.**
 
 Aidy Smith is a TV presenter with Tourette’s. He is one of a small number of media personalities with the syndrome and is a recently appointed patron for the UK’s largest neurodiversity charity, the ADHD Foundation.
 
@@ -63,7 +65,5 @@ Aidy explains his view that “It’s like having a superpower; all of the exces
 He is invited to try a new technology being developed at Nottingham University that can stop the tics associated with the syndrome. “I think it was one of the most emotional moments of my life” he recounts. “Our tics can bring so much pain and discomfort, to be able to be in control of them is truly life-changing, I’ve never felt anything like that before”.
 
 “I want to inspire those in positions who can change lives to look beyond the perceived burdens sourced from stigmas and look at the positives; what you may see as a disability is actually a hidden superpower and this documentary will explain why”.
-
-The Truth About Tourette’s will air on BBC Radio 4 on May 31st at 11am and June 6th at 9pm, thereafter streaming on BBC Sounds for 12 months.
 
 Aidy Smith is known for presenting the ‘The Three Drinkers’ travel series on Amazon Prime, Aidy is a keen advocate and one of the few known personalities with Tourette’s. He’s on a mission to normalise the representation of disabled talent across TV, radio and beyond. Please see www.aidysmith.com for more info.
