@@ -44,7 +44,7 @@ Presented by&nbsp;[Aidy Smith](https://www.aidysmith.com/){: target="_blank" rel
 
 Producer [John Offord](https://www.linkedin.com/in/john-offord-8350031a?originalSubdomain=uk){: target="_blank" rel="noopener"}
 
-Executive Producer [Mike Hally](www.mikehally.com){: target="_blank" rel="noopener"}
+Executive Producer [Mike Hally](www.mikehally.com)
 
 **The Truth About Tourette’s will air on BBC Radio 4 on May 31st at 11am and June 6th at 9pm, thereafter streaming on BBC Sounds for 12 months.**
 
