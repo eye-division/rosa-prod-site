@@ -35,11 +35,16 @@ _options:
     resize_style: contain
     mime_type: image/jpeg
 ---
-The Truth About Tourette’s
 
-Rosa Productions for BBC Radio 4
+**The Truth About Tourette’s**
 
-Presented by Aidy Smith
+**Rosa Productions for BBC Radio 4**
+
+Presented by[Aidy Smith](https://www.aidysmith.com/){: target="_blank" rel="noopener"}
+
+Producer [John Offord](https://www.linkedin.com/in/john-offord-8350031a?originalSubdomain=uk){: target="_blank" rel="noopener"}
+
+Executive Producer [Mike Hally](www.mikehally.com){: target="_blank" rel="noopener"}
 
 Aidy Smith is a TV presenter with Tourette’s. He is one of a small number of media personalities with the syndrome and is a recently appointed patron for the UK’s largest neurodiversity charity, the ADHD Foundation.
 
