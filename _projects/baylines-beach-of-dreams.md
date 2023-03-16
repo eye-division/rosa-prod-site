@@ -1,14 +1,14 @@
 ---
 title: Baylines - Beach of Dreams
-event: false
+event: true
 media: false
-highlight: false
+highlight: true
 past: false
 description: >-
   We're delighted to be working with Morecambe Bay partnership and 
   internationally-renowned arts organisation Kinetika bringing Baylines - Beach
   of Dreams to Morecambe Bay.
-project_date: 2023-04-01 00:00:00
+project_date: 2023-03-16 00:00:00
 project_to_date: 2023-08-31 00:00:00
 main_image_path: /uploads/Ali-leads-off.jpg
 video_embed: https://youtu.be/lBmhQuQw7PU
@@ -35,9 +35,13 @@ _options:
 ---
 ### Bay Lines - Beach of Dreams
 
-**Bay Lines is&nbsp;**a participatory programme by Kinetika in partnership with Kendal-based Rosa Productions, which will present two linked events– the first in June is an investigative Bay-wide visual arts journey and a related community, storytelling and digital project, both leading to a series of public events at the end of August.
+**Bay Lines - Beach of Dreams is&nbsp;**a participatory creative programme celebrating the coastline, pathways and stories of Morecambe Bay, for [Morecambe Bay Partnership](Inspirational Walking and Wheeling events… | Morecambe Bay Partnership)&nbsp;and produced by Kendal-based Rosa Productions in partnership with international arts company [Kinetika](https://kinetika.co.uk/beach-of-dreams). The Beach of Dreams creative walks began in Suffolk and Essex in 2021 and are leading towards a national project in 2025.
 
-Inspired by the ‘**Beach of Dreams&nbsp;**’ programme, initiated by Kinetika and Rosa Productions, and led by artistic director, Ali Pretty in 2021, ‘Bay Lines – Beach of Dreams’ will specifically focus on Morecambe Bay. Using cycling routes and public footpaths, Bay Lines will host artist-led ‘foraging’ walks in June to collect dye materials, images and stories from the landscape, culminating in a ‘Natural Dye’ artists’ residency between 29 July and 6 August, and workshops, led by Kinetika artist, Lesley Robinson. It will form part of the national Beach of Dreams 2025 programme which will culminate in a collective journey around 10,000 miles of coastline across the UK and Ireland, led by Kinetika and Creative Lives.
+This&nbsp; Morecambe Bay visual arts journey from Barrow to Fleetwood and a related community, storytelling and digital project, starts with community workshops in May and leads to&nbsp; a series of public events at the end of August 2023.
+
+More details on booking places to participate in walks, events and workshops will be available soon on this website.
+
+Inspired by the ‘**Beach of Dreams&nbsp;**’ programme, initiated by Kinetika and Rosa Productions, and led by artistic director, Ali Pretty in 2021, ‘Bay Lines – Beach of Dreams’ will specifically focus in 2023 on Morecambe Bay. Using cycling routes and public footpaths, Bay Lines will host artist-led ‘foraging’ walks in June to collect dye materials, images and stories from the landscape, culminating in a ‘Natural Dye’ artists’ residency between 29 July and 6 August, and workshops, led by Kinetika artist, Lesley Robinson. It will form part of the national Beach of Dreams 2025 programme which will culminate in a collective journey around 10,000 miles of coastline across the UK and Ireland, led by Kinetika and Creative Lives.
 
 In May and June locals will be invited to share stories about each mile of coastline around the Bay, and contribute to designs for silk pennants made by Kinetika with local participants which reflect each mile of the natural environment of the coast, sands and estuaries.
 
