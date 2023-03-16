@@ -22,8 +22,12 @@ images:
     description: >-
       In 2021 Rosa Productions worked with Kinetika to produce a 500 mile Beach
       of Dreams walk from Lowestoft in Sussex to Tilbury.
-  - image_path:
-    description:
+  - image_path: /uploads/xh100034-51310759787-o.jpg
+    description: Tourers taking part in Beach of Dreams 2021
+  - image_path: /uploads/harwich-pennants.jpg
+    description: >-
+      Pennants depicting each mile of coastline displayed as an installation on
+      the beach
 _options:
   layout:
     hidden: true
