@@ -42,7 +42,7 @@ _options:
     resize_style: contain
     mime_type: image/jpeg
 ---
-**Bay Lines - Beach of Dreams** is a participatory creative programme celebrating the coastline, pathways and stories of Morecambe Bay, produced by Kendal-based Rosa Productions in partnership with international arts company [Kinetika](https://kinetika.co.uk/beach-of-dreams) for [Morecambe Bay Partnership](Inspirational Walking and Wheeling events… | Morecambe Bay Partnership).
+**Bay Lines - Beach of Dreams** is a participatory creative programme celebrating the coastline, pathways and stories of Morecambe Bay, produced by Kendal-based Rosa Productions in partnership with international arts company [Kinetika](https://kinetika.co.uk/beach-of-dreams) for Morecambe Bay Partnership.&nbsp;
 
 Beach of Dreams is a multi-year exploration of the country’s coastline which began in Suffolk and Essex in 2021 and is leading towards a national project in 2025.
 
