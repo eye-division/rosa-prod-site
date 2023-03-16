@@ -11,8 +11,12 @@ description: >-
 project_date: 2023-04-01 00:00:00
 project_to_date: 2023-08-31 00:00:00
 main_image_path: /uploads/Ali-leads-off.jpg
-video_embed:
+video_embed: https://youtu.be/lBmhQuQw7PU
 images:
+  - image_path: /uploads/walking-into-lowestoft-beach-mile-2-c-mike-johnson.jpg
+    description: >-
+      In 2021 Rosa Productions worked with Kinetika to produce a 500 mile Beach
+      of Dreams walk from Lowestoft in Sussex to Tilbury.
   - image_path:
     description:
 _options:
