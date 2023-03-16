@@ -11,7 +11,12 @@ description: >-
 project_date: 2023-03-16 00:00:00
 project_to_date: 2023-08-31 00:00:00
 main_image_path: /uploads/Ali-leads-off.jpg
-video_embed: https://youtu.be/lBmhQuQw7PU
+video_embed: >-
+  <iframe width="560" height="315"
+  src="https://www.youtube.com/embed/lBmhQuQw7PU" title="YouTube video player"
+  frameborder="0" allow="accelerometer; autoplay; clipboard-write;
+  encrypted-media; gyroscope; picture-in-picture; web-share"
+  allowfullscreen></iframe>
 images:
   - image_path: /uploads/walking-into-lowestoft-beach-mile-2-c-mike-johnson.jpg
     description: >-
