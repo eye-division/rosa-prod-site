@@ -52,11 +52,11 @@ From Fleetwood to Walney Island, Barrow, you can choose a mile to walk, celebrat
 
 Our aim is to gather photos, drawings and stories about 120 miles of Morecambe Bay coast and to create 120 pennants - one per mile. These pennants will then be displayed at 4 special events across the Bay over August 2023 Bank Holiday weekend. (Final deadline for Submission of content is 30 June.)
 
-Together, we’ll be examining environmental themes and the challenges of our current time and considering the question “How can we creatively reimagine our future?”
+Together, we’ll be exploring the coastline and its environment, celebrating its unique landscape and examining environmental themes and the challenges of our current time by considering the question “How can we creatively reimagine our future?”
 
 Kinetika’s Artistic Director, Ali Pretty, will lead Gathering Walks along the Bay coastline from 3 to 8 June.
 
-Y ou can also reserve miles to complete in your own time.&nbsp;
+You can also reserve miles to complete in your own time.&nbsp;
 
 And if you just want to find out more we are running workshops across the Bay from 10-14 May - so join us to learn more about the project and how to take part.&nbsp; Or book direct onto the walks and art workshops.
 
