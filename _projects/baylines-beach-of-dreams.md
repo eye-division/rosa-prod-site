@@ -1,5 +1,5 @@
 ---
-title: Bay Lines - Beach of Dreams
+title: Baylines - Beach of Dreams
 event: true
 media: false
 highlight: true
@@ -28,12 +28,6 @@ images:
     description: >-
       Pennants depicting each mile of coastline displayed as an installation on
       the beach
-  - image_path: /uploads/arnside-flyer.jpg
-    description: ''
-  - image_path: /uploads/barrow-flyer-1.jpg
-    description: ''
-  - image_path: /uploads/grange-flyer-1.jpg
-    description: ''
 _options:
   layout:
     hidden: true
