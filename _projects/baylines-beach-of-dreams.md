@@ -42,16 +42,44 @@ _options:
     resize_style: contain
     mime_type: image/jpeg
 ---
-**Bay Lines - Beach of Dreams** is a participatory creative programme celebrating the coastline, pathways and stories of Morecambe Bay, produced by Kendal-based Rosa Productions in partnership with international arts company [Kinetika](https://kinetika.co.uk/beach-of-dreams) for Morecambe Bay Partnership.&nbsp;
+**Bay Lines - Beach of Dreams** is a participatory creative programme celebrating the coastline, pathways and stories of Morecambe Bay,&nbsp; produced and presented by Kendal-based Rosa Productions in partnership with international arts company [Kinetika](https://kinetika.co.uk/beach-of-dreams) for [Morecambe Bay Partnership](https://www.morecambebay.org.uk/beach-of-dreams)&nbsp;as part of [Ways Around the Bay](https://www.morecambebay.org.uk/ways-around-the-bay)
 
-Beach of Dreams is a multi-year exploration of the country’s coastline which began in Suffolk and Essex in 2021 and is leading towards a national project in 2025.
+**Bay Lines: Beach of Dreams 2023**
 
-This Morecambe Bay visual arts journey from Barrow to Fleetwood and a related community, storytelling and digital project, starts with community workshops in May and leads to&nbsp; a series of public events at the end of August 2023.
+Join us this summer to creatively explore 120 miles of Morecambe Bay coastline.
 
-**More details on booking places to participate in walks, events and workshops will be available soon on this website.**
+From Fleetwood to Walney Island, Barrow, you can choose a mile to walk, celebrate and share. We’re encouraging people to discover Morecambe Bay on foot (or by bike or mobility scooter where suitable) and to join in with a collective and creative community experience.
 
-Inspired by the ‘Beach of Dreams ’ programme, initiated by Kinetika and Rosa Productions, and led by artistic director, Ali Pretty in 2021, ‘Bay Lines – Beach of Dreams’ will specifically focus in 2023 on Morecambe Bay. Using cycling routes and public footpaths, Bay Lines will host artist-led ‘foraging’ walks in June to collect dye materials, images and stories from the landscape, culminating in a ‘Natural Dye’ artists’ residency between 29 July and 6 August, and workshops, led by Kinetika artist, Lesley Robinson. It will form part of the national Beach of Dreams 2025 programme which will culminate in a collective journey around 10,000 miles of coastline across the UK and Ireland, led by Kinetika and Creative Lives.
+Our aim is to gather photos, drawings and stories about 120 miles of Morecambe Bay coast and to create 120 pennants - one per mile. These pennants will then be displayed at 4 special events across the Bay over August 2023 Bank Holiday weekend. (Final deadline for Submission of content is 30 June.)
 
-In May and June locals will be invited to share stories about each mile of coastline around the Bay, and contribute to designs for silk pennants made by Kinetika with local participants which reflect each mile of the natural environment of the coast, sands and estuaries.
+Together, we’ll be examining environmental themes and the challenges of our current time and considering the question “How can we creatively reimagine our future?”
 
-Over the August bank holiday weekend four events will take place across the Bay with a finale in Morecambe, when beach installations of the pennants will form a striking display for all to enjoy alongside other outdoor ‘place-related’ performances celebrating the Bay as a place for exploration.
+Kinetika’s Artistic Director, Ali Pretty, will lead Gathering Walks along the Bay coastline from 3 to 8 June.
+
+Y ou can also reserve miles to complete in your own time.&nbsp;
+
+And if you just want to find out more we are running workshops across the Bay from 10-14 May - so join us to learn more about the project and how to take part.&nbsp; Or book direct onto the walks and art workshops.
+
+**10 - 14 May** - [Introductory Workshops in Barrow, Arnside, Morecambe and Grange-over-Sands](https://www.eventbrite.com/cc/taking-part-and-natural-dye-silks-workshops-2128419)
+
+**3 - 8 June**\:&nbsp;[Story Gathering Walks](https://www.eventbrite.com/cc/bay-lines-beach-of-dreams-gathering-walks-2097299?utm-campaign=social&amp;utm-content=creatorshare&amp;utm-medium=discovery&amp;utm-term=odclsxcollection&amp;utm-source=cp&amp;aff=escb)
+
+**10 - 11 June**\:&nbsp;[Natural Dye Introductory Taster Workshops](https://www.eventbrite.co.uk/e/natural-dye-art-workshops-10-and-11-june-with-kinetika-artists-tickets-626572674737?utm-campaign=social&amp;utm-content=attendeeshare&amp;utm-medium=discovery&amp;utm-term=listing&amp;utm-source=cp&amp;aff=escb)
+
+**29 July - 6 August**\: [Silk Pennant Design and Natural Dye Residency](https://www.eventbrite.com/e/626600197057)
+
+**25 - 28 August**\: Beach installation events with walking and cycling participation at 4 locations across the Bay open to all. (Event Information will be available from 1 July 2023)
+
+D ates for August events (for your diary)
+
+Friday 25 August - W alney Island
+
+Saturday 26 August - G range-over-Sands
+
+S unday 27 August - Arnside
+
+M onday 28 August (Bank Holiday) - Morecambe
+
+**B ay Lines: Beach of Dreams is presented by Kinetika in partnership with Rosa Productions. It is commissioned by Morecambe Bay Partnership as part of the 'Ways Across the Bay' project which aims to inspire people to explore the Bay in low-carbon ways - on foot, bike or mobility scooter. www.waysaroundthebay.org.uk.**
+
+**Beach of Dreams**&nbsp;began as a 500-mile walk artistically exploring the coastline of the UK in 2021. The project was initiated by Kinetika, led by artistic director, Ali Pretty in 2021 in partnership with&nbsp;[Rosa Productions](https://www.rosaproductions.co.uk/), and will culminate in the collective UK and Ireland-wide mass participatory coastal journey in May 2025, developed by Kinetika in partnership with&nbsp;[Creative Lives](https://www.creative-lives.org/). Beach of Dreams is a multi-year exploration of the country’s coastline which began in Suffolk and Essex in 2021 and is leading towards a national project in 2025.
