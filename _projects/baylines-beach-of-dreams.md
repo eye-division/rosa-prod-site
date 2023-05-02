@@ -42,7 +42,7 @@ _options:
     resize_style: contain
     mime_type: image/jpeg
 ---
-**Bay Lines - Beach of Dreams** is a participatory creative programme celebrating the coastline, pathways and stories of Morecambe Bay,&nbsp; produced and presented by Kendal-based Rosa Productions in partnership with international arts company [Kinetika](https://kinetika.co.uk/beach-of-dreams) for [Morecambe Bay Partnership](https://www.morecambebay.org.uk/beach-of-dreams)&nbsp;as part of [Ways Around the Bay](https://www.morecambebay.org.uk/ways-around-the-bay)
+**![](/uploads/grange-flyer.jpg){: width="2262" height="3200"}...![](/uploads/barrow-flyer.jpg){: width="1414" height="2000"}![](/uploads/arnside-flyer.jpg){: srcset="/uploads/arnside-flyer.jpg [object Blob]w, /uploads/arnside-flyer-2x.jpg 2262w" width="1131" height="1600"}Bay Lines - Beach of Dreams** is a participatory creative programme celebrating the coastline, pathways and stories of Morecambe Bay,&nbsp; produced and presented by Kendal-based Rosa Productions in partnership with international arts company [Kinetika](https://kinetika.co.uk/beach-of-dreams) for [Morecambe Bay Partnership](https://www.morecambebay.org.uk/beach-of-dreams)&nbsp;as part of [Ways Around the Bay](https://www.morecambebay.org.uk/ways-around-the-bay)
 
 **Bay Lines: Beach of Dreams 2023**
 
