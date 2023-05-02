@@ -70,16 +70,16 @@ And if you just want to find out more we are running workshops across the Bay fr
 
 **25 - 28 August**\: Beach installation events with walking and cycling participation at 4 locations across the Bay open to all. (Event Information will be available from 1 July 2023)
 
-D ates for August events (for your diary)
+Dates for August events (for your diary)
 
-Friday 25 August - W alney Island
+Friday 25 August - Walney Island
 
-Saturday 26 August - G range-over-Sands
+Saturday 26 August - Grange-over-Sands
 
-S unday 27 August - Arnside
+Sunday 27 August - Arnside
 
-M onday 28 August (Bank Holiday) - Morecambe
+Monday 28 August (Bank Holiday) - Morecambe
 
-**B ay Lines: Beach of Dreams is presented by Kinetika in partnership with Rosa Productions. It is commissioned by Morecambe Bay Partnership as part of the 'Ways Across the Bay' project which aims to inspire people to explore the Bay in low-carbon ways - on foot, bike or mobility scooter. www.waysaroundthebay.org.uk.**
+**Bay Lines: Beach of Dreams is presented by Kinetika in partnership with Rosa Productions. It is commissioned by Morecambe Bay Partnership as part of the 'Ways Across the Bay' project which aims to inspire people to explore the Bay in low-carbon ways - on foot, bike or mobility scooter. www.waysaroundthebay.org.uk.**
 
-**Beach of Dreams**&nbsp;began as a 500-mile walk artistically exploring the coastline of the UK in 2021. The project was initiated by Kinetika, led by artistic director, Ali Pretty in 2021 in partnership with&nbsp;[Rosa Productions](https://www.rosaproductions.co.uk/), and will culminate in the collective UK and Ireland-wide mass participatory coastal journey in May 2025, developed by Kinetika in partnership with&nbsp;[Creative Lives](https://www.creative-lives.org/). Beach of Dreams is a multi-year exploration of the country’s coastline which began in Suffolk and Essex in 2021 and is leading towards a national project in 2025.
+**Beach of Dreams**&nbsp;began as a 500-mile walk artistically exploring the coastline of the UK in 2021.&nbsp; See more on the [Kinetika website](https://kinetika.co.uk/beach-of-dreams).&nbsp; The project was initiated by Kinetika, led by artistic director, Ali Pretty in 2021 in partnership with&nbsp;[Rosa Productions](https://www.rosaproductions.co.uk/), and will culminate in the collective UK and Ireland-wide mass participatory coastal journey in May 2025, developed by Kinetika in partnership with&nbsp;[Creative Lives](https://www.creative-lives.org/). Beach of Dreams is a multi-year exploration of the country’s coastline which began in Suffolk and Essex in 2021 and is leading towards a national project in 2025.
