@@ -28,6 +28,8 @@ images:
     description: >-
       Pennants depicting each mile of coastline displayed as an installation on
       the beach
+  - image_path: ''
+    description: ''
 _options:
   layout:
     hidden: true
