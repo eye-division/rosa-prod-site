@@ -64,7 +64,7 @@ And if you just want to find out more we are running workshops across the Bay fr
 
 [**Any date before 30 June:&nbsp;**Sign up to a mile of your choice](https://www.eventbrite.co.uk/cc/bay-lines-beach-of-dreams-miles-reservations-2098899){: target="_blank" rel="noreferrer noopener"}**[.](https://www.eventbrite.co.uk/cc/bay-lines-beach-of-dreams-miles-reservations-2098899){: target="_blank" rel="noreferrer noopener"}**&nbsp;
 
-**10 - 11 June**\:&nbsp;[Natural Dye Introductory Taster Workshops](https://www.eventbrite.co.uk/e/natural-dye-art-workshops-10-and-11-june-with-kinetika-artists-tickets-626572674737?utm-campaign=social&amp;utm-content=attendeeshare&amp;utm-medium=discovery&amp;utm-term=listing&amp;utm-source=cp&amp;aff=escb)
+**[...](/uploads/MorecambeBay_BLBOD_72.pdf)10 - 11 June**\:&nbsp;[Natural Dye Introductory Taster Workshops](https://www.eventbrite.co.uk/e/natural-dye-art-workshops-10-and-11-june-with-kinetika-artists-tickets-626572674737?utm-campaign=social&amp;utm-content=attendeeshare&amp;utm-medium=discovery&amp;utm-term=listing&amp;utm-source=cp&amp;aff=escb)
 
 **29 July - 6 August**\: [Silk Pennant Design and Natural Dye Residency](https://www.eventbrite.com/e/626600197057)
 
