@@ -60,9 +60,9 @@ You can also reserve miles to complete in your own time.&nbsp;
 
 And if you just want to find out more we are running workshops across the Bay from 10-14 May - so join us to learn more about the project and how to take part.&nbsp; Or book direct onto the walks and art workshops.
 
-**10 - 14 May** - [Introductory Workshops in Barrow, Arnside, Morecambe and Grange-over-Sands](https://www.eventbrite.com/cc/taking-part-and-natural-dye-silks-workshops-2128419)
-
 **3 - 8 June**\:&nbsp;[Story Gathering Walks](https://www.eventbrite.com/cc/bay-lines-beach-of-dreams-gathering-walks-2097299?utm-campaign=social&amp;utm-content=creatorshare&amp;utm-medium=discovery&amp;utm-term=odclsxcollection&amp;utm-source=cp&amp;aff=escb)
+
+[**Any date before 30 June:&nbsp;**Sign up to a mile of your choice](https://www.eventbrite.co.uk/cc/bay-lines-beach-of-dreams-miles-reservations-2098899){: target="_blank" rel="noreferrer noopener"}**[.](https://www.eventbrite.co.uk/cc/bay-lines-beach-of-dreams-miles-reservations-2098899){: target="_blank" rel="noreferrer noopener"}**&nbsp;
 
 **10 - 11 June**\:&nbsp;[Natural Dye Introductory Taster Workshops](https://www.eventbrite.co.uk/e/natural-dye-art-workshops-10-and-11-june-with-kinetika-artists-tickets-626572674737?utm-campaign=social&amp;utm-content=attendeeshare&amp;utm-medium=discovery&amp;utm-term=listing&amp;utm-source=cp&amp;aff=escb)
 
