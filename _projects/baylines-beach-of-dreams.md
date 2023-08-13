@@ -46,6 +46,38 @@ _options:
 ---
 **Bay Lines - Beach of Dreams** is a participatory creative programme celebrating the coastline, pathways and stories of Morecambe Bay,&nbsp; produced and presented by Kendal-based Rosa Productions in partnership with international arts company [Kinetika](https://kinetika.co.uk/beach-of-dreams) for [Morecambe Bay Partnership](https://www.morecambebay.org.uk/beach-of-dreams)&nbsp;as part of [Ways Around the Bay](https://www.morecambebay.org.uk/ways-around-the-bay)
 
+**Event Days info here**
+
+**[https://www.waysaroundthebay.org.uk/enjoy-your-visit/bay-lines-installation-events](https://www.waysaroundthebay.org.uk/enjoy-your-visit/bay-lines-installation-events).&nbsp;**
+
+Installations and associated events are from 11am to 4pm each day.
+
+**Walney Island – Friday 25 August** (Installation just below Round House Hub and Café, Walney Island)
+
+*Walk-in of Pennants:&nbsp;**Sandy Gap Beach, Walney, Barrow-in-Furness LA14 3JT. &nbsp;**At the end of Sandy Gap Lane by start of Morecambe Bay Cycleway sign*
+
+*Gather at 11:00. Departure time: 11:30am*
+
+**Grange-over-Sands walks – Saturday 26th August&nbsp;**&nbsp;(Installation near Grange Lido)
+
+*Walk-in of Pennants: **Grange over Sands Railway Car Park Lindale Rd, Station Square, Grange-over-Sands LA11 6EH***
+
+*Meet at 11am. Departure Time: 11:30am*
+
+**Arnside Walks – Sunday 27th August (installation**
+
+*Walk-in of Pennants: 11:00 Departure Time: 11:30am*
+
+*Meet on slipway on beach beyond the **Coast Guard Station****, Arnside, Carnforth LA5 0AD** (please access from Arnside along the beach)*
+
+&nbsp;&nbsp;**Morecambe Walk – Monday 28th August (Installation near Clock Tower beach)**
+
+*Walk-in of Pennants: Meet at 10:45 for Departure Time: 11:15am*
+
+***Promenade at&nbsp;****Venus Sculpture, &nbsp;Morecambe LA2 6EQ (opposite Morecambe Golf Club)***
+
+
+
 **Bay Lines: Beach of Dreams 2023**
 
 [**Participation Pack**](/uploads/MorecambeBay_BLBOD_72.pdf)
@@ -64,25 +96,7 @@ You can also reserve miles to complete in your own time.&nbsp;
 
 And if you just want to find out more we are running workshops across the Bay from 10-14 May - so join us to learn more about the project and how to take part.&nbsp; Or book direct onto the walks and art workshops.
 
-**3 - 8 June**\:&nbsp;[Story Gathering Walks](https://www.eventbrite.com/cc/bay-lines-beach-of-dreams-gathering-walks-2097299?utm-campaign=social&amp;utm-content=creatorshare&amp;utm-medium=discovery&amp;utm-term=odclsxcollection&amp;utm-source=cp&amp;aff=escb)
 
-[**Any date before 30 June:&nbsp;**Sign up to a mile of your choice](https://www.eventbrite.co.uk/cc/bay-lines-beach-of-dreams-miles-reservations-2098899){: target="_blank" rel="noreferrer noopener"}**[.](https://www.eventbrite.co.uk/cc/bay-lines-beach-of-dreams-miles-reservations-2098899){: target="_blank" rel="noreferrer noopener"}**&nbsp;
-
-**[…](/uploads/MorecambeBay_BLBOD_72.pdf)10 - 11 June**\:&nbsp;[Natural Dye Introductory Taster Workshops](https://www.eventbrite.co.uk/e/natural-dye-art-workshops-10-and-11-june-with-kinetika-artists-tickets-626572674737?utm-campaign=social&amp;utm-content=attendeeshare&amp;utm-medium=discovery&amp;utm-term=listing&amp;utm-source=cp&amp;aff=escb)
-
-**29 July - 6 August**\: [Silk Pennant Design and Natural Dye Residency](https://www.eventbrite.com/e/626600197057)
-
-**25 - 28 August**\: Beach installation events with walking and cycling participation at 4 locations across the Bay open to all. (Event Information will be available from 1 July 2023)
-
-Dates for August events (for your diary)
-
-Friday 25 August - Walney Island
-
-Saturday 26 August - Grange-over-Sands
-
-Sunday 27 August - Arnside
-
-Monday 28 August (Bank Holiday) - Morecambe
 
 **Bay Lines: Beach of Dreams is presented by Kinetika in partnership with Rosa Productions. It is commissioned by Morecambe Bay Partnership as part of the 'Ways Across the Bay' project which aims to inspire people to explore the Bay in low-carbon ways - on foot, bike or mobility scooter. www.waysaroundthebay.org.uk.**
 
