@@ -1,5 +1,5 @@
 ---
-title: Baylines - Beach of Dreams
+title: Bay Lines - Beach of Dreams
 event: true
 media: false
 highlight: true
@@ -74,9 +74,7 @@ Installations and associated events are from 11am to 4pm each day.
 
 *Walk-in of Pennants: Meet at 10:45 for Departure Time: 11:15am*
 
-***Promenade at&nbsp;****Venus Sculpture, &nbsp;Morecambe LA2 6EQ (opposite Morecambe Golf Club)***
-
-
+***Promenade at&nbsp;****Venus Sculpture, &nbsp;Morecambe LA2 6EQ (opposite Morecambe Golf Club)*\*\*
 
 **Bay Lines: Beach of Dreams 2023**
 
@@ -95,8 +93,6 @@ Kinetika’s Artistic Director, Ali Pretty, will lead Gathering Walks along the 
 You can also reserve miles to complete in your own time.&nbsp;
 
 And if you just want to find out more we are running workshops across the Bay from 10-14 May - so join us to learn more about the project and how to take part.&nbsp; Or book direct onto the walks and art workshops.
-
-
 
 **Bay Lines: Beach of Dreams is presented by Kinetika in partnership with Rosa Productions. It is commissioned by Morecambe Bay Partnership as part of the 'Ways Across the Bay' project which aims to inspire people to explore the Bay in low-carbon ways - on foot, bike or mobility scooter. www.waysaroundthebay.org.uk.**
 
