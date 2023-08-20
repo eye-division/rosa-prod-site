@@ -1,14 +1,15 @@
 ---
 title: 120 Miles of Morecambe Bay
 event: false
-media: false
+media: true
 highlight: false
 past: false
 description:
 project_date:
 project_to_date:
 main_image_path:
-video_embed:
+video_embed: >-
+  https://www.dropbox.com/scl/fo/596tlqzgisu3wxgcoqe25/h?rlkey=crqn64k5wsknomk44jmyvijct&dl=0
 images:
   - image_path:
     description:
