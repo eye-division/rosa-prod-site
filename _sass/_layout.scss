@@ -348,12 +348,12 @@ main {
     height: 50%;
     background-size: cover;
     background-position: 50% 20%;
-    background-image: url("../assets/homepage-sm.jpg");
+    background-image: url("../assets/front-page-events-sm.jpg");
     @include media ($tablet) {
       float: left;
       width: 50%;
       height: 100%;
-      background-image: url("../assets/homepage-lg.jpg");
+      background-image: url("../assets/front-page-events.jpg");
       h2 a {
         float: left;
         text-align: left;
@@ -365,12 +365,12 @@ main {
     height: 50%;
     background-size: cover;
     background-position: 50% 20%;
-    background-image: url("../assets/media-front-sm.jpg");
+    background-image: url("../assets/front-page-media-sm.jpg");
     @include media ($tablet) {
       float: right;
       width: 50%;
       height: 100%;
-      background-image: url("../assets/media-front-lg.jpg");
+      background-image: url("../assets/front-page-media.jpg");
       h2 a {
         float: right;
         text-align: right;
