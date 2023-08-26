@@ -365,12 +365,12 @@ main {
     height: 50%;
     background-size: cover;
     background-position: 50% 20%;
-    background-image: url("../assets/front-page-media-sm.jpg");
+    background-image: url("../assets/front-page-blooms-sm.jpg");
     @include media ($tablet) {
       float: right;
       width: 50%;
       height: 100%;
-      background-image: url("../assets/front-page-media.jpg");
+      background-image: url("../assets/front-page-blooms.jpg");
       h2 a {
         float: right;
         text-align: right;
