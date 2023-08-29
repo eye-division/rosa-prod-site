@@ -313,6 +313,12 @@ main {
   main {
     height: 100%;
     padding-bottom: 3em; // space for nav bar
+    background-image: url("../assets/front-page-blooms-sm.jpg");
+    background-size: cover;
+    background-position: 50% 50%;
+    @include media ($tablet) {
+      background-image: url("../assets/front-page-blooms.jpg");
+    }
   }
 
   h1 {
@@ -346,14 +352,11 @@ main {
 
   .events {
     height: 50%;
-    background-size: cover;
-    background-position: 50% 20%;
-    background-image: url("../assets/front-page-events-sm.jpg");
+
     @include media ($tablet) {
       float: left;
       width: 50%;
       height: 100%;
-      background-image: url("../assets/front-page-events.jpg");
       h2 a {
         float: left;
         text-align: left;
@@ -363,14 +366,11 @@ main {
 
   .media {
     height: 50%;
-    background-size: cover;
-    background-position: 50% 20%;
-    background-image: url("../assets/front-page-blooms-sm.jpg");
+
     @include media ($tablet) {
       float: right;
       width: 50%;
       height: 100%;
-      background-image: url("../assets/front-page-blooms.jpg");
       h2 a {
         float: right;
         text-align: right;
