@@ -48,23 +48,17 @@ _options:
     resize_style: contain
     mime_type: image/jpeg
 ---
-Guy’s and St Thomas’ Charity has a focus on big health challenges that affect inner-city areas. Multiple long-term conditions are key amongst these.&nbsp; We were invited to work with the charity’s community and medical health partners to help individuals tell their own video and digital stories about living with multiple conditions.<br><br>Thank you to all who took part in community groups and to those who shared their stories with us in detail: Frederick, Inacia, Jacqueline, Lesley, Lindsay, Lynda, Mario and Sue.
+&nbsp;
 
-[**Mario’s digital story and video**&nbsp;](https://vimeo.com/283915061?share=copy "Mario's story"){: rel="noreferrer nofollow"}
+Guy’s and St Thomas’ Charity has a focus on big health challenges that affect inner-city areas. Multiple long-term conditions are key amongst these.&nbsp; We were invited to work with the charity’s community and medical health partners to help individuals tell their own video and digital stories about living with multiple conditions.<br><br>We collected video and digital stories from 8 participants and 4 became video films which we share here. Thank you to all who took part in community groups and to those who shared their stories with us in detail: Frederick, Inacia, Jacqueline, Lesley, Lindsay, Lynda, Mario and Sue.
 
-**Lynda’s digital story and video**
+[**Mario’s Story - Video**](https://vimeo.com/283915061?share=copy "Mario's Story"){: rel="nofollow"}
 
-[**Jacqueline’s digital story and video**](https://gsttcharity-uk.shorthandstories.com/jacqueline/index.html){: target="_blank" rel="noopener"}
+[**Lynda’s Story  - Video**](https://vimeo.com/283914290/e99fb4ba7d?share=copy "Lynda's Story"){: rel="nofollow"}
 
-[**Lindsay’s digital story and video**](https://gsttcharity-uk.shorthandstories.com/lindsay/){: target="_blank" rel="noopener"}
+[**Jacqueline’s Story - Video**](https://vimeo.com/284330850?share=copy "Jacqueline's Story"){: rel="nofollow"}
 
-[**Inacia’s digital story**](https://gsttcharity-uk.shorthandstories.com/inacia/){: target="_blank" rel="noopener"}
-
-[**Sue’s digital story**](https://gsttcharity-uk.shorthandstories.com/sue/){: target="_blank" rel="noopener"}
-
-[**Frederick’s digital story**](https://gsttcharity-uk.shorthandstories.com/frederick/){: target="_blank" rel="noopener"}
-
-[**Lesley’s digital story**](https://gsttcharity-uk.shorthandstories.com/lesley/){: target="_blank" rel="noopener"}
+[**Lindsay’s Story - Video**](https://vimeo.com/284330850?share=copy "Lindsay's Story"){: rel="nofollow"}
 
 *This was the first major campaign for our multiple long-term conditions programme, targeting a mixed audience of local practitioners and national stakeholders. The films ability to strike the right balance of representing a larger picture of multiple long-term conditions whilst honestly capturing people’s personal experiences was vital to us. It was a fantastic outcome – the suite of films we now have are beautifully made and represent the experiences of some of the people we as an organisation are working to help most. We are incredibly grateful to Rosa Productions for their natural storytelling ability and production expertise, but also importantly for their consistent and thoughtful engagement with the film participants throughout the project, going above and beyond to work with each person to develop and co-create individual films and stories.*
 
