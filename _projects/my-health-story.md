@@ -58,7 +58,7 @@ Guy’s and St Thomas’ Charity has a focus on big health challenges that affec
 
 [**Jacqueline’s Story - Video**](https://vimeo.com/284330850?share=copy "Jacqueline's Story"){: rel="nofollow"}
 
-[**Lindsay’s Story - Video**](https://vimeo.com/284330850?share=copy "Lindsay's Story"){: rel="nofollow"}
+[**Lindsay’s Story - Video**](https://vimeo.com/283913788/c49ddfef52?share=copy "Lindsay's Story"){: rel="nofollow"}
 
 *This was the first major campaign for our multiple long-term conditions programme, targeting a mixed audience of local practitioners and national stakeholders. The films ability to strike the right balance of representing a larger picture of multiple long-term conditions whilst honestly capturing people’s personal experiences was vital to us. It was a fantastic outcome – the suite of films we now have are beautifully made and represent the experiences of some of the people we as an organisation are working to help most. We are incredibly grateful to Rosa Productions for their natural storytelling ability and production expertise, but also importantly for their consistent and thoughtful engagement with the film participants throughout the project, going above and beyond to work with each person to develop and co-create individual films and stories.*
 
