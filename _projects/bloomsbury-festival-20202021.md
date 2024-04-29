@@ -17,12 +17,6 @@ video_embed: >-
   height="564" frameborder="0" allow="autoplay; fullscreen"
   allowfullscreen></iframe>
 images:
-  - image_path: /uploads/arunima-kumar-dance-1.jpg
-    description: >-
-      Festival Director for Bloomsbury Festival in London, leading a festival
-      with over 100 events each October, leading on arts and heritage projects
-      for the festival and producing an opening outdoor event, showcase and 3
-      day Discovery Hub
   - image_path: ''
     description: ''
 _options:
