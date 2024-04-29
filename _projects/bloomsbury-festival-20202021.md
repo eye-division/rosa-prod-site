@@ -19,8 +19,10 @@ video_embed: >-
   clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
   referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 images:
-  - image_path: ''
-    description: ''
+  - image_path: /uploads/rosemary-and-mayor-at-dh.jpg
+    description: >-
+      Festival Director Rosemary Richards with the Mayor of Camden Cllr Nazma
+      Rahman
 _options:
   layout:
     hidden: true
