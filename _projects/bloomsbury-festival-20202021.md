@@ -23,6 +23,8 @@ images:
       with over 100 events each October, leading on arts and heritage projects
       for the festival and producing an opening outdoor event, showcase and 3
       day Discovery Hub
+  - image_path: ''
+    description: ''
 _options:
   layout:
     hidden: true
