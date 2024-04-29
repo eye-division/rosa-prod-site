@@ -1,8 +1,8 @@
 ---
-title: Bloomsbury Festival 2020/2021
+title: Bloomsbury Festival 2020/2024
 event: true
 media: false
-highlight: false
+highlight: true
 past: false
 description: Festival Director for the Bloomsbury Festival.
 project_date: 2021-03-21 00:00:00
@@ -29,4 +29,3 @@ _options:
     resize_style: contain
     mime_type: image/jpeg
 ---
-
