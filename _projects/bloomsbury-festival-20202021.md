@@ -33,3 +33,4 @@ _options:
     resize_style: contain
     mime_type: image/jpeg
 ---
+Bloomsbury Festival is an annual celebration of the area’s creativity, presenting an inspiring programme of culture, arts, science, literature, performance, discussion and debate. The programme includes an exciting mix of contemporary arts, music, performance, theatre, science displays, talks, walks and community events.
