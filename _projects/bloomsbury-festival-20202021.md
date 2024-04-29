@@ -10,7 +10,7 @@ description: >-
   arts and heritage projects for the festival and producing an opening outdoor
   event, showcase and 3 day Discovery Hub
 project_date: 2020-03-02 00:00:00
-project_to_date: 2026-12-31 00:00:00
+project_to_date: 2024-12-31 00:00:00
 main_image_path: /uploads/bf2021---rr--fri-cromer-st-welcome-signs-img-3586-2.jpg
 video_embed: >-
   <iframe width="560" height="315"
