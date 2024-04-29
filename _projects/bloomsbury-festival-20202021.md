@@ -13,9 +13,11 @@ project_date: 2020-03-02 00:00:00
 project_to_date: 2026-12-31 00:00:00
 main_image_path: /uploads/bf2021---rr--fri-cromer-st-welcome-signs-img-3586-2.jpg
 video_embed: >-
-  <iframe src="https://player.vimeo.com/video/650371503" width="640"
-  height="564" frameborder="0" allow="autoplay; fullscreen"
-  allowfullscreen></iframe>
+  <iframe width="560" height="315"
+  src="https://www.youtube.com/embed/SktoSzwIASY?si=YmJijuxF7gFJsHkQ"
+  title="YouTube video player" frameborder="0" allow="accelerometer; autoplay;
+  clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+  referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 images:
   - image_path: ''
     description: ''
