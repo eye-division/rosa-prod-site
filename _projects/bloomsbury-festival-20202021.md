@@ -5,7 +5,7 @@ media: false
 highlight: true
 past: false
 description: Festival Director for the Bloomsbury Festival.
-project_date: 2021-03-21 00:00:00
+project_date: 2020-03-02 00:00:00
 project_to_date: 2026-12-31 00:00:00
 main_image_path: /uploads/bf2021---rr--fri-cromer-st-welcome-signs-img-3586-2.jpg
 video_embed: >-
