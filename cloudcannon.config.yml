@@ -1,7 +1,7 @@
 paths:
   uploads: uploads
-  dam_uploads: ''
   static: ''
+  dam_uploads: ''
   dam_static: ''
   collections: ''
   data: _data
@@ -113,4 +113,10 @@ _select_data:
     fb_image_type: image/png
     twitter_image: /assets/logo.png
 data_config: {}
+editor:
+  default_path:
+source_editor:
+  tab_size: 2
+  theme: monokai
+  show_gutter: true
 timezone: Europe/London
