@@ -1,7 +1,7 @@
 ---
 layout: post
 title:
-date:
+date: YYYY-MM-DD
 main_image_path:
 video_embed:
 images:
