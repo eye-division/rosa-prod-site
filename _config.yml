@@ -62,7 +62,7 @@ defaults:
 #     share: true                           # Include in the "Share" section of posts
 social:
   - name: Twitter
-    icon: twitter
+    icon: x-twitter
     username: "@rosierichards"
     url: "https://twitter.com/rosierichards"
     desc: Follow us on Twitter
