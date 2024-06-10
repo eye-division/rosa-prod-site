@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: homepage
 title: Slideshow
 permalink: /slideshow/
 carousels:
@@ -18,23 +18,28 @@ carousels:
     - image: /uploads/ship 069A4546.jpg
 
 ---
-<!-- <h1 class="site-title">{{ site.title }}</h1> -->
 
+<article>
+  <header id="content-header">
+    <section id="page-title">
+      <h1>{{ page.title }}</h1>
+    </section>
+  </header>
+  <section id="content">
+    <section class="post-meta">
+      <div class="post-date">{{ page.date | date: "%B %-d, %Y" }}</div>
+    </section>
 
-{% include carousel.html height="50" unit="%" duration="10" number="1" %}
+    <section class="main-content">
 
-<section class="about-intro editable">
-  <p>Rosa Productions is based in Kendal, Cumbria, with associate producers around the UK. We are a team of creative festival, broadcast, media and arts producers, directors and consultants led by Rosemary Richards.</p>
+      {% include carousel.html height="50" unit="%" duration="10" number="1" %}
 
-  <p><i class="fa-brands fa-x-twitter"></i></p>
+      <section class="about-intro editable">
+        <p>Rosa Productions is based in Kendal, Cumbria, with associate producers around the UK. We are a team of creative festival, broadcast, media and arts producers, directors and consultants led by Rosemary Richards.</p>
+
+        <p><i class="fa-brands fa-x-twitter"></i></p>
+
+        </section>
 
   </section>
-<!--
-<section class="events">
-  <h2><a href="/projects/events/" title="Contemporary Events">Events</a></h2>
-</section>
-
-<section class="media">
-  <h2><a href="/projects/media/" title="Contemporary Media">Media</a></h2>
-</section>
--->
+</article>
