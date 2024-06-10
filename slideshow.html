@@ -1,38 +1,43 @@
 ---
-layout: post
+layout: homepage
 title: Slideshow
 permalink: /slideshow/
 carousels:
   - images:
-      - image: /uploads/Best of 110.jpg
-      - image: /uploads/069A4904.jpg
-      - image: /uploads/Film 2 IMG_4718.JPG
-      - image: /uploads/gravity-fields-2012.jpg
-      - image: /uploads/IMG-20191014-WA0020.jpg
-      - image: /uploads/LC 48445575557_08f5789e46_o.jpg
-      - image: /uploads/miles-at-20.jpg
-      - image: /uploads/mohammed and bishop with smartphones.jpg
-      - image: /uploads/P43A0672.jpg
-      - image: /uploads/pctank16-0556.jpg
-      - image: /uploads/poster-landscape-alice-300dpi.jpg
-      - image: /uploads/ship 069A4546.jpg
+    - image: /uploads/Best of 110.jpg
+    - image: /uploads/069A4904.jpg
+    - image: /uploads/Film 2 IMG_4718.JPG
+    - image: /uploads/gravity-fields-2012.jpg
+    - image: /uploads/IMG-20191014-WA0020.jpg
+    - image: /uploads/LC 48445575557_08f5789e46_o.jpg
+    - image: /uploads/miles-at-20.jpg
+    - image: /uploads/mohammed and bishop with smartphones.jpg
+    - image: /uploads/P43A0672.jpg
+    - image: /uploads/pctank16-0556.jpg
+    - image: /uploads/poster-landscape-alice-300dpi.jpg
+    - image: /uploads/ship 069A4546.jpg
+
 ---
-<!-- <h1 class="site-title">{{ site.title }}</h1> -->
 
+<article>
+  <header id="content-header">
+    <section id="page-title">
+      <h1>{{ page.title }}</h1>
+    </section>
+  </header>
 
-{% include carousel.html height="50" unit="%" duration="10" number="1" %}
+  <section id="content">
 
-<section class="about-intro editable">
-  <p>Rosa Productions is based in Kendal, Cumbria, with associate producers around the UK. We are a team of creative festival, broadcast, media and arts producers, directors and consultants led by Rosemary Richards.</p>
-  <p></p>
-  <p><i class="fa-brands fa-x-twitter"></i></p>
-</section>
-<!--
-<section class="events">
-  <h2><a href="/projects/events/" title="Contemporary Events">Events</a></h2>
-</section>
+    <section class="main-content">
 
-<section class="media">
-  <h2><a href="/projects/media/" title="Contemporary Media">Media</a></h2>
-</section>
--->
+      {% include carousel.html height="50" unit="%" duration="10" number="1" %}
+
+      <section class="about-intro editable">
+        <p>Rosa Productions is based in Kendal, Cumbria, with associate producers around the UK. We are a team of creative festival, broadcast, media and arts producers, directors and consultants led by Rosemary Richards.</p>
+
+        <p><i class="fa-brands fa-x-twitter"></i></p>
+
+        </section>
+
+  </section>
+</article>
