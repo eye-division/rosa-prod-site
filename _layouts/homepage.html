@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+
+  {% include head.html %}
+
+  <body class="front {% if page.classes %} {{ page.classes }}{% endif %}">
+
+    {% include header-home.html %}
+
+    <main role="main">
+        {{ content }}
+    </main>
+
+    {% include footer.html %}
+
+  </body>
+
+</html>

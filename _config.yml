@@ -42,7 +42,7 @@ defaults:
             layout: "project"
 
 # Google analytics
-# ga_tracking_id: "UA-XXXX-1"
+ga_tracking_id: "G-8Z394SHR22"
 
 
 # Social icons and sharing options
