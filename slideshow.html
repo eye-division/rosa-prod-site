@@ -5,32 +5,40 @@ permalink: /slideshow/
 carousels:
   - images:
     - image: /uploads/Best of 110.jpg
+      caption: 'Test caption'
     - image: /uploads/069A4904.jpg
+      caption: 'Test caption'
     - image: /uploads/Film 2 IMG_4718.JPG
+      caption: 'Test caption'
     - image: /uploads/gravity-fields-2012.jpg
+      caption: 'Test caption'
     - image: /uploads/IMG-20191014-WA0020.jpg
+      caption: 'Test caption'
     - image: /uploads/LC 48445575557_08f5789e46_o.jpg
+      caption: 'Test caption'
     - image: /uploads/miles-at-20.jpg
+      caption: 'Test caption'
     - image: /uploads/mohammed and bishop with smartphones.jpg
+      caption: 'Test caption'
     - image: /uploads/P43A0672.jpg
+      caption: 'Test caption'
     - image: /uploads/pctank16-0556.jpg
+      caption: 'Test caption'
     - image: /uploads/poster-landscape-alice-300dpi.jpg
+      caption: 'Test caption'
     - image: /uploads/ship 069A4546.jpg
-
+      caption: 'Test caption'
+duration: "10"
 ---
 
 <article>
-  <header id="content-header">
-    <section id="page-title">
-      <h1>{{ page.title }}</h1>
-    </section>
-  </header>
+
 
   <section id="content">
 
     <section class="main-content">
 
-      {% include carousel.html height="50" unit="%" duration="10" number="1" %}
+      {% include carousel.html height="50" unit="%" duration=page.duration number="1" %}
 
       <section class="about-intro editable">
         <p>Rosa Productions is based in Kendal, Cumbria, with associate producers around the UK. We are a team of creative festival, broadcast, media and arts producers, directors and consultants led by Rosemary Richards.</p>

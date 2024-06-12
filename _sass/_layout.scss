@@ -8,25 +8,31 @@ html, body {
   width: 100%;
 }
 
-/* sticky footer from https://philipwalton.github.io/solved-by-flexbox/demos/sticky-footer/ */
-
-html {
-  height: 100%;
+.app {
+  height: 100vh;
+  /* grid container settings */
+  display: grid;
+  grid-template-columns: 1fr;
+  grid-template-rows: auto 1fr auto;
+  grid-template-areas:
+    'header'
+    'main'
+    'footer';
+}
+.app > header {
+  grid-area: header;
 }
 
-body {
-  height: 100%;
-  @include display(flex);
-  @include flex-direction(column);
+.app > main {
+  grid-area: main;
+  padding: 15px 5px 10px 5px;
+  overflow: auto;
 }
 
-.navigation, .site-footer {
-  @include flex(none);
+.app > footer {
+  grid-area: footer;
 }
 
-main {
-  @include flex(1 0 auto);
-}
 
 ol.default {
   @extend %default-ol;
@@ -68,12 +74,13 @@ blockquote {
 
 
 .navigation {
-  position: fixed;
-  z-index: 100;
-  width: 100%;
+  /*position: fixed;
+
   bottom: 0;
   padding: 0;
-  margin: 0;
+  margin: 0;*/
+  width: 100%;
+  z-index: 100;
   background-color: $background-grey;
   /*
   *	Navigation Menu - http://refills.bourbon.io/unstyled/ (see "Navigation")

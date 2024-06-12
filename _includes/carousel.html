@@ -1,6 +1,7 @@
 {% assign letterstring = "a,b,c,d,e,f,g,h,i,j,k,l,m,n" %}
 {% assign letters = letterstring | split: ',' %}
 {% assign number = include.number | minus: 1 %}
+
 <div class="carousel__holder">
     <div id="carousel{{ number }}" class="carousel">
         {% for item in page.carousels[number].images %}
@@ -27,7 +28,7 @@
         <div class="carousel__track">
           <ul>
             {% for item in page.carousels[number].images %}
-            <li class="carousel__slide" style="background-image: url('{{ item.image }}');"></li>
+            <li class="carousel__slide" style="background-image: url('{{ item.image }}');">{% if item.caption %}<span class="caption">{{ item.caption }} </span>{% endif %}</li>
             {% endfor %}
           </ul>
         </div>
@@ -177,6 +178,18 @@
   background-position: center;
 }
 {% endfor %}
+
+.carousel__slide .caption {
+  position: absolute;
+  top: 10px;
+  padding: 10px;
+  background-color: rgba(10, 10, 10, 0.57);
+  color: white;
+  right: 0;
+  left: 0;
+  width: 100%;
+}
+
 </style>
 
 <script>

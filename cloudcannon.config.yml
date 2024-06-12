@@ -53,6 +53,10 @@ _inputs:
       allow_create: true
       empty_type: array
     cascade: true
+  duration:
+    type: number
+    label: Slide duration
+    comment: Duration in seconds of each slide
 _select_data:
   imagecdn:
     staging: https://ed-rosa-dev.imgix.net
