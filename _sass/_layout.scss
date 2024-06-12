@@ -25,7 +25,7 @@ html, body {
 
 .app > main {
   grid-area: main;
-  padding: 15px 5px 10px 5px;
+  padding: 0 5px 10px 5px;
   overflow: auto;
 }
 
@@ -74,11 +74,7 @@ blockquote {
 
 
 .navigation {
-  /*position: fixed;
 
-  bottom: 0;
-  padding: 0;
-  margin: 0;*/
   width: 100%;
   z-index: 100;
   background-color: $background-grey;
@@ -180,13 +176,6 @@ blockquote {
       }
     }
   }
-}
-
-.navigation-top {
-  top: 0;
-  bottom: inherit;
-  padding: 0;
-  margin: 0;
 }
 
 /*
@@ -393,6 +382,32 @@ main {
   }
 
 
+}
+.highlighted {
+  margin: 1rem 0 2rem;
+}
+
+.media-section {
+  transition: background-color 0.5s ease;
+  @include display(flex);
+  @include flex-wrap(nowrap);
+  @include justify-content(space-between);
+  @include align-items(center);
+  div {
+    color: #333;
+    flex: 1 0 50%;
+  }
+  img {
+    margin: 0;
+  }
+  &:hover {
+    text-decoration: none;
+    color: black;
+    background: #f2f2f2;
+  }
+}
+.media-description {
+  padding: 1em;
 }
 
 /*
@@ -672,38 +687,14 @@ main {
 }
 
 
-.about {
-  /*  @extend .has-cover;
-
-    #content-header {
-      background-image: url("../assets/about-sm.jpg");
-      @include media($tablet) {
-        background-image: url("../assets/about-lg.jpg");
-      }
-    }*/
-
-}
-
-.contact {
-  /*  @extend .has-cover;
-
-    #content-header {
-      background-image: url("../assets/contact-sm.jpg");
-      @include media($tablet) {
-        background-image: url("../assets/contact-lg.jpg");
-      }
-    }*/
-
-}
-
 
 /*
 *	Footer
 */
 .site-footer {
   $link-color: $white;
-  padding: 1em 1em 2em 1em;
-  background-color: $highlight-color;
+  padding: 1em;
+  background-color: $background-grey;
   color: $white;
   a {
     color: $link-color;
@@ -720,8 +711,8 @@ main {
   .wrapper {
     @include outer-container;
   }
-  .footer-heading {
-
+  .footer-menu {
+    margin: 0;
   }
   /*
   *	Site Navigation (left)

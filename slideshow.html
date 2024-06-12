@@ -29,10 +29,11 @@ carousels:
     - image: /uploads/ship 069A4546.jpg
       caption: 'Test caption'
 duration: 10
+event_image:
+media_image:
 ---
 
 <article>
-
 
   <section id="content">
 
@@ -45,7 +46,49 @@ duration: 10
 
         <p><i class="fa-brands fa-x-twitter"></i></p>
 
-        </section>
+    </section>
+
+    <!-- Events -->
+    <section class="highlighted">
+      <a href="/projects/events/" title="Contemporary Events" class="media-section">
+
+        <div class="media-image">
+          {% include img.html src="../assets/events-lg.jpg" alt="Events" width=600 height=400 %}
+        </div>
+
+        <div class="media-description editable">
+          <h3 class="project-header">Events</h3>
+          Rosa Productions produces and manages outstanding festivals,  arts and outdoor events, TV, video, social and web media.
+        </div>
+      </a>
+    </section>
+
+    <section class="highlighted">
+      <a href="/projects/media/" title="Contemporary Media" class="media-section">
+
+        <div class="media-description editable">
+          <h3 class="project-header">Media</h3>
+          We produce video, film, radio and podcast for broadcast, webstreaming, museums, heritage and online content. We are specialists in broadcast, arts, educational, participatory and documentary filming. We also work with the latest technologies to create multi-media events and cover live events with multi-camera mixes for online broadcast.
+        </div>
+        <div class="media-image">
+          {% include img.html src="../assets/media-lg.jpg" alt="Media" width=600 height=400 %}
+        </div>
+
+      </a>
+    </section>
+      <!-- Media -->
+
+    <section>
+      <!-- Stories -->
+
+    </section>
+
+    <section>
+      <!-- About -->
+
+    </section>
 
   </section>
+
+
 </article>
