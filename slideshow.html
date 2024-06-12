@@ -52,7 +52,11 @@ media_image: /uploads/Film 2 IMG_4718.JPG
       <a href="/projects/events/" title="Contemporary Events" class="media-section">
 
         <div class="media-image">
-          {% include img.html src="../assets/events-lg.jpg" alt="Events" width=600 height=400 %}
+          {% if page.event_image %}
+            {% include img.html src=page.event_image alt="Events" width=600 height=400 %}
+          {% else %}
+            {% include img.html src="/siteicon.png" alt="Events" width=600 height=400 %}
+          {% endif %}
         </div>
 
         <div class="media-description editable">
@@ -70,7 +74,11 @@ media_image: /uploads/Film 2 IMG_4718.JPG
           We produce video, film, radio and podcast for broadcast, webstreaming, museums, heritage and online content. We are specialists in broadcast, arts, educational, participatory and documentary filming. We also work with the latest technologies to create multi-media events and cover live events with multi-camera mixes for online broadcast.
         </div>
         <div class="media-image">
-          {% include img.html src="../assets/media-lg.jpg" alt="Media" width=600 height=400 %}
+          {% if page.media_image %}
+            {% include img.html src=page.media_image alt="Media" width=600 height=400 %}
+          {% else %}
+            {% include img.html src="/siteicon.png" alt="Media" width=600 height=400 %}
+          {% endif %}
         </div>
 
       </a>
