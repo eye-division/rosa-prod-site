@@ -114,7 +114,6 @@ blockquote {
     }
   }
   nav {
-    padding-top: 1em;
     @include media ($tablet) {
       line-height: 1.5em;
     }

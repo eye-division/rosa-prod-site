@@ -8,7 +8,7 @@ description: >-
   Currently available on BBC Sounds and originally broadcast in December 2020 on
   BBC Radio 4.
 
-  https://www.bbc.co.uk/sounds/play/m000qjzl 
+  https://www.bbc.co.uk/sounds/play/m000qjzl
 
   Presented by Miles Jupp and Produced by Sara Parker for Rosa Productions and
   BBC Radio 4.
@@ -39,15 +39,6 @@ _options:
   image_path:
     width: 1600
     height: 1600
-<<<<<<< HEAD
-    resize_style: contain
-    mime_type: image/jpeg
-  content:
-    width: 1600
-    height: 1600
-    resize_style: contain
-    mime_type: image/jpeg
-=======
     resize_style: "contain"
     mime_type: "image/jpeg"
   content:
@@ -55,7 +46,6 @@ _options:
     height: 1600
     resize_style: "contain"
     mime_type: "image/jpeg"
->>>>>>> 3d72aa3512cb69478d290bdf956b2b343c006543
 ---
 
 Commissioned by BBC Radio 4.

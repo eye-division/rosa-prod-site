@@ -39,15 +39,6 @@ _options:
   image_path:
     width: 1600
     height: 1600
-<<<<<<< HEAD
-    resize_style: contain
-    mime_type: image/jpeg
-  content:
-    width: 1600
-    height: 1600
-    resize_style: contain
-    mime_type: image/jpeg
-=======
     resize_style: "contain"
     mime_type: "image/jpeg"
   content:
@@ -55,7 +46,6 @@ _options:
     height: 1600
     resize_style: "contain"
     mime_type: "image/jpeg"
->>>>>>> 3d72aa3512cb69478d290bdf956b2b343c006543
 ---
 
 Working with upcoming crews and videographers we capture live event footage and mix with the experience of TV broadcasters used to multi-camera operation.&nbsp; We are constantly experimenting with new technologies to see how we can best capture arts and live events and work with social media publishing to provide live streaming and creative coverage.&nbsp; We are keen to work with new partners to explore the potential of this ever changing and adapting world of technology.

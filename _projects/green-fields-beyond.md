@@ -21,11 +21,7 @@ video_embed: >-
   frameborder="0" webkitallowfullscreen mozallowfullscreen
   allowfullscreen></iframe> <p><a href="https://vimeo.com/174964631">Green Fields
   Beyond</a> from <a href="https://vimeo.com/rosaproductions">Rosa
-<<<<<<< HEAD
   Productions</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
-=======
-  Productions</a> on <a href="https://vimeo.com">Vimeo</a>.</p> 
->>>>>>> 3d72aa3512cb69478d290bdf956b2b343c006543
 
   <iframe src="https://player.vimeo.com/video/174977448" width="640" height="360"
   frameborder="0" webkitallowfullscreen mozallowfullscreen
