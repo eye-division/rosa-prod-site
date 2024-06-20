@@ -13,23 +13,30 @@ html, body {
   /* grid container settings */
   display: grid;
   grid-template-columns: 1fr;
-  grid-template-rows: auto 1fr;
+  grid-template-rows: auto 1fr 100px;
   grid-template-areas:
     'header'
-    'main';
+    'main'
+    'footer';
 }
 .app > header {
   grid-area: header;
+  position: sticky;
+  position: -webkit-sticky;
+  top: 0;
 }
 
 .app > main {
   grid-area: main;
   padding: 0 5px 10px 5px;
-  overflow: auto;
 }
 .front .app > main {
   padding: 0;
 }
+.app > footer {
+  grid-area: footer;
+}
+
 
 ol.default {
   @extend %default-ol;
@@ -74,30 +81,25 @@ blockquote {
 
   width: 100%;
   z-index: 100;
-  background-color: $background-grey;
-  /*
-  *	Navigation Menu - http://refills.bourbon.io/unstyled/ (see "Navigation")
-  */
+  background-color: $light-gray;
+
   // Mobile view
   .navigation-menu-button {
     display: block;
-    float: right;
+    /*float: right;*/
     margin: 0;
     font-size: 1.5em;
     padding-top: 0.5em;
     padding-right: 0.5em;
-    @include media ($tablet) {
-      display: none;
-    }
+
   }
   // Nav menu
   .navigation-wrapper {
-    @include outer-container;
-    @include clearfix;
-    position: relative;
+    display: flex;
+    justify-content: space-between;
   }
+
   .logo {
-    float: left;
     /*height: 4em;*/
     @include media ($tablet) {
       padding-left: $em-base;
@@ -112,10 +114,8 @@ blockquote {
     }
   }
   nav {
-    float: none;
     padding-top: 1em;
     @include media ($tablet) {
-      float: right;
       line-height: 1.5em;
     }
   }
@@ -127,11 +127,7 @@ blockquote {
     padding: 0;
     width: 100%;
     text-align: right;
-    @include media ($tablet) {
-      display: block;
-      margin: 0;
-      padding: 0;
-    }
+
     &.show {
       display: block;
     }
@@ -142,12 +138,7 @@ blockquote {
     text-align: right;
     width: 100%;
     padding: 0.25em;
-    @include media ($tablet) {
-      /*background: transparent;*/
-      display: inline;
-      text-decoration: none;
-      width: auto;
-    }
+
     &.social {
       display: inline;
     }
@@ -156,21 +147,15 @@ blockquote {
       text-transform: uppercase;
       color: $white;
       font-size: 1.5em;
-      @include media ($tablet) {
-        padding-right: 2rem;
-      }
+
     }
     &.social a {
       padding-right: 0.3rem;
-      @include media ($tablet) {
-        padding-right: 0.3rem;
-      }
+
     }
     &:last-child a {
       padding-right: 0;
-      @include media ($tablet) {
-        padding-right: 1rem;
-      }
+
     }
   }
 }
@@ -306,82 +291,22 @@ main {
 * Front page
 */
 
-.front {
-  width: 100%;
-  height: 100%;
+.caption {
+  display: block;
+  text-align: center;
 
-  main {
-    height: 100%;
-    padding-bottom: 3em; // space for nav bar
-    background-image: url("../assets/front-page-blooms-sm.jpg");
-    background-size: cover;
-    background-position: 50% 50%;
-    @include media ($tablet) {
-      background-image: url("../assets/front-page-blooms.jpg");
-    }
-  }
+}
 
-  h1 {
-    display: none;
-  }
+.highlighted {
+  margin: 1rem 0 2rem;
+}
 
-  h2 {
-    position: relative;
-    top: 70%;
-    a {
-      display: block;
-      color: $white;
-      font-size: 2rem;
-      font-weight: bold;
-      padding: 0.1em;
-      background-color: rgba($background-grey, 0.7);
-      border: 1px solid rgba($background-grey, 0.9);
-      font-family: $base-font-family;
-      text-transform: uppercase;
-      text-align: center;
-      line-height: 1.4em;
-    }
-    @include media ($tablet) {
-      top: 45%;
-      a {
-        font-size: 2.4rem;
-        padding: 0.4em 2em;
-      }
-    }
-  }
-
-  .events {
-    height: 50%;
-
-    @include media ($tablet) {
-      float: left;
-      width: 50%;
-      height: 100%;
-      h2 a {
-        float: left;
-        text-align: left;
-      }
-    }
-  }
-
-  .media {
-    height: 50%;
-
-    @include media ($tablet) {
-      float: right;
-      width: 50%;
-      height: 100%;
-      h2 a {
-        float: right;
-        text-align: right;
-      }
-    }
-  }
+.highlighted.media {
 
 
 }
-.highlighted {
-  margin: 1rem 0 2rem;
+.highlighted.events {
+  background: $light-gray;
 }
 
 .media-section {

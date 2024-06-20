@@ -1,0 +1,9 @@
+
+<div class="homepage-slider">
+    {% for item in page.carousels[0].images %}
+        <div>
+        {%  include img.html src=item.image width=1680 height=762 alt=item.caption %}
+            {% if item.caption %}<span class="caption">{{ item.caption }} </span>{% endif %}
+        </div>
+    {% endfor %}
+</div>

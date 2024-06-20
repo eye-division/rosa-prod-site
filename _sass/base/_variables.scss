@@ -23,7 +23,7 @@ $base-z-index: 0;
 // Colors
 $dark-gray: #333;
 $medium-gray: #999;
-$light-gray: #ccc;
+$light-gray: #eaeaea;
 $red-orange: #f0644f;
 $pink: #ed2d7e;
 $background-grey: #373535;
@@ -34,6 +34,7 @@ $base-background-color: #fff;
 $base-font-color: $dark-gray;
 $action-color: $pink;
 $highlight-color: tint($action-color, 33%);
+
 
 // Border
 $base-border-color: $light-gray;
