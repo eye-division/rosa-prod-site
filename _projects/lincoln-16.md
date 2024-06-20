@@ -48,6 +48,10 @@ _options:
     height: 1600
     resize_style: "contain"
     mime_type: "image/jpeg"
+<<<<<<< HEAD
+=======
+
+>>>>>>> 3d72aa3512cb69478d290bdf956b2b343c006543
 ---
 
 

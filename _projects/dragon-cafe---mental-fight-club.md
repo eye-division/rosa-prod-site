@@ -35,6 +35,19 @@ _options:
     height: 1600
     resize_style: contain
     mime_type: image/jpeg
+_options:
+  layout:
+    hidden: true
+  image_path:
+    width: 1600
+    height: 1600
+    resize_style: "contain"
+    mime_type: "image/jpeg"
+  content:
+    width: 1600
+    height: 1600
+    resize_style: "contain"
+    mime_type: "image/jpeg"
 ---
 
 The film is a powerful advocate for the work of Mental Fight Club and its SE London and City of London based project The Dragon Café. It shows the arts activities of the Café, particularly the choir and the singing project and hears from interviews patrons who rely on the activities for their wellbeing.&nbsp;

@@ -41,6 +41,7 @@ _options:
   image_path:
     width: 1600
     height: 1600
+<<<<<<< HEAD
     resize_style: contain
     mime_type: image/jpeg
   content:
@@ -48,6 +49,15 @@ _options:
     height: 1600
     resize_style: contain
     mime_type: image/jpeg
+=======
+    resize_style: "contain"
+    mime_type: "image/jpeg"
+  content:
+    width: 1600
+    height: 1600
+    resize_style: "contain"
+    mime_type: "image/jpeg"
+>>>>>>> 3d72aa3512cb69478d290bdf956b2b343c006543
 ---
 Producer Rosemary Richards worked with artistic director Orit Azaz to produce Birmingham Cathedral’s &nbsp;300th anniversary arts celebrations in 2015 commissioning a multi-faith group of artists to work together to create an outdoor event in Cathedral Square and an installation in the Cathedral. &nbsp;Something Good and Soul Boats involved many communities and faith groups across Birmingham.
 

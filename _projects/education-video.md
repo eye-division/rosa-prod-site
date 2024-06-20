@@ -39,6 +39,7 @@ _options:
   image_path:
     width: 1600
     height: 1600
+<<<<<<< HEAD
     resize_style: contain
     mime_type: image/jpeg
   content:
@@ -46,6 +47,15 @@ _options:
     height: 1600
     resize_style: contain
     mime_type: image/jpeg
+=======
+    resize_style: "contain"
+    mime_type: "image/jpeg"
+  content:
+    width: 1600
+    height: 1600
+    resize_style: "contain"
+    mime_type: "image/jpeg"
+>>>>>>> 3d72aa3512cb69478d290bdf956b2b343c006543
 ---
 
 Working in partnership from 2015 to 2020 with Wiley Education Services on the production of video media for post-graduate courses at the University of Birmingham for MBA, MSc, MPA and LLM courses.
