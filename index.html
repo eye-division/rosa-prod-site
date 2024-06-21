@@ -32,13 +32,12 @@ event_image: /uploads/069A4413.JPG
 media_image: /uploads/Film 2 IMG_4718.JPG
 ---
 
-  <section id="content">
 
-    <div class="main-content">
+    <div class="main-content uk-container-expand">
 
       {% include uk-slider.html %}
 
-      <div class="about-intro editable">
+      <div class="about-intro editable uk-container uk-margin-top uk-margin-bottom">
 
         <p>Rosa Productions is based in Kendal, Cumbria, with associate producers around the UK. We are a team of creative festival, broadcast, media and arts producers, directors and consultants led by Rosemary Richards.</p>
 
@@ -46,10 +45,9 @@ media_image: /uploads/Film 2 IMG_4718.JPG
 
   </div>
 
-</section>
 
 
-  <div class="uk-card uk-card-default uk-grid-collapse uk-child-width-1-2@s uk-margin" uk-grid>
+  <div class="uk-card uk-card-hover uk-card-default uk-grid-collapse uk-child-width-1-2@s uk-margin" uk-grid>
 
     <div class="uk-card-media-left uk-cover-container">
       <img src="/uploads/069A4413.JPG?fit=crop&amp;crop=entropy&amp;w=600&amp;h=400" alt="Events" width="600" height="400" uk-cover>
@@ -67,7 +65,7 @@ media_image: /uploads/Film 2 IMG_4718.JPG
 
   </div>
 
-  <div class="uk-card uk-card-default uk-grid-collapse uk-child-width-1-2@s uk-margin" uk-grid>
+  <div class="uk-card uk-card-hover uk-card-default uk-grid-collapse uk-child-width-1-2@s uk-margin" uk-grid>
     <div class="uk-flex-last@s uk-card-media-right uk-cover-container">
       {% if page.media_image %}
         {% include img.html src=page.media_image alt="Media" width=600 height=400 uk=uk-cover %}

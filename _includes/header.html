@@ -10,7 +10,7 @@
       {% endif %}
     </a>
     <div class="tagline uk-visible@s">
-      <p class="uk-text-center uk-padding uk-text-bold">Creating Festivals, Films and Experiences across the UK</p>
+      <p class="uk-text-center  uk-padding-small uk-margin-remove-bottom uk-text-bold">Creating Festivals, Films and Experiences across the UK</p>
     </div>
     <nav role="navigation">
 
@@ -22,7 +22,7 @@
 
         <div class="uk-offcanvas-bar">
 
-          <ul class="uk-nav uk-nav-primary">
+          <ul class="uk-nav uk-nav-primary uk-margin-top">
 
             {% for link in site.data.nav %}
 
@@ -33,7 +33,7 @@
 
               {% if social.url != null %}
 
-              <li class="nav-link">
+              <li class="nav-link social">
                 <a href="{{ social.url }}" title="{{ social.desc }}" target="_blank">
                   <i class="fa-brands fa-{{ social.icon }}"></i>
                 </a>

@@ -7,19 +7,15 @@
 
   <body class="{% if section[1] %}{{section[1]}}{% else %}front{% endif %}{% if page.main_image_path %} has-cover{% endif %}{% if page.classes %} {{ page.classes }}{% endif %}">
 
-    <div class="app">
+    {% include header.html %}
 
-      {% include header.html %}
+    <main role="main">
 
-      <main role="main">
+        {{ content }}
 
-          {{ content }}
+    </main>
 
-
-
-      </main>
-      {% include footer.html %}
-    </div>
+    {% include footer.html %}
 
     {% include footer-scripts.html %}
 

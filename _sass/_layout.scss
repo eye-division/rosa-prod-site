@@ -103,6 +103,7 @@ blockquote {
   .navigation-wrapper {
     display: flex;
     justify-content: space-between;
+    align-items: center;
   }
 
   .logo {
@@ -134,23 +135,33 @@ blockquote {
       display: block;
     }
   }
+
+  .uk-nav-primary {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: flex-end;
+  }
   // Nav items
   li.nav-link {
     display: block;
     text-align: right;
     width: 100%;
-    padding: 0.25em;
+    padding: 0 0.25em;
 
-    &.social {
-      display: inline;
-    }
+
     a {
       display: inline-block;
       text-transform: uppercase;
       color: $white;
-      &:hover,&:active {
-        color: $rosa;
+      font-size: 1.2em;
+      &:hover,
+      &:active {
+        text-decoration: underline;
       }
+    }
+    &.social {
+      display: inline;
+      flex-basis: 20%;
     }
     &.social a {
       padding-right: 0.3rem;
@@ -333,6 +344,19 @@ main {
 }
 .media-description {
   padding: 1em;
+}
+
+.front {
+
+  main {
+
+    padding-bottom: 1em;
+
+    img {
+      margin: 0;
+    }
+  }
+
 }
 
 /*
