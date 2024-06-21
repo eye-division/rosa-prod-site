@@ -1,5 +1,7 @@
-<header class="navigation" role="banner">
+<header class="navigation" role="banner" uk-sticky="position: top;show-on-up: true;media: 640">
+
   <div class="navigation-wrapper">
+
     <a href="{{ site.baseurl }}/" class="logo">
       {% if site.logo %}
       <img src="{{ site.logo | prepend: site.baseurl }}" alt="{{ site.title }}">
@@ -7,26 +9,50 @@
       <span>{{ site.title }}</span>
       {% endif %}
     </a>
-
+    <div class="tagline uk-visible@s">
+      <p class="uk-text-center uk-padding uk-text-bold">Creating Festivals, Films and Experiences across the UK</p>
+    </div>
     <nav role="navigation">
-      <a href="javascript:void(0)" class="navigation-menu-button" id="js-mobile-menu">
+
+      <a href="javascript:void(0)" class="navigation-menu-button" uk-toggle="target: #mainmenu">
         <i class="fa fa-bars"></i>
       </a>
-      <ul id="js-navigation-menu" class="navigation-menu show">
-        {% for link in site.data.nav %}
-          <li class="nav-link{% if page.url == link.href %} active{% endif %}"><a href="{{ link.href | prepend: site.baseurl }}">{{ link.title }}</a>
-        {% endfor %}
-        {% for social in site.social %}
-          {% if social.url != null %}
-          <li class="nav-link social">
-            <a href="{{ social.url }}" title="{{ social.desc }}" target="_blank">
-              <i class="fa-brands fa-{{ social.icon }}"></i>
-            </a>
-          </li>
-          {% endif %}
-        {% endfor %}
 
-      </ul>
+      <div id="mainmenu" uk-offcanvas="flip: true; overlay: true">
+
+        <div class="uk-offcanvas-bar">
+
+          <ul class="uk-nav uk-nav-primary">
+
+            {% for link in site.data.nav %}
+
+              <li class="nav-link{% if page.url == link.href %} uk-active{% endif %}"><a href="{{ link.href | prepend: site.baseurl }}" class="uk-text-large uk-text-bold">{{ link.title }}</a>
+
+            {% endfor %}
+            {% for social in site.social %}
+
+              {% if social.url != null %}
+
+              <li class="nav-link">
+                <a href="{{ social.url }}" title="{{ social.desc }}" target="_blank">
+                  <i class="fa-brands fa-{{ social.icon }}"></i>
+                </a>
+              </li>
+
+              {% endif %}
+
+            {% endfor %}
+
+          </ul>
+          <button class="uk-offcanvas-close" title="Close" type="button" uk-close class="uk-icon"></button>
+        </div>
+      </div>
+
     </nav>
+
   </div>
+
+
+
+
 </header>

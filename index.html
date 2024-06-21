@@ -34,62 +34,57 @@ media_image: /uploads/Film 2 IMG_4718.JPG
 
   <section id="content">
 
-    <section class="main-content">
+    <div class="main-content">
 
-      {% include slick.html %}
+      {% include uk-slider.html %}
 
+      <div class="about-intro editable">
 
-      <section class="about-intro editable">
         <p>Rosa Productions is based in Kendal, Cumbria, with associate producers around the UK. We are a team of creative festival, broadcast, media and arts producers, directors and consultants led by Rosemary Richards.</p>
 
-        <p><i class="fa-brands fa-x-twitter"></i></p>
+      </div>
 
-    </section>
-
-
-
-  </section>
+  </div>
 
 </section>
 
- <!-- Events -->
- <section class="highlighted events">
-  <a href="/projects/events/" title="Contemporary Events" class="media-section">
 
-    <div class="media-image">
-      {% if page.event_image %}
-        {% include img.html src=page.event_image alt="Events" width=600 height=400 %}
-      {% else %}
-        {% include img.html src="/siteicon.png" alt="Events" width=600 height=400 %}
-      {% endif %}
+  <div class="uk-card uk-card-default uk-grid-collapse uk-child-width-1-2@s uk-margin" uk-grid>
+
+    <div class="uk-card-media-left uk-cover-container">
+      <img src="/uploads/069A4413.JPG?fit=crop&amp;crop=entropy&amp;w=600&amp;h=400" alt="Events" width="600" height="400" uk-cover>
+
+      <canvas width="600" height="400"></canvas>
+    </div>
+    <div>
+        <div class="uk-card-body">
+          <a href="/projects/events/" title="Contemporary Events">
+            <h3 class="uk-card-title">Events</h3>
+            <p>Rosa Productions produces and manages outstanding festivals,  arts and outdoor events, TV, video, social and web media.</p>
+        </a>
+        </div>
     </div>
 
-    <div class="media-description editable">
-      <h3 class="project-header">Events</h3>
-      Rosa Productions produces and manages outstanding festivals,  arts and outdoor events, TV, video, social and web media.
-    </div>
-  </a>
-</section>
+  </div>
 
-<section class="highlighted media">
-  <div class="container">
-
-  <a href="/projects/media/" title="Contemporary Media" class="media-section">
-
-    <div class="media-description editable">
-      <h3 class="project-header">Media</h3>
-      We produce video, film, radio and podcast for broadcast, webstreaming, museums, heritage and online content. We are specialists in broadcast, arts, educational, participatory and documentary filming. We also work with the latest technologies to create multi-media events and cover live events with multi-camera mixes for online broadcast.
-    </div>
-    <div class="media-image">
+  <div class="uk-card uk-card-default uk-grid-collapse uk-child-width-1-2@s uk-margin" uk-grid>
+    <div class="uk-flex-last@s uk-card-media-right uk-cover-container">
       {% if page.media_image %}
-        {% include img.html src=page.media_image alt="Media" width=600 height=400 %}
+        {% include img.html src=page.media_image alt="Media" width=600 height=400 uk=uk-cover %}
       {% else %}
-        {% include img.html src="/siteicon.png" alt="Media" width=600 height=400 %}
+        {% include img.html src="/siteicon.png" alt="Media" width=600 height=400 uk=uk-cover %}
       {% endif %}
-    </div>
-
-  </a>
+      <canvas width="600" height="400"></canvas>
+  </div>
+  <div>
+      <div class="uk-card-body">
+        <h3 class="uk-card-title">Media</h3>
+        <a href="/projects/media/" title="Contemporary Media" class="">
+          <h3 class="uk-card-title">Media Right</h3>
+          <p>We produce video, film, radio and podcast for broadcast, webstreaming, museums, heritage and online content. We are specialists in broadcast, arts, educational, participatory and documentary filming. We also work with the latest technologies to create multi-media events and cover live events with multi-camera mixes for online broadcast.</p>
+          </a>
+  </div>
 </div>
-</section>
-<!-- Media -->
+
+
 

@@ -1,0 +1,28 @@
+<div class="uk-light" uk-slideshow="animation: push;autoplay: true;pause-on-hover: true">
+
+    <div class="uk-slideshow-items">
+
+        {% for item in page.carousels[0].images %}
+            <div>
+                {%  include img.html src=item.image width=1680 height=762 alt=item.caption uk=uk-cover %}
+
+                {% if item.caption %}
+                <div class="uk-overlay uk-overlay-primary uk-position-bottom uk-text-center">
+
+                    {{ item.caption }}
+
+                </div>
+                {% endif %}
+
+            </div>
+        {% endfor %}
+
+    </div>
+
+    <div class="uk-light">
+        <a class="uk-position-center-left uk-position-small uk-hidden-hover" href uk-slidenav-previous uk-slideshow-item="previous"></a>
+
+        <a class="uk-position-center-right uk-position-small uk-hidden-hover" href uk-slidenav-next uk-slideshow-item="next"></a>
+    </div>
+
+</div>

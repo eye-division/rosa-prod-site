@@ -7,10 +7,11 @@ html, body {
   padding: 0;
   width: 100%;
 }
-
+/* grid container settings */
+/*
 .app {
   height: 100vh;
-  /* grid container settings */
+
   display: grid;
   grid-template-columns: 1fr;
   grid-template-rows: auto 1fr 100px;
@@ -36,6 +37,7 @@ html, body {
 .app > footer {
   grid-area: footer;
 }
+*/
 
 
 ol.default {
@@ -86,11 +88,15 @@ blockquote {
   // Mobile view
   .navigation-menu-button {
     display: block;
+    color: $rosa;
     /*float: right;*/
     margin: 0;
     font-size: 1.5em;
     padding-top: 0.5em;
     padding-right: 0.5em;
+    &:hover, &:visited {
+      color: $rosa;
+    }
 
   }
   // Nav menu
@@ -101,13 +107,10 @@ blockquote {
 
   .logo {
     /*height: 4em;*/
+    margin: 10px;
     @include media ($tablet) {
       padding-left: $em-base;
-    }
-    img {
-      max-height: 2.75em;
-      margin-top: 0.25em;
-      padding-right: 1em;
+
     }
     span {
       font-size: 1.25em;
@@ -145,8 +148,9 @@ blockquote {
       display: inline-block;
       text-transform: uppercase;
       color: $white;
-      font-size: 1.5em;
-
+      &:hover,&:active {
+        color: $rosa;
+      }
     }
     &.social a {
       padding-right: 0.3rem;
@@ -613,16 +617,16 @@ main {
 *	Footer
 */
 .site-footer {
-  $link-color: $white;
+  //$link-color: $white;
   padding: 1em;
-  background-color: $background-grey;
-  color: $white;
+  background-color: $light-gray;
+  //color: $white;
   a {
-    color: $link-color;
+    //color: $link-color;
     &:active,
       &:focus,
       &:hover {
-      color: darken($link-color, 10%);
+      //color: darken($link-color, 10%);
     }
     &:active,
       &:focus {
