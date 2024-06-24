@@ -50,7 +50,12 @@ media_image: /uploads/Film 2 IMG_4718.JPG
   <div class="uk-card uk-card-hover uk-card-default uk-grid-collapse uk-child-width-1-2@s uk-margin" uk-grid>
 
     <div class="uk-card-media-left uk-cover-container">
-      <img src="/uploads/069A4413.JPG?fit=crop&amp;crop=entropy&amp;w=600&amp;h=400" alt="Events" width="600" height="400" uk-cover>
+
+      {% if page.event_image %}
+        {% include img-cover.html src=page.event_image alt="Events" width=600 height=400 %}
+      {% else %}
+        {% include img.html src="/siteicon.png" alt="Events" width=600 height=400 %}
+      {% endif %}
 
       <canvas width="600" height="400"></canvas>
     </div>
@@ -68,7 +73,7 @@ media_image: /uploads/Film 2 IMG_4718.JPG
   <div class="uk-card uk-card-hover uk-card-default uk-grid-collapse uk-child-width-1-2@s uk-margin" uk-grid>
     <div class="uk-flex-last@s uk-card-media-right uk-cover-container">
       {% if page.media_image %}
-        {% include img.html src=page.media_image alt="Media" width=600 height=400 uk=uk-cover %}
+        {% include img-cover.html src=page.media_image alt="Media" width=600 height=400 uk=uk-cover %}
       {% else %}
         {% include img.html src="/siteicon.png" alt="Media" width=600 height=400 uk=uk-cover %}
       {% endif %}
