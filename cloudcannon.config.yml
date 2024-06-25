@@ -54,9 +54,16 @@ _inputs:
       empty_type: array
     cascade: true
   duration:
-    type: number
+    type: range
+    options:
+      step: 1000
+      max: 20000
+      min: 6000
+    empty_type: null
     label: Slide duration
-    comment: Duration in seconds of each slide
+    comment: Duration in microseconds of each slide
+  footer_copy:
+    type: html
 _select_data:
   imagecdn:
     staging: https://ed-rosa-dev.imgix.net
