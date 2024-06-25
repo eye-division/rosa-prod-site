@@ -2,7 +2,7 @@
 
     <div class="uk-slideshow-items">
 
-        {% for item in page.carousels[0].images %}
+        {% for item in page.carousel %}
             <div>
                 {%  include img-cover.html src=item.image width=1680 height=762 alt=item.caption %}
 
