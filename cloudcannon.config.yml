@@ -62,8 +62,19 @@ _inputs:
     empty_type: null
     label: Slide duration
     comment: Duration in microseconds of each slide
+  transition:
+    type: choice
+    options:
+      values:
+        - slide
+        - fade
+        - scale
+        - pull
+        - push
   footer_copy:
     type: html
+  tagline:
+    type: text
 _select_data:
   imagecdn:
     staging: https://ed-rosa-dev.imgix.net

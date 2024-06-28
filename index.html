@@ -25,12 +25,13 @@ carousel:
   - image: /uploads/ship 069A4546.jpg
     caption: Slide 11
 duration: 10000
+transition: push
 event_image: /uploads/069A4413.JPG
 media_image: /uploads/Film 2 IMG_4718.JPG
 ---
 <div class="main-content uk-container-expand">
 
-      {% include uk-slider.html duration=page.duration %}
+      {% include uk-slider.html duration=page.duration transition=page.transition %}
 
       <div class="about-intro editable uk-container uk-margin-top uk-margin-bottom">
 

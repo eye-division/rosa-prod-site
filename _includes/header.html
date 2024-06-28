@@ -9,9 +9,18 @@
       <span>{{ site.title }}</span>
       {% endif %}
     </a>
+
     <div class="tagline uk-visible@s">
-      <p class="uk-text-center  uk-padding-small uk-margin-remove-bottom uk-text-bold">Creating Festivals, Films and Experiences across the UK</p>
+
+        {% if site.data.tagline.tagline %}
+
+          <p class="uk-text-center  uk-padding-small uk-margin-remove-bottom uk-text-bold">
+            {{ site.data.tagline.tagline }}
+          </p>
+
+        {% endif %}
     </div>
+
     <nav role="navigation">
 
       <a href="javascript:void(0)" class="navigation-menu-button" uk-toggle="target: #mainmenu">
