@@ -313,11 +313,11 @@ main {
   main {
     height: 100%;
     padding-bottom: 3em; // space for nav bar
-    background-image: url("../assets/front-page-blooms-sm.jpg");
+    background-image: url("../assets/front-page-morecombe-sm.jpg");
     background-size: cover;
     background-position: 50% 50%;
     @include media ($tablet) {
-      background-image: url("../assets/front-page-blooms.jpg");
+      background-image: url("../assets/front-page-morecombe.jpg");
     }
   }
 
