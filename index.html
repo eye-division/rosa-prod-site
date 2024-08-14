@@ -44,22 +44,22 @@ media_image: /uploads/Film 2 IMG_4718.JPG
   <div class="uk-card uk-card-hover uk-card-default uk-grid-collapse uk-child-width-1-2@s uk-margin" uk-grid>
 
     <div class="uk-card-media-left uk-cover-container">
-
+      <a href="/projects/events/" title="Contemporary Events" class="uk-link-reset">
       {% if page.event_image %}
         {% include img-cover.html src=page.event_image alt="Events" width=600 height=400 %}
       {% else %}
         {% include img.html src="/siteicon.png" alt="Events" width=600 height=400 %}
       {% endif %}
-
+      </a>
       <canvas width="600" height="400"></canvas>
     </div>
     <div>
         <div class="uk-card-body">
-          <a href="/projects/events/" title="Contemporary Events" class="uk-link-reset">
+
             <h3 class="uk-card-title">Events</h3>
             <div class="editable"><p>Rosa Productions produces and manages outstanding festivals,  arts and outdoor events, TV, video, social and web media.</p></div>
-            <span class="uk-button uk-button-primary uk-button-large">Read more <i class="fa-solid fa-ellipsis"></i></span>
-        </a>
+            <a href="/projects/events/" title="Contemporary Events" class="uk-link-reset"><span class="uk-button uk-button-primary uk-button-large">Read more <i class="fa-solid fa-ellipsis"></i></span></a>
+
         </div>
     </div>
 
@@ -67,20 +67,22 @@ media_image: /uploads/Film 2 IMG_4718.JPG
 
   <div class="uk-card uk-card-hover uk-card-default uk-grid-collapse uk-child-width-1-2@s uk-margin" uk-grid>
     <div class="uk-flex-last@s uk-card-media-right uk-cover-container">
-      {% if page.media_image %}
+      <a href="/projects/media/" title="Contemporary Media" class="uk-link-reset">
+        {% if page.media_image %}
         {% include img-cover.html src=page.media_image alt="Media" width=600 height=400 uk=uk-cover %}
       {% else %}
         {% include img.html src="/siteicon.png" alt="Media" width=600 height=400 uk=uk-cover %}
       {% endif %}
+      </a>
       <canvas width="600" height="400"></canvas>
   </div>
   <div>
       <div class="uk-card-body">
-        <a href="/projects/media/" title="Contemporary Media" class="uk-link-reset">
+
           <h3 class="uk-card-title">Media</h3>
           <div class="editable"><p>We produce video, film, radio and podcast for broadcast, webstreaming, museums, heritage and online content. We are specialists in broadcast, arts, educational, participatory and documentary filming. We also work with the latest technologies to create multi-media events and cover live events with multi-camera mixes for online broadcast.</p></div>
-          <span class="uk-button uk-button-primary uk-button-large">Read more <i class="fa-solid fa-ellipsis"></i></span>
-          </a>
+          <a href="/projects/media/" title="Contemporary Media" class="uk-link-reset"><span class="uk-button uk-button-primary uk-button-large">Read more <i class="fa-solid fa-ellipsis"></i></span></a>
+
   </div>
 </div>
 
